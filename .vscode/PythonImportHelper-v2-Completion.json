@@ -1,0 +1,2241 @@
+[
+    {
+        "label": "bs4",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bs4",
+        "description": "bs4",
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "keyword",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyword",
+        "description": "keyword",
+        "detail": "keyword",
+        "documentation": {}
+    },
+    {
+        "label": "WordCloud",
+        "importPath": "wordcloud",
+        "description": "wordcloud",
+        "isExtraImport": true,
+        "detail": "wordcloud",
+        "documentation": {}
+    },
+    {
+        "label": "WordCloud",
+        "importPath": "wordcloud",
+        "description": "wordcloud",
+        "isExtraImport": true,
+        "detail": "wordcloud",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "AdbCmd",
+        "importPath": "adb.AdbShell",
+        "description": "adb.AdbShell",
+        "isExtraImport": true,
+        "detail": "adb.AdbShell",
+        "documentation": {}
+    },
+    {
+        "label": "tool.JsonTool",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tool.JsonTool",
+        "description": "tool.JsonTool",
+        "detail": "tool.JsonTool",
+        "documentation": {}
+    },
+    {
+        "label": "BaseVideoEntity",
+        "importPath": "resource.BaseVideo",
+        "description": "resource.BaseVideo",
+        "isExtraImport": true,
+        "detail": "resource.BaseVideo",
+        "documentation": {}
+    },
+    {
+        "label": "BaseVideoEntity",
+        "importPath": "resource.BaseVideo",
+        "description": "resource.BaseVideo",
+        "isExtraImport": true,
+        "detail": "resource.BaseVideo",
+        "documentation": {}
+    },
+    {
+        "label": "urllib3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib3",
+        "description": "urllib3",
+        "detail": "urllib3",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "tool",
+        "description": "tool",
+        "isExtraImport": true,
+        "detail": "tool",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "mitmproxy",
+        "description": "mitmproxy",
+        "isExtraImport": true,
+        "detail": "mitmproxy",
+        "documentation": {}
+    },
+    {
+        "label": "Douyin",
+        "importPath": "resource.douyin_config",
+        "description": "resource.douyin_config",
+        "isExtraImport": true,
+        "detail": "resource.douyin_config",
+        "documentation": {}
+    },
+    {
+        "label": "jsonpath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jsonpath",
+        "description": "jsonpath",
+        "detail": "jsonpath",
+        "documentation": {}
+    },
+    {
+        "label": "colorama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorama",
+        "description": "colorama",
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "ffmpeg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ffmpeg",
+        "description": "ffmpeg",
+        "detail": "ffmpeg",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "reload",
+        "importPath": "imp",
+        "description": "imp",
+        "isExtraImport": true,
+        "detail": "imp",
+        "documentation": {}
+    },
+    {
+        "label": "reload",
+        "importPath": "imp",
+        "description": "imp",
+        "isExtraImport": true,
+        "detail": "imp",
+        "documentation": {}
+    },
+    {
+        "label": "reload",
+        "importPath": "imp",
+        "description": "imp",
+        "isExtraImport": true,
+        "detail": "imp",
+        "documentation": {}
+    },
+    {
+        "label": "EdgeOptions",
+        "importPath": "msedge.selenium_tools",
+        "description": "msedge.selenium_tools",
+        "isExtraImport": true,
+        "detail": "msedge.selenium_tools",
+        "documentation": {}
+    },
+    {
+        "label": "Edge",
+        "importPath": "msedge.selenium_tools",
+        "description": "msedge.selenium_tools",
+        "isExtraImport": true,
+        "detail": "msedge.selenium_tools",
+        "documentation": {}
+    },
+    {
+        "label": "EdpgeOptions",
+        "importPath": "msedge.selenium_tools",
+        "description": "msedge.selenium_tools",
+        "isExtraImport": true,
+        "detail": "msedge.selenium_tools",
+        "documentation": {}
+    },
+    {
+        "label": "Edge",
+        "importPath": "msedge.selenium_tools",
+        "description": "msedge.selenium_tools",
+        "isExtraImport": true,
+        "detail": "msedge.selenium_tools",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyTable",
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "isExtraImport": true,
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyTable",
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "isExtraImport": true,
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "UserAgent",
+        "importPath": "fake_useragent",
+        "description": "fake_useragent",
+        "isExtraImport": true,
+        "detail": "fake_useragent",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas.core.frame",
+        "description": "pandas.core.frame",
+        "isExtraImport": true,
+        "detail": "pandas.core.frame",
+        "documentation": {}
+    },
+    {
+        "label": "itchat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itchat",
+        "description": "itchat",
+        "detail": "itchat",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "UnicodeDammit",
+        "importPath": "bs4.dammit",
+        "description": "bs4.dammit",
+        "isExtraImport": true,
+        "detail": "bs4.dammit",
+        "documentation": {}
+    },
+    {
+        "label": "SIGTTOU",
+        "importPath": "signal",
+        "description": "signal",
+        "isExtraImport": true,
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "soupsieve",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "soupsieve",
+        "description": "soupsieve",
+        "detail": "soupsieve",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymysql",
+        "description": "pymysql",
+        "detail": "pymysql",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Pool",
+        "importPath": "multiprocessing.dummy",
+        "description": "multiprocessing.dummy",
+        "isExtraImport": true,
+        "detail": "multiprocessing.dummy",
+        "documentation": {}
+    },
+    {
+        "label": "get_info",
+        "kind": 2,
+        "importPath": "10博客园爬虫.博园客爬虫",
+        "description": "10博客园爬虫.博园客爬虫",
+        "peekOfCode": "def get_info(page_start, page_end):\n    if page_start > 0:\n        pass\n    else:\n        print(\"输入的页码不正确\")\n        exit(0)\n    data = []\n    all_data = []  # 字典   \n    for i in range(page_start, page_end + 1):  # 循环页数\n        url = basic_url.format(str(i))  # 补全url",
+        "detail": "10博客园爬虫.博园客爬虫",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博园客爬虫",
+        "description": "10博客园爬虫.博园客爬虫",
+        "peekOfCode": "headers = {\n    \"content-type\": \"application/json; charset=UTF-8\",\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36\",\n    \"cookie\": \"__gads=ID=85ea91454ff7ae2a:T=1661687799:S=ALNI_MZ65JoXR05zq1W3T-VaRRv2ZNt33A; _clck=t1351q|1|f8y|0; _ga_3Q0DVSGN10=GS1.1.1676447541.2.1.1676447564.37.0.0; _ga=GA1.2.486211484.1655131579; Hm_lvt_32247700466dcd5fcde2763a97d5c0e3=1677086777; .AspNetCore.Antiforgery.b8-pDmTq1XM=CfDJ8M-opqJn5c1MsCC_BxLIULkEBrkZ-GWjgWHK5gU5qbIsF9CDZy_nOH99Yu6wo8tEhqf9tv0LNVm8fYeICfVCCGiWo1CKZjR7MB9CpLob-dH7B2CTPDt_ooNNCQh5SvN9kMM9RtxDVPxMEArFsY7kRW4; cto_bundle=T37qz19aJTJCdEJkWHolMkZ6cEZXQXNPbnNKaE5Vdmp6U080OVZCeG9HZGJ5a01kT3dCZk5xTTMlMkJvQlhqNUhWU1VlT1cxJTJCQ3cxeDZJV2t0WWdwS2twWkVEbWpDN0c0UUZGcWR5UVR1UFRGODElMkZPUkhObkFlZlNZazZ5c1BHTUolMkJOcTFkb1JlMm1pc0xFeG5OaU9uZjhIQyUyQnElMkI5U0RnJTNEJTNE; Hm_lvt_866c9be12d4a814454792b1fd0fed295=1680092546; _gid=GA1.2.1407189783.1681206623; _gat_gtag_UA_476124_1=1; __gpi=UID=0000092d001786a0:T=1661687799:RT=1681206624:S=ALNI_MZPIJqiVbfHw8A7v5uOjGsLCfq4fA; Hm_lpvt_866c9be12d4a814454792b1fd0fed295=1681206665\",\n}\nbasic_url = \"https://www.cnblogs.com/#p{}\"\n'''\n    :param page_start: 页码\n    :param page_end: 页码\n    :return:",
+        "detail": "10博客园爬虫.博园客爬虫",
+        "documentation": {}
+    },
+    {
+        "label": "basic_url",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博园客爬虫",
+        "description": "10博客园爬虫.博园客爬虫",
+        "peekOfCode": "basic_url = \"https://www.cnblogs.com/#p{}\"\n'''\n    :param page_start: 页码\n    :param page_end: 页码\n    :return:\n'''\ndef get_info(page_start, page_end):\n    if page_start > 0:\n        pass\n    else:",
+        "detail": "10博客园爬虫.博园客爬虫",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "url = 'https://www.cnblogs.com/AggSite/AggSitePostList'\ndata = {\n    \"CategoryType\": \"SiteHome\",\n    \"ParentCategoryId\": 0,\n    \"CategoryId\": 808,\n    \"PageIndex\": 5,\n    \"TotalPostCount\": 4000,\n    \"ItemListActionName\": \"AggSitePostList\"\n}\nheaders = {",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "data = {\n    \"CategoryType\": \"SiteHome\",\n    \"ParentCategoryId\": 0,\n    \"CategoryId\": 808,\n    \"PageIndex\": 5,\n    \"TotalPostCount\": 4000,\n    \"ItemListActionName\": \"AggSitePostList\"\n}\nheaders = {\n    \"content-type\": \"application/json; charset=UTF-8\",",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "headers = {\n    \"content-type\": \"application/json; charset=UTF-8\",\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36\",\n    \"cookie\": \"__gads=ID=85ea91454ff7ae2a:T=1661687799:S=ALNI_MZ65JoXR05zq1W3T-VaRRv2ZNt33A; _clck=t1351q|1|f8y|0; _ga_3Q0DVSGN10=GS1.1.1676447541.2.1.1676447564.37.0.0; _ga=GA1.2.486211484.1655131579; Hm_lvt_32247700466dcd5fcde2763a97d5c0e3=1677086777; .AspNetCore.Antiforgery.b8-pDmTq1XM=CfDJ8M-opqJn5c1MsCC_BxLIULkEBrkZ-GWjgWHK5gU5qbIsF9CDZy_nOH99Yu6wo8tEhqf9tv0LNVm8fYeICfVCCGiWo1CKZjR7MB9CpLob-dH7B2CTPDt_ooNNCQh5SvN9kMM9RtxDVPxMEArFsY7kRW4; cto_bundle=T37qz19aJTJCdEJkWHolMkZ6cEZXQXNPbnNKaE5Vdmp6U080OVZCeG9HZGJ5a01kT3dCZk5xTTMlMkJvQlhqNUhWU1VlT1cxJTJCQ3cxeDZJV2t0WWdwS2twWkVEbWpDN0c0UUZGcWR5UVR1UFRGODElMkZPUkhObkFlZlNZazZ5c1BHTUolMkJOcTFkb1JlMm1pc0xFeG5OaU9uZjhIQyUyQnElMkI5U0RnJTNEJTNE; Hm_lvt_866c9be12d4a814454792b1fd0fed295=1680092546; _gid=GA1.2.1407189783.1681206623; _gat_gtag_UA_476124_1=1; __gpi=UID=0000092d001786a0:T=1661687799:RT=1681206624:S=ALNI_MZPIJqiVbfHw8A7v5uOjGsLCfq4fA; Hm_lpvt_866c9be12d4a814454792b1fd0fed295=1681206665\",\n}\n# 使用request请求\nimport requests\nimport json\nres = requests.get(url, json.dumps(data), headers=headers)\nurl_stat = res.status_code  # 请求状态",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "res = requests.get(url, json.dumps(data), headers=headers)\nurl_stat = res.status_code  # 请求状态\ncontent = res.text  # 内容\nprint(url_stat)\nprint(content)",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "url_stat",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "url_stat = res.status_code  # 请求状态\ncontent = res.text  # 内容\nprint(url_stat)\nprint(content)",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 5,
+        "importPath": "10博客园爬虫.博客园爬虫(无效)",
+        "description": "10博客园爬虫.博客园爬虫(无效)",
+        "peekOfCode": "content = res.text  # 内容\nprint(url_stat)\nprint(content)",
+        "detail": "10博客园爬虫.博客园爬虫(无效)",
+        "documentation": {}
+    },
+    {
+        "label": "get_info",
+        "kind": 2,
+        "importPath": "10博客园爬虫.测试get_info()方法",
+        "description": "10博客园爬虫.测试get_info()方法",
+        "peekOfCode": "def get_info(url, page_end):\n    for i in range(1, page_end+1):  # 循环页数\n        url = url.format(i + 1)  # 补全url\n        print(url)\n        response = requests.get(url=url, headers=headers)\n        content = response.text\n        html = content\n        soup = bs4.BeautifulSoup(html, 'lxml')\n        for num in range(1, 20):\n            article = soup.select(\"article[class='post-item']\")[num]",
+        "detail": "10博客园爬虫.测试get_info()方法",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "10博客园爬虫.测试get_info()方法",
+        "description": "10博客园爬虫.测试get_info()方法",
+        "peekOfCode": "headers = {\n    \"content-type\": \"application/json; charset=UTF-8\",\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36\",\n    \"cookie\": \"__gads=ID=85ea91454ff7ae2a:T=1661687799:S=ALNI_MZ65JoXR05zq1W3T-VaRRv2ZNt33A; _clck=t1351q|1|f8y|0; _ga_3Q0DVSGN10=GS1.1.1676447541.2.1.1676447564.37.0.0; _ga=GA1.2.486211484.1655131579; Hm_lvt_32247700466dcd5fcde2763a97d5c0e3=1677086777; .AspNetCore.Antiforgery.b8-pDmTq1XM=CfDJ8M-opqJn5c1MsCC_BxLIULkEBrkZ-GWjgWHK5gU5qbIsF9CDZy_nOH99Yu6wo8tEhqf9tv0LNVm8fYeICfVCCGiWo1CKZjR7MB9CpLob-dH7B2CTPDt_ooNNCQh5SvN9kMM9RtxDVPxMEArFsY7kRW4; cto_bundle=T37qz19aJTJCdEJkWHolMkZ6cEZXQXNPbnNKaE5Vdmp6U080OVZCeG9HZGJ5a01kT3dCZk5xTTMlMkJvQlhqNUhWU1VlT1cxJTJCQ3cxeDZJV2t0WWdwS2twWkVEbWpDN0c0UUZGcWR5UVR1UFRGODElMkZPUkhObkFlZlNZazZ5c1BHTUolMkJOcTFkb1JlMm1pc0xFeG5OaU9uZjhIQyUyQnElMkI5U0RnJTNEJTNE; Hm_lvt_866c9be12d4a814454792b1fd0fed295=1680092546; _gid=GA1.2.1407189783.1681206623; _gat_gtag_UA_476124_1=1; __gpi=UID=0000092d001786a0:T=1661687799:RT=1681206624:S=ALNI_MZPIJqiVbfHw8A7v5uOjGsLCfq4fA; Hm_lpvt_866c9be12d4a814454792b1fd0fed295=1681206665\",\n}\ndef get_info(url, page_end):\n    for i in range(1, page_end+1):  # 循环页数\n        url = url.format(i + 1)  # 补全url\n        print(url)\n        response = requests.get(url=url, headers=headers)",
+        "detail": "10博客园爬虫.测试get_info()方法",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "url = \"https://api.bilibili.com/x/v2/dm/web/history/seg.so?type=1&oid=1097737868&date=2023-04-23\"\nheaders = {\n    'accept': 'application/json, text/plain, */*',\n    'accept-encoding': 'gzip, deflate, br',\n    'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',\n    \"cookie\": \"buvid3=0AAC01A8-3B72-9EC0-5FE5-8EF31FC5B8EF04084infoc; b_nut=1677643404; CURRENT_FNVAL=4048; _uuid=47DCA8AA-4DC5-8616-B5AD-B81A62F2F59301715infoc; buvid4=997B36F3-736D-07F2-ECE8-9ABE682DE17484923-022032422-x4m6iybJgymEoDfZzX0SsA%3D%3D; rpdid=|(u)mYY)JkY|0J'uY~~YRJR|Y; i-wanna-go-back=-1; header_theme_version=CLOSE; nostalgia_conf=-1; buvid_fp_plain=undefined; LIVE_BUVID=AUTO3016778995947989; i-wanna-go-feeds=2; CURRENT_QUALITY=64; CURRENT_PID=54e74a00-cec0-11ed-85e8-a99369173808; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; b_ut=5; FEED_LIVE_VERSION=V8; SESSDATA=f05f091d%2C1696864838%2C55f14%2A41; bili_jct=f4b42dfae88858e692ae8331777aab4f; sid=65e0t1ji; PVID=2; home_feed_column=5; browser_resolution=1403-824; innersign=1; b_lsid=2AAB7E78_187AEE2C774; fingerprint=8dbf2645293d180dbaaf2603b7579159; buvid_fp=755c74b02ff3a96fb9b68ab66148c68c; bp_video_offset_446423825=787821947188674600\",\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58\",\n}\nresponse = requests.get(url=url, headers=headers)\nresponse.encoding = response.apparent_encoding",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "headers = {\n    'accept': 'application/json, text/plain, */*',\n    'accept-encoding': 'gzip, deflate, br',\n    'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',\n    \"cookie\": \"buvid3=0AAC01A8-3B72-9EC0-5FE5-8EF31FC5B8EF04084infoc; b_nut=1677643404; CURRENT_FNVAL=4048; _uuid=47DCA8AA-4DC5-8616-B5AD-B81A62F2F59301715infoc; buvid4=997B36F3-736D-07F2-ECE8-9ABE682DE17484923-022032422-x4m6iybJgymEoDfZzX0SsA%3D%3D; rpdid=|(u)mYY)JkY|0J'uY~~YRJR|Y; i-wanna-go-back=-1; header_theme_version=CLOSE; nostalgia_conf=-1; buvid_fp_plain=undefined; LIVE_BUVID=AUTO3016778995947989; i-wanna-go-feeds=2; CURRENT_QUALITY=64; CURRENT_PID=54e74a00-cec0-11ed-85e8-a99369173808; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; b_ut=5; FEED_LIVE_VERSION=V8; SESSDATA=f05f091d%2C1696864838%2C55f14%2A41; bili_jct=f4b42dfae88858e692ae8331777aab4f; sid=65e0t1ji; PVID=2; home_feed_column=5; browser_resolution=1403-824; innersign=1; b_lsid=2AAB7E78_187AEE2C774; fingerprint=8dbf2645293d180dbaaf2603b7579159; buvid_fp=755c74b02ff3a96fb9b68ab66148c68c; bp_video_offset_446423825=787821947188674600\",\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58\",\n}\nresponse = requests.get(url=url, headers=headers)\nresponse.encoding = response.apparent_encoding\ncontent = response.text",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "response = requests.get(url=url, headers=headers)\nresponse.encoding = response.apparent_encoding\ncontent = response.text\ntxt = re.findall(':(.*?)@', content, re.S)  # 贪婪匹配\narr = []\nfor i in range(0, len(txt) - 1):\n    # arr = re.findall('[\\u4e00-\\u9fa5]', txt[i])\n    res1 = str(''.join(re.findall('[\\u4e00-\\u9fa5]', txt[i])))\n    # \\u4e00-\\u9fa5 是匹配中文字符串 : 教程1:https://blog.csdn.net/a786150017/article/details/86004004\n    arr.append(res1)",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "response.encoding",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "response.encoding = response.apparent_encoding\ncontent = response.text\ntxt = re.findall(':(.*?)@', content, re.S)  # 贪婪匹配\narr = []\nfor i in range(0, len(txt) - 1):\n    # arr = re.findall('[\\u4e00-\\u9fa5]', txt[i])\n    res1 = str(''.join(re.findall('[\\u4e00-\\u9fa5]', txt[i])))\n    # \\u4e00-\\u9fa5 是匹配中文字符串 : 教程1:https://blog.csdn.net/a786150017/article/details/86004004\n    arr.append(res1)\n# 词频设置(固定模板)",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "content = response.text\ntxt = re.findall(':(.*?)@', content, re.S)  # 贪婪匹配\narr = []\nfor i in range(0, len(txt) - 1):\n    # arr = re.findall('[\\u4e00-\\u9fa5]', txt[i])\n    res1 = str(''.join(re.findall('[\\u4e00-\\u9fa5]', txt[i])))\n    # \\u4e00-\\u9fa5 是匹配中文字符串 : 教程1:https://blog.csdn.net/a786150017/article/details/86004004\n    arr.append(res1)\n# 词频设置(固定模板)\n# 教程范例:https://blog.csdn.net/as604049322/article/details/112486090",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "txt = re.findall(':(.*?)@', content, re.S)  # 贪婪匹配\narr = []\nfor i in range(0, len(txt) - 1):\n    # arr = re.findall('[\\u4e00-\\u9fa5]', txt[i])\n    res1 = str(''.join(re.findall('[\\u4e00-\\u9fa5]', txt[i])))\n    # \\u4e00-\\u9fa5 是匹配中文字符串 : 教程1:https://blog.csdn.net/a786150017/article/details/86004004\n    arr.append(res1)\n# 词频设置(固定模板)\n# 教程范例:https://blog.csdn.net/as604049322/article/details/112486090\nwith open(\"停用的词.txt\", encoding=\"utf-8-sig\") as f:",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "arr = []\nfor i in range(0, len(txt) - 1):\n    # arr = re.findall('[\\u4e00-\\u9fa5]', txt[i])\n    res1 = str(''.join(re.findall('[\\u4e00-\\u9fa5]', txt[i])))\n    # \\u4e00-\\u9fa5 是匹配中文字符串 : 教程1:https://blog.csdn.net/a786150017/article/details/86004004\n    arr.append(res1)\n# 词频设置(固定模板)\n# 教程范例:https://blog.csdn.net/as604049322/article/details/112486090\nwith open(\"停用的词.txt\", encoding=\"utf-8-sig\") as f:\n    stop_words = f.read().split()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "stop_words",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "stop_words = set(stop_words)\nall_words = [word for word in arr if len(word) > 1 and word not in stop_words]\nwordcount = Counter(all_words).most_common(5)  # 统计出现最高的5个词,并且显示出现频率\nprint(wordcount)\nf = open(r\"弹幕1.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "all_words = [word for word in arr if len(word) > 1 and word not in stop_words]\nwordcount = Counter(all_words).most_common(5)  # 统计出现最高的5个词,并且显示出现频率\nprint(wordcount)\nf = open(r\"弹幕1.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "wordcount",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "wordcount = Counter(all_words).most_common(5)  # 统计出现最高的5个词,并且显示出现频率\nprint(wordcount)\nf = open(r\"弹幕1.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕1",
+        "description": "12爬取b站弹幕.爬取b站弹幕1",
+        "peekOfCode": "f = open(r\"弹幕1.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕1",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "url = f'http://comment.bilibili.com/328990210.xml'\n# url = 'https://api.bilibili.com/x/player/online/total?aid=782513868&cid=1096871711&bvid=BV1C24y1F7VV&ts=56077484'\nheaders = {\n    \"cookie\": \"buvid3=0AAC01A8-3B72-9EC0-5FE5-8EF31FC5B8EF04084infoc; b_nut=1677643404; CURRENT_FNVAL=4048; _uuid=47DCA8AA-4DC5-8616-B5AD-B81A62F2F59301715infoc; buvid4=997B36F3-736D-07F2-ECE8-9ABE682DE17484923-022032422-x4m6iybJgymEoDfZzX0SsA%3D%3D; rpdid=|(u)mYY)JkY|0J'uY~~YRJR|Y; i-wanna-go-back=-1; header_theme_version=CLOSE; nostalgia_conf=-1; buvid_fp_plain=undefined; LIVE_BUVID=AUTO3016778995947989; i-wanna-go-feeds=2; CURRENT_QUALITY=64; CURRENT_PID=54e74a00-cec0-11ed-85e8-a99369173808; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; b_ut=5; FEED_LIVE_VERSION=V8; SESSDATA=f05f091d%2C1696864838%2C55f14%2A41; bili_jct=f4b42dfae88858e692ae8331777aab4f; sid=65e0t1ji; fingerprint=8dbf2645293d180dbaaf2603b7579159; buvid_fp=755c74b02ff3a96fb9b68ab66148c68c; bp_video_offset_446423825=787821947188674600; PVID=1; home_feed_column=4; browser_resolution=1262-741; b_lsid=F4A2375C_187B254F432; innersign=1\",\n    \"origin\": \"https://www.bilibili.com\",\n    \"referer\": \"https://www.bilibili.com/video/BV1C24y1F7VV/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=2cdefc492d9cb112d63498710feabcbd\",\n}\nresponse = requests.get(url=url, headers=headers)\n# 调用.encoding属性获取requests模块的编码方式\n# 调用.apparent_encoding属性获取网页编码方式",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "headers = {\n    \"cookie\": \"buvid3=0AAC01A8-3B72-9EC0-5FE5-8EF31FC5B8EF04084infoc; b_nut=1677643404; CURRENT_FNVAL=4048; _uuid=47DCA8AA-4DC5-8616-B5AD-B81A62F2F59301715infoc; buvid4=997B36F3-736D-07F2-ECE8-9ABE682DE17484923-022032422-x4m6iybJgymEoDfZzX0SsA%3D%3D; rpdid=|(u)mYY)JkY|0J'uY~~YRJR|Y; i-wanna-go-back=-1; header_theme_version=CLOSE; nostalgia_conf=-1; buvid_fp_plain=undefined; LIVE_BUVID=AUTO3016778995947989; i-wanna-go-feeds=2; CURRENT_QUALITY=64; CURRENT_PID=54e74a00-cec0-11ed-85e8-a99369173808; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; b_ut=5; FEED_LIVE_VERSION=V8; SESSDATA=f05f091d%2C1696864838%2C55f14%2A41; bili_jct=f4b42dfae88858e692ae8331777aab4f; sid=65e0t1ji; fingerprint=8dbf2645293d180dbaaf2603b7579159; buvid_fp=755c74b02ff3a96fb9b68ab66148c68c; bp_video_offset_446423825=787821947188674600; PVID=1; home_feed_column=4; browser_resolution=1262-741; b_lsid=F4A2375C_187B254F432; innersign=1\",\n    \"origin\": \"https://www.bilibili.com\",\n    \"referer\": \"https://www.bilibili.com/video/BV1C24y1F7VV/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=2cdefc492d9cb112d63498710feabcbd\",\n}\nresponse = requests.get(url=url, headers=headers)\n# 调用.encoding属性获取requests模块的编码方式\n# 调用.apparent_encoding属性获取网页编码方式\n# 将网页编码方式赋值给response.encoding\nresponse.encoding = response.apparent_encoding",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "response = requests.get(url=url, headers=headers)\n# 调用.encoding属性获取requests模块的编码方式\n# 调用.apparent_encoding属性获取网页编码方式\n# 将网页编码方式赋值给response.encoding\nresponse.encoding = response.apparent_encoding\nhtml = response.content\nsoup = bs4.BeautifulSoup(html, 'lxml')\ncontentList = soup.select(\"d\")\narr = []  # use list to storage the bullet screen\nlength = len(contentList)",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "response.encoding",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "response.encoding = response.apparent_encoding\nhtml = response.content\nsoup = bs4.BeautifulSoup(html, 'lxml')\ncontentList = soup.select(\"d\")\narr = []  # use list to storage the bullet screen\nlength = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "html = response.content\nsoup = bs4.BeautifulSoup(html, 'lxml')\ncontentList = soup.select(\"d\")\narr = []  # use list to storage the bullet screen\nlength = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法\nhttps://www.cnblogs.com/themost/p/6603409.html",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "soup = bs4.BeautifulSoup(html, 'lxml')\ncontentList = soup.select(\"d\")\narr = []  # use list to storage the bullet screen\nlength = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法\nhttps://www.cnblogs.com/themost/p/6603409.html\n'''",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "contentList",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "contentList = soup.select(\"d\")\narr = []  # use list to storage the bullet screen\nlength = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法\nhttps://www.cnblogs.com/themost/p/6603409.html\n'''\n# 词频设置",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "arr = []  # use list to storage the bullet screen\nlength = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法\nhttps://www.cnblogs.com/themost/p/6603409.html\n'''\n# 词频设置\n# 教程范例:https://blog.csdn.net/as604049322/article/details/112486090",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "length",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "length = len(contentList)\nfor i in range(0, length):\n    arr.append(contentList[i].text)\n'''\n'gbk' codec can't encode character 解决方法\nhttps://www.cnblogs.com/themost/p/6603409.html\n'''\n# 词频设置\n# 教程范例:https://blog.csdn.net/as604049322/article/details/112486090\nwith open(\"停用的词.txt\", encoding=\"utf-8-sig\") as f:",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "stop_words",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "stop_words = set(stop_words)\nall_words = [word for word in arr if len(word) > 1 and word not in stop_words]\nwordcount = Counter(all_words).most_common(20)  # 统计出现最高的20个词,并且显示出现频率\nprint(wordcount)\n# print(all_words)\n# 将字符串写入文本中\nf = open(r\"弹幕2.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()\n# 读取文本中的信息",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "all_words = [word for word in arr if len(word) > 1 and word not in stop_words]\nwordcount = Counter(all_words).most_common(20)  # 统计出现最高的20个词,并且显示出现频率\nprint(wordcount)\n# print(all_words)\n# 将字符串写入文本中\nf = open(r\"弹幕2.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()\n# 读取文本中的信息\nwith open('弹幕2.txt', 'r', encoding='utf-8') as f:",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "wordcount",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "wordcount = Counter(all_words).most_common(20)  # 统计出现最高的20个词,并且显示出现频率\nprint(wordcount)\n# print(all_words)\n# 将字符串写入文本中\nf = open(r\"弹幕2.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()\n# 读取文本中的信息\nwith open('弹幕2.txt', 'r', encoding='utf-8') as f:\n    string = f.read()",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "f = open(r\"弹幕2.txt\", 'w', encoding='utf-8')\nf.write(str(arr))\nf.close()\n# 读取文本中的信息\nwith open('弹幕2.txt', 'r', encoding='utf-8') as f:\n    string = f.read()\nfont = r'C:\\WINDOWS\\FONTS\\Arial.TTF'\nwc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "font = r'C:\\WINDOWS\\FONTS\\Arial.TTF'\nwc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,\n               height=800,\n               ).generate(string)\nprint('----------------------------------------------------')\nprint(string.replace('[', '').replace(']', '').replace(\"'\", '').replace(',', ''))\n# 词云图中所输入的一定是纯文本,不能是列表或者其他格式, 不然会把其他符号作为词频最高的显示在词云中\nwc.to_file('词云图.png')  # 保存图片",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "wc",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.爬取b站弹幕2",
+        "description": "12爬取b站弹幕.爬取b站弹幕2",
+        "peekOfCode": "wc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,\n               height=800,\n               ).generate(string)\nprint('----------------------------------------------------')\nprint(string.replace('[', '').replace(']', '').replace(\"'\", '').replace(',', ''))\n# 词云图中所输入的一定是纯文本,不能是列表或者其他格式, 不然会把其他符号作为词频最高的显示在词云中\nwc.to_file('词云图.png')  # 保存图片\nprint('词云图绘制成功！')",
+        "detail": "12爬取b站弹幕.爬取b站弹幕2",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.词云图测试",
+        "description": "12爬取b站弹幕.词云图测试",
+        "peekOfCode": "string = 'Importance of relative word frequencies for font-size. With relative_scaling=0, only word-ranks are considered. With relative_scaling=1, a word that is twice as frequent will have twice the size. If you want to consider the word frequencies and not only their rank, relative_scaling around .5 often looks good.'\nfont = r'C:\\WINDOWS\\FONTS\\ARLRDBD.TTF'\nwc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,\n               height=800,\n               ).generate(string)\nwc.to_file('ss.png')  # 保存图片\n# 使用以下代码可能会报错, 报错请参考https://blog.csdn.net/m0_37724919/article/details/128874187\n# plt.imshow(wc)  # 用plt显示图片",
+        "detail": "12爬取b站弹幕.词云图测试",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.词云图测试",
+        "description": "12爬取b站弹幕.词云图测试",
+        "peekOfCode": "font = r'C:\\WINDOWS\\FONTS\\ARLRDBD.TTF'\nwc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,\n               height=800,\n               ).generate(string)\nwc.to_file('ss.png')  # 保存图片\n# 使用以下代码可能会报错, 报错请参考https://blog.csdn.net/m0_37724919/article/details/128874187\n# plt.imshow(wc)  # 用plt显示图片\n# plt.axis('off')  # 不显示坐标轴",
+        "detail": "12爬取b站弹幕.词云图测试",
+        "documentation": {}
+    },
+    {
+        "label": "wc",
+        "kind": 5,
+        "importPath": "12爬取b站弹幕.词云图测试",
+        "description": "12爬取b站弹幕.词云图测试",
+        "peekOfCode": "wc = WordCloud(font_path=font,  # 如果是中文必须要添加这个，否则会显示成框框\n               background_color='white',\n               width=1000,\n               height=800,\n               ).generate(string)\nwc.to_file('ss.png')  # 保存图片\n# 使用以下代码可能会报错, 报错请参考https://blog.csdn.net/m0_37724919/article/details/128874187\n# plt.imshow(wc)  # 用plt显示图片\n# plt.axis('off')  # 不显示坐标轴\n# plt.show()  # 显示图片",
+        "detail": "12爬取b站弹幕.词云图测试",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "description": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "peekOfCode": "response = requests.get(url='https://www.cnbc.com/2017/12/14/the-bitcoin-holiday-gift-guide-including-diamond-earrings-travel-and-soap.html')\nsoup = bs4.BeautifulSoup(response.text, 'html.parser')\nimport re\nreg = re.compile('.*Cryptomatic.*')\n# tag = soup.find_all(text=reg) # arg: text 已经弃用\ntag = soup.find_all(string=reg)\nfor i in tag:\n    tag = i.parent\n    print(tag)\n# ————————————————",
+        "detail": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "description": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "peekOfCode": "soup = bs4.BeautifulSoup(response.text, 'html.parser')\nimport re\nreg = re.compile('.*Cryptomatic.*')\n# tag = soup.find_all(text=reg) # arg: text 已经弃用\ntag = soup.find_all(string=reg)\nfor i in tag:\n    tag = i.parent\n    print(tag)\n# ————————————————\n# 版权声明：本文为CSDN博主「微尘一声吼」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。",
+        "detail": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "description": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "peekOfCode": "reg = re.compile('.*Cryptomatic.*')\n# tag = soup.find_all(text=reg) # arg: text 已经弃用\ntag = soup.find_all(string=reg)\nfor i in tag:\n    tag = i.parent\n    print(tag)\n# ————————————————\n# 版权声明：本文为CSDN博主「微尘一声吼」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。\n# 原文链接：https://blog.csdn.net/weixin_37560085/article/details/90201247",
+        "detail": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "tag",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "description": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "peekOfCode": "tag = soup.find_all(string=reg)\nfor i in tag:\n    tag = i.parent\n    print(tag)\n# ————————————————\n# 版权声明：本文为CSDN博主「微尘一声吼」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。\n# 原文链接：https://blog.csdn.net/weixin_37560085/article/details/90201247",
+        "detail": "14抓取抖音数据.test.bs4查找特定文本的标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.URL的解码和编码_test",
+        "description": "14抓取抖音数据.test.URL的解码和编码_test",
+        "peekOfCode": "txt = '%e4%BD%A0%E5%A5%BD'\n# URL解码\nnew_txt = urllib.parse.unquote(txt)\nprint(new_txt)\n# URL编码",
+        "detail": "14抓取抖音数据.test.URL的解码和编码_test",
+        "documentation": {}
+    },
+    {
+        "label": "new_txt",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.URL的解码和编码_test",
+        "description": "14抓取抖音数据.test.URL的解码和编码_test",
+        "peekOfCode": "new_txt = urllib.parse.unquote(txt)\nprint(new_txt)\n# URL编码",
+        "detail": "14抓取抖音数据.test.URL的解码和编码_test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "description": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "peekOfCode": "str = \"hello\"\nstr1 = str[:len(str) - 1]\nstr2 = str[1:-1]\nstr3 = str[1:]\nprint(\"去掉最后一个字符:\", str1)\nprint(\"去掉头尾两个字符:\", str2)\nprint(\"去掉头部的字符:\", str3)",
+        "detail": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "description": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "peekOfCode": "str1 = str[:len(str) - 1]\nstr2 = str[1:-1]\nstr3 = str[1:]\nprint(\"去掉最后一个字符:\", str1)\nprint(\"去掉头尾两个字符:\", str2)\nprint(\"去掉头部的字符:\", str3)",
+        "detail": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "documentation": {}
+    },
+    {
+        "label": "str2",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "description": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "peekOfCode": "str2 = str[1:-1]\nstr3 = str[1:]\nprint(\"去掉最后一个字符:\", str1)\nprint(\"去掉头尾两个字符:\", str2)\nprint(\"去掉头部的字符:\", str3)",
+        "detail": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "documentation": {}
+    },
+    {
+        "label": "str3",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "description": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "peekOfCode": "str3 = str[1:]\nprint(\"去掉最后一个字符:\", str1)\nprint(\"去掉头尾两个字符:\", str2)\nprint(\"去掉头部的字符:\", str3)",
+        "detail": "14抓取抖音数据.test.切片法去掉头尾字符_test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "description": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "peekOfCode": "str = \"\"\"<li class=\"a-last\"><a href=\"/s?k=red+tshirt&amp;i=fashion-mens&amp;page=2&amp;qid=1588904638&amp;ref=sr_pg_1\">Next<span class=\"a-letter-space\"></span><span class=\"a-letter-space\"></span>→</a></li>\"\"\"\nsoup = BeautifulSoup(str, 'lxml')\na = soup.find(text=re.compile(r\"Next\"))\nprint(a.parent.get('href'))",
+        "detail": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "description": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "peekOfCode": "soup = BeautifulSoup(str, 'lxml')\na = soup.find(text=re.compile(r\"Next\"))\nprint(a.parent.get('href'))",
+        "detail": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "description": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "peekOfCode": "a = soup.find(text=re.compile(r\"Next\"))\nprint(a.parent.get('href'))",
+        "detail": "14抓取抖音数据.test.获取含该文本的父类标签_test",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.test.重定向测试_test",
+        "description": "14抓取抖音数据.test.重定向测试_test",
+        "peekOfCode": "url = 'https://v.douyin.com/DG1j6FW/'\nprint(request.urlopen(url).geturl())",
+        "detail": "14抓取抖音数据.test.重定向测试_test",
+        "documentation": {}
+    },
+    {
+        "label": "DouYin_Downloader",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程1.DouYin-Video-Crawler.DouYin",
+        "description": "14抓取抖音数据.教程.教程1.DouYin-Video-Crawler.DouYin",
+        "peekOfCode": "class DouYin_Downloader():\n    def __init__(self, url):\n        self.url = url\n        self.headers = {\n                        'cookie': 'douyin.com; ttcid=be0e4c72ddac477998e093a240602ab719; ttwid=1%7CzCUAumsJLs5saY5D8bn7dI_X83RllITT15UpYe3ipo0%7C1637395882%7C364bf27783fe82923c5cccad2dac9c5ff32b3c291d30199c937c84eaab37b5d7; _tea_utm_cache_6383=undefined; MONITOR_WEB_ID=572de40d-1fff-4dc0-836b-44602750dc34; _tea_utm_cache_1300=undefined; passport_csrf_token_default=dd2988387b03b0773031755a2075362f; passport_csrf_token=dd2988387b03b0773031755a2075362f; n_mh=fxMGxUII0nrBEe6Ohr1FoUZfRGlBDBAaChEVJm8nhLw; sso_uid_tt=431643b7ae0a16e36948eaa4aa2fe0b8; sso_uid_tt_ss=431643b7ae0a16e36948eaa4aa2fe0b8; toutiao_sso_user=a6a32f4d3abd7f5cb1eb0d7eeabc84ae; toutiao_sso_user_ss=a6a32f4d3abd7f5cb1eb0d7eeabc84ae; odin_tt=c7d78d63f431f8c1e00e8485858263b58517378bcc76989d41f95a286edf145a24fcc6619fb54291391fe759ddb14183232da50c003e508cb62704e1655bf862; passport_auth_status_ss=411c4ce005860d1e47ae548b3d79891e%2C; sid_guard=170aabb93cd0ea3eaf455af0ebb02145%7C1637396118%7C5183999%7CWed%2C+19-Jan-2022+08%3A15%3A17+GMT; uid_tt=a079d0ed3a5f1cc20ac7df76ab3f771b; uid_tt_ss=a079d0ed3a5f1cc20ac7df76ab3f771b; sid_tt=170aabb93cd0ea3eaf455af0ebb02145; sessionid=170aabb93cd0ea3eaf455af0ebb02145; sessionid_ss=170aabb93cd0ea3eaf455af0ebb02145; sid_ucp_v1=1.0.0-KDM0ODMxYjI2MWZjZmEyOGQxODY1YTVjZTA1NmRmMGU4Y2I4ZGJkNGIKFwj-yaDfrPSnBxCW3eKMBhjvMTgGQPQHGgJobCIgMTcwYWFiYjkzY2QwZWEzZWFmNDU1YWYwZWJiMDIxNDU; ssid_ucp_v1=1.0.0-KDM0ODMxYjI2MWZjZmEyOGQxODY1YTVjZTA1NmRmMGU4Y2I4ZGJkNGIKFwj-yaDfrPSnBxCW3eKMBhjvMTgGQPQHGgJobCIgMTcwYWFiYjkzY2QwZWEzZWFmNDU1YWYwZWJiMDIxNDU; passport_auth_status=411c4ce005860d1e47ae548b3d79891e%2C; __ac_nonce=06199f5620065ae56f208; __ac_signature=_02B4Z6wo00f01zXQoHQAAIDDtdJaNVT9We819KTAAKz4E9gQs3vJPZfIoRD8mx-QJL-EU8pQPmUm00Hbx9IagiMBd-pmRH3pvT6ggFtdKm1nTnr9mNQ5kieWCKvz2tKcdqz4X0KRer6BBdFre3; douyin.com; s_v_web_id=verify_kw8xnlj5_8y3BLFlW_B5ca_45LT_8ppb_jfJU5qu9V9Fr; msToken=q3LpmVgozuLxZu1J26Ygd2uJ-NEm08J03SWFEp5p19c3kENTBcHPQ4Pci1G-3kUt8IvmnZI2QX7o9GE7Kfd8h92iHl5qTgfD_qOFqct2IikUtpSZA46xZWsAoA==; msToken=SdRjdYoFLEpaFsvHhGFNVA4c3TOj2BVyb0iO8GpzjS5n47A9Ziv5aNAbDI3uUqSkYWagXM1tIS4SakirPiSM0m-E9vwN1urTp6eM2MQ6wdZsb-MC_x5wig==; tt_scid=n.SR2EXQsnCoS52o0b6sEoX8j2W6Zjp8vEp8WuuaKfgHE6S5wBV4QKudldzcLitOae57',\n                        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36'\n                        }\n        self.text = requests.get(url=self.url, headers=self.headers).text\n    def getTitle(self):\n        return re.findall('<title data-react-helmet=\"true\">(.*?)</title>', self.text)[0]",
+        "detail": "14抓取抖音数据.教程.教程1.DouYin-Video-Crawler.DouYin",
+        "documentation": {}
+    },
+    {
+        "label": "AdbCmd",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AdbShell",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AdbShell",
+        "peekOfCode": "class AdbCmd:\n    def __init__(self):\n        try:\n            adb_path = 'adb'\n            subprocess.Popen([adb_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE)\n            self.adb_path = adb_path\n        except OSError:\n            if platform.system() == 'Windows':\n                adb_path = os.path.join('Tools', \"adb\", 'adb.exe')\n                try:",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AdbShell",
+        "documentation": {}
+    },
+    {
+        "label": "auto_slide",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "peekOfCode": "def auto_slide():\n    width, height = adb.get_screen()\n    slide_length = height / 2.5\n    x_p1 = x_p2 = width / 2\n    y_p2 = height / 2\n    y_p1 = y_p2 + slide_length\n    duration = 200\n    cmd = 'shell input swipe %s %s %s %s %s' % (x_p1, y_p1, x_p2, y_p2, duration)\n    adb.run(cmd)\n    time.sleep(1.5)",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "documentation": {}
+    },
+    {
+        "label": "adb",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "peekOfCode": "adb = AdbCmd()\ndef auto_slide():\n    width, height = adb.get_screen()\n    slide_length = height / 2.5\n    x_p1 = x_p2 = width / 2\n    y_p2 = height / 2\n    y_p1 = y_p2 + slide_length\n    duration = 200\n    cmd = 'shell input swipe %s %s %s %s %s' % (x_p1, y_p1, x_p2, y_p2, duration)\n    adb.run(cmd)",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.adb.AutoSlide",
+        "documentation": {}
+    },
+    {
+        "label": "BaseVideoEntity",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.resource.BaseVideo",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.resource.BaseVideo",
+        "peekOfCode": "class BaseVideoEntity:\n    def __init__(self, f_id, download_url, source, desc='', title='', video_height=0, video_width=0, video_duration=0):\n        self.f_id = f_id\n        self.desc = desc\n        self.title = title\n        self.video_height = video_height\n        self.video_width = video_width\n        self.video_duration = video_duration\n        self.download_url = download_url\n        self.source = source",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.resource.BaseVideo",
+        "documentation": {}
+    },
+    {
+        "label": "Douyin",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_config",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_config",
+        "peekOfCode": "class Douyin:\n    video_template = {'aweme_id', 'desc', 'duration', 'video'}\n    # 爬取文件保存位置\n    save_path = r'D:\\test\\douyin'\n    def dy_package(self, json_data: dict):\n        result = []\n        for e in json_tool.pick_up(self.video_template, json_data):\n            video = e.get('video')\n            download_url = video.get('play_addr').get('url_list')[0]\n            ve = BaseVideoEntity(f_id=e.get('aweme_id'),",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_config",
+        "documentation": {}
+    },
+    {
+        "label": "DouyinHuoshan",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_huoshan_config",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_huoshan_config",
+        "peekOfCode": "class DouyinHuoshan:\n    video_template = {'id', 'description', 'title', 'video'}\n    # 爬取文件保存位置\n    save_path = r'D:\\test\\douyin_huoshan'\n    def dy_hs_package(self, json_data: dict):\n        result = []\n        for e in json_tool.pick_up(self.video_template, json_data):\n            video = e.get('video')\n            download_url = video.get('h265_url')[0]\n            ve = BaseVideoEntity(f_id=e.get('id'),",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.resource.douyin_huoshan_config",
+        "documentation": {}
+    },
+    {
+        "label": "download_video",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "peekOfCode": "def download_video(package_function, save_path, json_content):\n    if not os.path.exists(save_path):\n        os.makedirs(save_path)\n    videos = package_function(json_content)\n    for e in videos:\n        __down_file(e.download_url, e.f_id, save_path)",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "documentation": {}
+    },
+    {
+        "label": "ua",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "peekOfCode": "ua = 'Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 ' \\\n     'Mobile/15A5341f Safari/604.1 '\ndef __down_file(download_url, file_id, save_path):\n    \"\"\"\n    下载文件\n    :param download_url: 文件下载地址\n    :param file_id: 下载后本地保存名称\n    \"\"\"\n    if file_id not in Session.HUNTER_ID_CACHE:\n        ss = requests.session()",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Downloader",
+        "documentation": {}
+    },
+    {
+        "label": "pick_up",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.JsonTool",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.JsonTool",
+        "peekOfCode": "def pick_up(template: set, json_object, result=[]):\n    \"\"\"\n    查找json中所有满足template定义字段条件的对象\n    :param template: 指定字段集合\n    :param json_object: JSON对象|List|Dict\n    :param result: 结果集合，集合中的元素都是Dict\n    :return:\n    \"\"\"\n    if isinstance(json_object, dict):\n        if template.issubset(list(json_object.keys())):",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.JsonTool",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "peekOfCode": "def get(key):\n    return mem.get(key)\ndef put(key, value):\n    mem[key] = value",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "documentation": {}
+    },
+    {
+        "label": "put",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "peekOfCode": "def put(key, value):\n    mem[key] = value",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_HUNTER_ID_CACHE",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "peekOfCode": "KEY_HUNTER_ID_CACHE = 'hunter_id_cache'\nmem = {}\nHUNTER_ID_CACHE = {0}\ndef get(key):\n    return mem.get(key)\ndef put(key, value):\n    mem[key] = value",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "documentation": {}
+    },
+    {
+        "label": "mem",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "peekOfCode": "mem = {}\nHUNTER_ID_CACHE = {0}\ndef get(key):\n    return mem.get(key)\ndef put(key, value):\n    mem[key] = value",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "documentation": {}
+    },
+    {
+        "label": "HUNTER_ID_CACHE",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "peekOfCode": "HUNTER_ID_CACHE = {0}\ndef get(key):\n    return mem.get(key)\ndef put(key, value):\n    mem[key] = value",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.tool.Session",
+        "documentation": {}
+    },
+    {
+        "label": "Hunter",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "peekOfCode": "class Hunter:\n    douyin_hunter = Douyin()\n    def response(self, flow: http.HTTPFlow):\n        response = flow.response\n        if 'json' in str(response.headers.get('Content-Type')):\n            data = json.loads(str(response.get_content(), 'utf-8'))\n            Downloader.download_video(self.douyin_hunter.dy_package, self.douyin_hunter.save_path, data)\n            # print('此次下载视频数：%s ,当前下载视频总数：%s' % (count, self.video_count))\naddons = [\n    Hunter()",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "peekOfCode": "res = os.path.abspath(__file__)\nbase_path = os.path.dirname(os.path.dirname(res))\nprint('File Path is :%s' % res)\nprint('Parent Folder is :%s' % base_path)\nsys.path.append(base_path)\nclass Hunter:\n    douyin_hunter = Douyin()\n    def response(self, flow: http.HTTPFlow):\n        response = flow.response\n        if 'json' in str(response.headers.get('Content-Type')):",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "documentation": {}
+    },
+    {
+        "label": "base_path",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "peekOfCode": "base_path = os.path.dirname(os.path.dirname(res))\nprint('File Path is :%s' % res)\nprint('Parent Folder is :%s' % base_path)\nsys.path.append(base_path)\nclass Hunter:\n    douyin_hunter = Douyin()\n    def response(self, flow: http.HTTPFlow):\n        response = flow.response\n        if 'json' in str(response.headers.get('Content-Type')):\n            data = json.loads(str(response.get_content(), 'utf-8'))",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "documentation": {}
+    },
+    {
+        "label": "addons",
+        "kind": 5,
+        "importPath": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "description": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "peekOfCode": "addons = [\n    Hunter()\n]",
+        "detail": "14抓取抖音数据.教程.教程2.douyin_bot.Launcher",
+        "documentation": {}
+    },
+    {
+        "label": "Douyin",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程3_知乎版.爬取抖音视频",
+        "description": "14抓取抖音数据.教程.教程3_知乎版.爬取抖音视频",
+        "peekOfCode": "class Douyin:\n    def page_num(self, max_cursor):\n        # 网址后面的随机参数（我实在分析不出规律）\n        random_field = 'RVb7WBAZG.rGG9zDDDoezEVW-0&dytk=a61cb3ce173fbfa0465051b2a6a9027e'\n        # 网址的主体\n        url = 'https://www.iesdouyin.com/web/api/v2/aweme/post/?sec_uid' \\\n              '=MS4wLjABAAAAF5ZfVgdRbJ3OPGJPMFHnDp2sdJaemZo3Aw6piEtkdOA&count=21&max_cursor=0&aid=1128&_signature=' +\\\n              random_field\n        # 请求头\n        headers = {",
+        "detail": "14抓取抖音数据.教程.教程3_知乎版.爬取抖音视频",
+        "documentation": {}
+    },
+    {
+        "label": "Douyin",
+        "kind": 6,
+        "importPath": "14抓取抖音数据.教程.教程4_腾讯云.爬取抖音视频",
+        "description": "14抓取抖音数据.教程.教程4_腾讯云.爬取抖音视频",
+        "peekOfCode": "class Douyin:\n    def page_num(self, max_cursor):\n        # 随机码\n        random_field = '00nvcRAUjgJQBMjqpgesfdNJ72&dytk=4a01c95562f1f10264fb14086512f919'\n        # 网址的主体\n        url = 'https://www.iesdouyin.com/web/api/v2/aweme/post/?sec_uid=MS4wLjABAAAAU7Bwg8WznVaafqWLyLUwcVUf9LgrKGYmctJ3n5SwlOA&count=21&max_cursor=' + str(\n            max_cursor) + '&aid=1128&_signature=' + random_field\n        # 请求头\n        headers = {\n            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36',",
+        "detail": "14抓取抖音数据.教程.教程4_腾讯云.爬取抖音视频",
+        "documentation": {}
+    },
+    {
+        "label": "get_info1",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "description": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "peekOfCode": "def get_info1(url, headers):  # 返回作者主页的url\n    response = requests.get(url=url, headers=headers)\n    if response.status_code == 200:\n        response.encoding = response.apparent_encoding  # 赋予解码方式\n        html = response.text  # 视频藏在html中,需要解密\n        # ①视频的标题\n        title = re.findall('<title data-react-helmet=\"true\">(.*)</title>', html)[0]\n        # 源码转为bs4类型\n        soup = bs4.BeautifulSoup(html, 'lxml')\n        # 找到作者主页所在的标签,并且取标签中的文本",
+        "detail": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "documentation": {}
+    },
+    {
+        "label": "get_info2",
+        "kind": 2,
+        "importPath": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "description": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "peekOfCode": "def get_info2(author_home_page):\n    # 模拟浏览器访问作者主页\n    response = requests.get(url=author_home_page, headers=headers)\n    response.encoding = response.apparent_encoding\n    html = response.text\n    soup = bs4.BeautifulSoup(html, 'lxml')\n    # ⑤获取关注数,粉丝数,获赞数\n    follow_all = soup.select('div[class=\"TxoC9G6_\"]')[0].text\n    fans_all = soup.select('div[class=\"TxoC9G6_\"]')[1].text\n    like_all = soup.select('div[class=\"TxoC9G6_\"]')[2].text",
+        "detail": "14抓取抖音数据.爬取抖音数据_myself.爬取抖音视频&主页&作者信息",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "15爬取b站视频.osDemo",
+        "description": "15爬取b站视频.osDemo",
+        "peekOfCode": "path = os.path\n# python_script\\15爬取b站视频",
+        "detail": "15爬取b站视频.osDemo",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "string = 'abcdefg我不是林信欢abcdefg12345'\nprint('原文: ' + string)\n# 测试贪婪匹配\ndemo1 = re.findall('(a.*)', string)\nprint('贪婪匹配:' + str(demo1))\n# 测试非贪婪匹配\ndemo2 = re.findall('(a.*?)', string)\nprint('非贪婪匹配: ' + str(demo2))\n# 测试其他\ndemo3 = re.findall('(a.)', string)",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo1",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo1 = re.findall('(a.*)', string)\nprint('贪婪匹配:' + str(demo1))\n# 测试非贪婪匹配\ndemo2 = re.findall('(a.*?)', string)\nprint('非贪婪匹配: ' + str(demo2))\n# 测试其他\ndemo3 = re.findall('(a.)', string)\nprint('其他3: ' + str(demo3))\ndemo4 = re.findall('(a...)', string)\nprint('其他4: ' + str(demo4))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo2",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo2 = re.findall('(a.*?)', string)\nprint('非贪婪匹配: ' + str(demo2))\n# 测试其他\ndemo3 = re.findall('(a.)', string)\nprint('其他3: ' + str(demo3))\ndemo4 = re.findall('(a...)', string)\nprint('其他4: ' + str(demo4))\ndemo5 = re.findall('(a.......)', string)\nprint('其他5: ' + str(demo5))\ndemo6 = re.findall('(.)', string)",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo3",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo3 = re.findall('(a.)', string)\nprint('其他3: ' + str(demo3))\ndemo4 = re.findall('(a...)', string)\nprint('其他4: ' + str(demo4))\ndemo5 = re.findall('(a.......)', string)\nprint('其他5: ' + str(demo5))\ndemo6 = re.findall('(.)', string)\nprint('其他6: ' + str(demo6))\ndemo7 = re.findall('(.我)', string)\nprint('其他7: ' + str(demo7))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo4",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo4 = re.findall('(a...)', string)\nprint('其他4: ' + str(demo4))\ndemo5 = re.findall('(a.......)', string)\nprint('其他5: ' + str(demo5))\ndemo6 = re.findall('(.)', string)\nprint('其他6: ' + str(demo6))\ndemo7 = re.findall('(.我)', string)\nprint('其他7: ' + str(demo7))\ndemo8 = re.findall('(..我)', string)\nprint('其他8: ' + str(demo8))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo5",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo5 = re.findall('(a.......)', string)\nprint('其他5: ' + str(demo5))\ndemo6 = re.findall('(.)', string)\nprint('其他6: ' + str(demo6))\ndemo7 = re.findall('(.我)', string)\nprint('其他7: ' + str(demo7))\ndemo8 = re.findall('(..我)', string)\nprint('其他8: ' + str(demo8))\ndemo9 = re.findall('(..我..)', string)\nprint('其他9: ' + str(demo9))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo6",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo6 = re.findall('(.)', string)\nprint('其他6: ' + str(demo6))\ndemo7 = re.findall('(.我)', string)\nprint('其他7: ' + str(demo7))\ndemo8 = re.findall('(..我)', string)\nprint('其他8: ' + str(demo8))\ndemo9 = re.findall('(..我..)', string)\nprint('其他9: ' + str(demo9))\ndemo10 = re.findall('(..我.*)', string)\nprint('其他10: ' + str(demo10))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo7",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo7 = re.findall('(.我)', string)\nprint('其他7: ' + str(demo7))\ndemo8 = re.findall('(..我)', string)\nprint('其他8: ' + str(demo8))\ndemo9 = re.findall('(..我..)', string)\nprint('其他9: ' + str(demo9))\ndemo10 = re.findall('(..我.*)', string)\nprint('其他10: ' + str(demo10))\ndemo11 = re.findall('(..我.*..?)', string)\nprint('其他11: ' + str(demo11))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo8",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo8 = re.findall('(..我)', string)\nprint('其他8: ' + str(demo8))\ndemo9 = re.findall('(..我..)', string)\nprint('其他9: ' + str(demo9))\ndemo10 = re.findall('(..我.*)', string)\nprint('其他10: ' + str(demo10))\ndemo11 = re.findall('(..我.*..?)', string)\nprint('其他11: ' + str(demo11))\ndemo12 = re.findall('(.?我)', string)\nprint('其他12: ' + str(demo12))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo9",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo9 = re.findall('(..我..)', string)\nprint('其他9: ' + str(demo9))\ndemo10 = re.findall('(..我.*)', string)\nprint('其他10: ' + str(demo10))\ndemo11 = re.findall('(..我.*..?)', string)\nprint('其他11: ' + str(demo11))\ndemo12 = re.findall('(.?我)', string)\nprint('其他12: ' + str(demo12))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo10",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo10 = re.findall('(..我.*)', string)\nprint('其他10: ' + str(demo10))\ndemo11 = re.findall('(..我.*..?)', string)\nprint('其他11: ' + str(demo11))\ndemo12 = re.findall('(.?我)', string)\nprint('其他12: ' + str(demo12))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo11",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo11 = re.findall('(..我.*..?)', string)\nprint('其他11: ' + str(demo11))\ndemo12 = re.findall('(.?我)', string)\nprint('其他12: ' + str(demo12))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "demo12",
+        "kind": 5,
+        "importPath": "15爬取b站视频.正则表达式测试",
+        "description": "15爬取b站视频.正则表达式测试",
+        "peekOfCode": "demo12 = re.findall('(.?我)', string)\nprint('其他12: ' + str(demo12))",
+        "detail": "15爬取b站视频.正则表达式测试",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "url = 'https://www.bilibili.com/video/BV1YV4y1K7pT'\n# 视频的src\n# url = \"blob:https://www.bilibili.com/478de0da-a7c4-4c4d-9bbf-78de263509db\"\n# blob加密过的url需要解密,该方式展示丢弃\nheaders = {\n    # 此处设置防盗链：指明连接的请求来源于B站，合法\n    'referer': 'https://www.bilibili.com/',\n    # 请求头是为了对python解析器进行伪装\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64\",\n    # 给爬虫提供更多信息以抓取全",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "headers = {\n    # 此处设置防盗链：指明连接的请求来源于B站，合法\n    'referer': 'https://www.bilibili.com/',\n    # 请求头是为了对python解析器进行伪装\n    \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64\",\n    # 给爬虫提供更多信息以抓取全\n    \"cookie\": \"buvid3=F9AE9251-1454-11B9-F71D-C624072C81A305376infoc; b_nut=1682573505; CURRENT_FNVAL=4048; bsource=search_bing; _uuid=12F62C10A-4663-B10AF-F9AC-3512ED139BE406116infoc; buvid4=8F43619B-B828-8137-7E10-2DFC4C07055606754-023042713-HiL283BrdD4rpmZdFCuAMg==; buvid_fp=268196c05f07750455249058d8a22b8f; CURRENT_PID=d0289ae0-e4bc-11ed-89de-855c6899af18; rpdid=|(~J~)Y~~Ju0J'uY)kl~Jluk; i-wanna-go-back=-1; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; home_feed_column=4; SESSDATA=0260e10b,1698212383,15372*42; bili_jct=23116a85dd5ea37cc4a5c6ec9de187b0; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; sid=8p3xyz76; b_ut=5; browser_resolution=1147-668; bp_video_offset_446423825=789974438767493200; nostalgia_conf=-1; innersign=1; b_lsid=FB471566_187CD2688A1\",\n}\n# 模仿浏览器访问\nresponse = requests.get(url=url, headers=headers)",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "response = requests.get(url=url, headers=headers)\n# 返回相应码\nstatus_code = response.status_code\n# 获取网页源码\nhtml = response.text\n# 抓取视频标题\n#   (加了?是非贪婪匹配,即只匹配某个词,不加?匹配就是贪婪匹配,匹配和这个词相关的所有字符串)\ntitle = re.findall('<h1 title=\"(.*?)\"', html)[0]\nprint('视频标题: ' + title + '\\n' + '-------------------------------')\n# 提取playinfo里面的数据",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "status_code",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "status_code = response.status_code\n# 获取网页源码\nhtml = response.text\n# 抓取视频标题\n#   (加了?是非贪婪匹配,即只匹配某个词,不加?匹配就是贪婪匹配,匹配和这个词相关的所有字符串)\ntitle = re.findall('<h1 title=\"(.*?)\"', html)[0]\nprint('视频标题: ' + title + '\\n' + '-------------------------------')\n# 提取playinfo里面的数据\nhtml_data = re.findall('<script>window.__playinfo__=(.*?)</script>', response.text)[0]\n# html_data是json形式的,将其转成字典",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "html = response.text\n# 抓取视频标题\n#   (加了?是非贪婪匹配,即只匹配某个词,不加?匹配就是贪婪匹配,匹配和这个词相关的所有字符串)\ntitle = re.findall('<h1 title=\"(.*?)\"', html)[0]\nprint('视频标题: ' + title + '\\n' + '-------------------------------')\n# 提取playinfo里面的数据\nhtml_data = re.findall('<script>window.__playinfo__=(.*?)</script>', response.text)[0]\n# html_data是json形式的,将其转成字典\njson_data = json.loads(html_data)\n'''",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "title",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "title = re.findall('<h1 title=\"(.*?)\"', html)[0]\nprint('视频标题: ' + title + '\\n' + '-------------------------------')\n# 提取playinfo里面的数据\nhtml_data = re.findall('<script>window.__playinfo__=(.*?)</script>', response.text)[0]\n# html_data是json形式的,将其转成字典\njson_data = json.loads(html_data)\n'''\njson.loads()：解析一个有效的JSON字符串并将其转换为Python字典\njson.load()：从一个文件读取JSON类型的数据，然后转转换成Python字典\n'''",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "html_data",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "html_data = re.findall('<script>window.__playinfo__=(.*?)</script>', response.text)[0]\n# html_data是json形式的,将其转成字典\njson_data = json.loads(html_data)\n'''\njson.loads()：解析一个有效的JSON字符串并将其转换为Python字典\njson.load()：从一个文件读取JSON类型的数据，然后转转换成Python字典\n'''\n# 让pycharm控制台以json格式化输出\n# 不影响程序，只改变pycharm或vscode编辑器的终端输出显示\n# indent=4 缩进4个空格",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "json_data = json.loads(html_data)\n'''\njson.loads()：解析一个有效的JSON字符串并将其转换为Python字典\njson.load()：从一个文件读取JSON类型的数据，然后转转换成Python字典\n'''\n# 让pycharm控制台以json格式化输出\n# 不影响程序，只改变pycharm或vscode编辑器的终端输出显示\n# indent=4 缩进4个空格\n# 用dumps将python编码成json字符串\njson_dicts = json.dumps(json_data, indent=4)",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "json_dicts",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "json_dicts = json.dumps(json_data, indent=4)\n# 提取视频画面网址\nvideo_url = json_data[\"data\"][\"dash\"][\"video\"][0][\"baseUrl\"]\nprint(\"视频画面地址为：\", video_url, '\\n----------------------------------------')\naudio_url = json_data[\"data\"][\"dash\"][\"audio\"][0][\"baseUrl\"]\nprint(\"视频声音地址为: \", audio_url, '\\n----------------------------------------')\n# print(json_dicts)\n# response.content获取响应体的二进制数据\nvideo_content = requests.get(url=video_url, headers=headers).content\naudio_content = requests.get(url=audio_url, headers=headers).content",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "video_url",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "video_url = json_data[\"data\"][\"dash\"][\"video\"][0][\"baseUrl\"]\nprint(\"视频画面地址为：\", video_url, '\\n----------------------------------------')\naudio_url = json_data[\"data\"][\"dash\"][\"audio\"][0][\"baseUrl\"]\nprint(\"视频声音地址为: \", audio_url, '\\n----------------------------------------')\n# print(json_dicts)\n# response.content获取响应体的二进制数据\nvideo_content = requests.get(url=video_url, headers=headers).content\naudio_content = requests.get(url=audio_url, headers=headers).content\nprint(type(video_content))\n# 创建mp4文件,写入二进制数据",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "audio_url",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "audio_url = json_data[\"data\"][\"dash\"][\"audio\"][0][\"baseUrl\"]\nprint(\"视频声音地址为: \", audio_url, '\\n----------------------------------------')\n# print(json_dicts)\n# response.content获取响应体的二进制数据\nvideo_content = requests.get(url=video_url, headers=headers).content\naudio_content = requests.get(url=audio_url, headers=headers).content\nprint(type(video_content))\n# 创建mp4文件,写入二进制数据\n# if os.path.exists('视频文件夹'):\n#     with open('视频文件夹\\\\' + title + '.mp4', mode='wb') as f:",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "video_content",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "video_content = requests.get(url=video_url, headers=headers).content\naudio_content = requests.get(url=audio_url, headers=headers).content\nprint(type(video_content))\n# 创建mp4文件,写入二进制数据\n# if os.path.exists('视频文件夹'):\n#     with open('视频文件夹\\\\' + title + '.mp4', mode='wb') as f:\n#         f.write(vidio_content)\n# else:\n#     os.mkdir('视频文件夹')\n#     with open('视频文件夹\\\\' + title + '.mp4', mode='wb') as f:",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "audio_content",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "audio_content = requests.get(url=audio_url, headers=headers).content\nprint(type(video_content))\n# 创建mp4文件,写入二进制数据\n# if os.path.exists('视频文件夹'):\n#     with open('视频文件夹\\\\' + title + '.mp4', mode='wb') as f:\n#         f.write(vidio_content)\n# else:\n#     os.mkdir('视频文件夹')\n#     with open('视频文件夹\\\\' + title + '.mp4', mode='wb') as f:\n#         f.write(vidio_content)",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "cmd",
+        "kind": 5,
+        "importPath": "15爬取b站视频.爬取b站视频",
+        "description": "15爬取b站视频.爬取b站视频",
+        "peekOfCode": "cmd = f\"ffmpeg -i 视频文件夹\\\\{title}.mp4 -i 视频文件夹\\\\{title}.mp3 -c:v copy -c:a aac -strict experimental 视频文件夹\\\\{title}(最终版).mp4\"\nsubprocess.run(cmd, shell=True)\nprint('恭喜你，视频合成成功！', '\\n----------------------------------------')\n# 删除不必要的画面和音频\nos.remove(f'视频文件夹\\\\{title}.mp4')\nos.remove(f'视频文件夹\\\\{title}.mp3')  # f其实就等价于format\nprint('程序结束...')\n# 使用open读写文件的时候判断文件是否存在(不存在则创建):\n'''\n2. 在try块里面使用with open，然后捕获FileNotFoundError，使用os.mknod()函数创建文件，",
+        "detail": "15爬取b站视频.爬取b站视频",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "16爬取抖音热榜.format_test",
+        "description": "16爬取抖音热榜.format_test",
+        "peekOfCode": "pattern = \"{0}\\t{1}\\t{2}\\t{3}\\t{4}\\t{5}\"\nprint(pattern.format(\"金种\",\"实时主动积存价格\",\"最低价\",\"最高价\",\"定期积存价\",\"更新时间\"))\nprint(pattern.format(\"积存金\",372.73,372.73,372.73,366.10,\"2021-08-15 00:18:04\"))\n'''\n'''\n对齐方式：\n- 居中对齐：^\n- 靠右对齐：>\n- 靠左对齐：<\n占用宽度：使用数字表示，一般跟在对齐方式后面。比如{:<4}表示占用4个宽度单位并靠左对齐，若是占用的宽度未使用完则进行填充，默认使用英式空格填充。",
+        "detail": "16爬取抖音热榜.format_test",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "16爬取抖音热榜.format_test",
+        "description": "16爬取抖音热榜.format_test",
+        "peekOfCode": "pattern = \"{0:<4}\\t{1:<16}\\t{2:<8}\\t{3:<8}\\t{4:<10}\\t{5:<8}\"\nprint(pattern.format(\"金种\",\"实时主动积存价格\",\"最低价\",\"最高价\",\"定期积存价\",\"更新时间\"))\nprint(pattern.format(\"积存金\",372.73,372.73,372.73,366.10,\"2021-08-15 00:18:04\"))",
+        "detail": "16爬取抖音热榜.format_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_eight_components",
+        "kind": 2,
+        "importPath": "16爬取抖音热榜.selenium_test",
+        "description": "16爬取抖音热榜.selenium_test",
+        "peekOfCode": "def test_eight_components():\n    # 使用驱动实例开启会话\n    driver = webdriver.Edge()\n    driver.get(\"https://www.selenium.dev/selenium/web/web-form.html\")\n    title = driver.title\n    assert title == \"Web form\"\n    driver.implicitly_wait(0.5)\n    text_box = driver.find_element(by=By.NAME, value=\"my-text\")\n    print(text_box)\n    submit_button = driver.find_element(by=By.CSS_SELECTOR, value=\"button\")",
+        "detail": "16爬取抖音热榜.selenium_test",
+        "documentation": {}
+    },
+    {
+        "label": "get_hot",
+        "kind": 2,
+        "importPath": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "description": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "peekOfCode": "def get_hot():\n    global len\n    hot_list = []\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        # 设置selenium无界面(无头模式)\n        options = EdgeOptions()\n        options.use_chromium = True  # 是否开启浏览器可视化\n        options.add_argument('headless')  # selenium设置无头模式可以让浏览器在爬取的时候不启动窗口(写headless和--headless都可以)\n        options.add_argument(f'user-agent={user_agent}')  # 如果无头模式得到的信息少, 那就加上用户代理, f即format()",
+        "detail": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "description": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "peekOfCode": "headers = {\n    'accept': 'application/json, text/plain, */*',\n    'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',\n    'cookie': 'douyin.com; passport_csrf_token=8176efb5e9905cc701088102b93b7711; passport_csrf_token_default=8176efb5e9905cc701088102b93b7711; s_v_web_id=verify_lh3fzdge_JsuOD8BM_WX4c_4sDF_BSbf_P1lPkay0WFdD; ttcid=9698dd3a055541b0ba284b846e0f1bcb90; csrf_session_id=d0247c4e95807e8743533812e3acd5fa; my_rd=1; download_guide=%223%2F20230430%22; passport_assist_user=CkEXlGRvMmeF9d-deZOIWC9I5jEEnNwpnrdkKUyDKA2X4cECO3Py8xCc2zqjTP6GhEwdZo9GBfFwt-7xFZcwwMhJgxpICjzr08O2BpswapVm9aPVhqjb8vSmBbpWuebMPLYRk04LGjA4Ij3DF6bhYZoNd_w4_ZXm3km2si61xGHydF0QyvCvDRiJr9ZUIgED9hQ-Zw%3D%3D; n_mh=oxr5CR3mqWKD4Xc_ISZkSDhK5ElSnspZq265Phb8EwY; sso_uid_tt=4668d4e7d87cc59b5d7b6c8b09a92ad1; sso_uid_tt_ss=4668d4e7d87cc59b5d7b6c8b09a92ad1; toutiao_sso_user=e91169f967e4fe4f3156a516665f9971; toutiao_sso_user_ss=e91169f967e4fe4f3156a516665f9971; sid_ucp_sso_v1=1.0.0-KGUzNGMyZGU0OTFiYTk4YzFkZDg5OTdhZmYyYTAyZTIwZjNiNjExMWUKHwjnh_D7k_TnBBDZ3LmiBhjvMSAMMLnwz_gFOAZA9AcaAmxmIiBlOTExNjlmOTY3ZTRmZTRmMzE1NmE1MTY2NjVmOTk3MQ; ssid_ucp_sso_v1=1.0.0-KGUzNGMyZGU0OTFiYTk4YzFkZDg5OTdhZmYyYTAyZTIwZjNiNjExMWUKHwjnh_D7k_TnBBDZ3LmiBhjvMSAMMLnwz_gFOAZA9AcaAmxmIiBlOTExNjlmOTY3ZTRmZTRmMzE1NmE1MTY2NjVmOTk3MQ; passport_auth_status=6be4b4b7216e41c66b01ae1eb6d673d7%2C; passport_auth_status_ss=6be4b4b7216e41c66b01ae1eb6d673d7%2C; uid_tt=4876c5a54ec9855aaf9023683b0d1799; uid_tt_ss=4876c5a54ec9855aaf9023683b0d1799; sid_tt=ca88280d744888abc7abd19bf34b662f; sessionid=ca88280d744888abc7abd19bf34b662f; sessionid_ss=ca88280d744888abc7abd19bf34b662f; LOGIN_STATUS=1; store-region=cn-gx; store-region-src=uid; bd_ticket_guard_client_data=eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtY2xpZW50LWNlcnQiOiItLS0tLUJFR0lOIENFUlRJRklDQVRFLS0tLS1cbk1JSUNFekNDQWJxZ0F3SUJBZ0lVUTNiRGxCNC9CZVk4T25qZEYxcTV3MVpDR2ljd0NnWUlLb1pJemowRUF3SXdcbk1URUxNQWtHQTFVRUJoTUNRMDR4SWpBZ0JnTlZCQU1NR1hScFkydGxkRjluZFdGeVpGOWpZVjlsWTJSellWOHlcbk5UWXdIaGNOTWpNd05ETXdNVE16TkRFNVdoY05Nek13TkRNd01qRXpOREU1V2pBbk1Rc3dDUVlEVlFRR0V3SkRcblRqRVlNQllHQTFVRUF3d1BZbVJmZEdsamEyVjBYMmQxWVhKa01Ga3dFd1lIS29aSXpqMENBUVlJS29aSXpqMERcbkFRY0RRZ0FFdXhyVTZiMnNZVUd1eTNFQjF5azY4MVdRRTl3WklSMkhTSHVpcXJ0ajRJZ3dXOUxDaUFYOWNqUWFcbmRJK2tQMC8zYzdEVGgrZzdINHQ4aXU3Q1h0ZlcwNk9CdVRDQnRqQU9CZ05WSFE4QkFmOEVCQU1DQmFBd01RWURcblZSMGxCQ293S0FZSUt3WUJCUVVIQXdFR0NDc0dBUVVGQndNQ0JnZ3JCZ0VGQlFjREF3WUlLd1lCQlFVSEF3UXdcbktRWURWUjBPQkNJRUlPUWgvZDZrbmo5TDIrZGxmNnN6bUdrbUpFMXdtY09BeWd3OTZCcjR5OHRSTUNzR0ExVWRcbkl3UWtNQ0tBSURLbForcU9aRWdTamN4T1RVQjdjeFNiUjIxVGVxVFJnTmQ1bEpkN0lrZURNQmtHQTFVZEVRUVNcbk1CQ0NEbmQzZHk1a2IzVjVhVzR1WTI5dE1Bb0dDQ3FHU000OUJBTUNBMGNBTUVRQ0lBVXZUbWY4bUp2UytiSlFcbjV5Uzgwa1BReitOZG1xcE5NeXhOUitHd3NZM2xBaUI2eVpIcUdGa0MvN3dCUHQ5c1ZDYjg1ZGMvUWxpTS9Ra3Zcbnl4ZTNLRmZHR0E9PVxuLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLVxuIn0=; publish_badge_show_info=%221%2C0%2C0%2C1682862857406%22; xgplayer_user_id=614252535205; passport_fe_beating_status=true; sid_guard=ca88280d744888abc7abd19bf34b662f%7C1683018264%7C5184000%7CSat%2C+01-Jul-2023+09%3A04%3A24+GMT; sid_ucp_v1=1.0.0-KDFmZGIyZTc2Y2MyOTk4NDJjMjRhMjJhYWIyYjMyZjQzOGM4NmRmZGEKGwjnh_D7k_TnBBCYpMOiBhjvMSAMOAZA9AdIBBoCbGYiIGNhODgyODBkNzQ0ODg4YWJjN2FiZDE5YmYzNGI2NjJm; ssid_ucp_v1=1.0.0-KDFmZGIyZTc2Y2MyOTk4NDJjMjRhMjJhYWIyYjMyZjQzOGM4NmRmZGEKGwjnh_D7k_TnBBCYpMOiBhjvMSAMOAZA9AdIBBoCbGYiIGNhODgyODBkNzQ0ODg4YWJjN2FiZDE5YmYzNGI2NjJm; bd_ticket_guard_server_data=; pwa2=%220%7C1%22; d_ticket=667992a7e93f68b4ca96e8d18917188d5d745; __live_version__=%221.1.0.9069%22; live_can_add_dy_2_desktop=%220%22; strategyABtestKey=%221683129864.558%22; SEARCH_RESULT_LIST_TYPE=%22single%22; MONITOR_WEB_ID=6af2f4a0-2986-4d46-83c1-614a7819d53d; _tea_utm_cache_1243=undefined; VIDEO_FILTER_MEMO_SELECT=%7B%22expireTime%22%3A1683738364638%2C%22type%22%3A1%7D; FOLLOW_NUMBER_YELLOW_POINT_INFO=%22MS4wLjABAAAAqzk7Jv6xYkJBIH9kKtK_YUoy5bH9seZsD7fS80zo4jIj8qBNpVGN1GPGpzheyA1W%2F1683216000000%2F0%2F0%2F1683180527150%22; __ac_signature=_02B4Z6wo00f01jeUKegAAIDAOi5nxFIHml43pC1AAOnEDVqNBvvDmKdUweOHKqfvL-P3YlSyCdt-sOHz1Kdc0qDViqx86HDL6MV8uKETWo1pHzWooYQYiUIxRis0-4yPBvdQnKNwXvL.YsJub3; ttwid=1%7CpS_HsCOUf0AUGAwUWbp7ECFOXhWxOBHmKW5M9C6NywQ%7C1683179538%7C22f9025d7602bbdd215e99090f76081be069f7a8bc96d1175861da5bf0bd97b1; odin_tt=893c5f542b6b2f6e554d47fd1f72c66f3a49a4c1dd1c930081af4948b581a0115cc42e308addb2648b925a34abeb9a2e; __ac_nonce=06453911c00899eb97176; FOLLOW_LIVE_POINT_INFO=%22MS4wLjABAAAAqzk7Jv6xYkJBIH9kKtK_YUoy5bH9seZsD7fS80zo4jIj8qBNpVGN1GPGpzheyA1W%2F1683216000000%2F0%2F1683198397376%2F0%22; tt_scid=ccGyZx9w5rZi2sFssQx2wXyOq8Wz-Z-T.KCKkyurfeJihItOt0bRcnyur5mKtYvz0c5e; msToken=IB2T4XAnKU85b8ST6r-w8FzFo5GVQWzFCl0ZX4yqwL1Ue0R9K1mr1hW8JwWRIQ4qrk41eVHl9i8kjxjiuc2Ap7zwGkN3_m5dEOaxmaH19nUrBGi5L2VsoafRac_7i2E=; msToken=t1yujoW61u01PsVJXPep4aUfkXXU3J2b3tb-1Pe9XVVvCnzxkqNJcYOaMY0K_eqt3d8qb5EFkyeDsX4p_zoXXvyehlD8uvA704NyjC2FYBTEFvqvsZGkeoPA7l_Ko8w=; home_can_add_dy_2_desktop=%220%22',\n    'referer': 'https://www.douyin.com/hot',\n    'sec-ch-ua': '\"Chromium\";v=\"112\", \"Microsoft Edge\";v=\"112\", \"Not:A-Brand\";v=\"99\"',\n    'sec-ch-ua-mobile': '?0',\n    'sec-ch-ua-platform': '\"Windows\"',\n    'sec-fetch-dest': 'empty',\n    'sec-fetch-mode': 'cors',",
+        "detail": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "description": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "peekOfCode": "url = 'https://www.douyin.com/hot'\nuser_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68'\n# 热榜是动态的,使用request是获取不到的\ndef get_hot():\n    global len\n    hot_list = []\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        # 设置selenium无界面(无头模式)\n        options = EdgeOptions()",
+        "detail": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "documentation": {}
+    },
+    {
+        "label": "user_agent",
+        "kind": 5,
+        "importPath": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "description": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "peekOfCode": "user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68'\n# 热榜是动态的,使用request是获取不到的\ndef get_hot():\n    global len\n    hot_list = []\n    response = requests.get(url, headers=headers)\n    if response.status_code == 200:\n        # 设置selenium无界面(无头模式)\n        options = EdgeOptions()\n        options.use_chromium = True  # 是否开启浏览器可视化",
+        "detail": "16爬取抖音热榜.抓取抖音热榜_selenium",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "description": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "peekOfCode": "url = 'https://creator.douyin.com/billboard/home'\n# 随机请求头\nheaders = {'user-agent':UserAgent().random}\nprint(headers)",
+        "detail": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "description": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "peekOfCode": "headers = {'user-agent':UserAgent().random}\nprint(headers)",
+        "detail": "17爬取抖音创作者平台.爬取抖音创作者平台",
+        "documentation": {}
+    },
+    {
+        "label": "get_hot",
+        "kind": 2,
+        "importPath": "1抓取热点.1抓取热点",
+        "description": "1抓取热点.1抓取热点",
+        "peekOfCode": "def get_hot(html):\n    soup = BeautifulSoup(html, 'lxml')\n    # hot = soup.select(\"ls\n    # div[class='vue-recycle-scroller__item-view'] \")\n    # hot = soup.select(\"div[class='vue-recycle-scroller__item-wrapper'] \")\n    # print(hot)\ndef get_html(url, headers):\n    response = requests.get(url, headers)\n    response.encoding = response.apparent_encoding\n    return response.text",
+        "detail": "1抓取热点.1抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "get_html",
+        "kind": 2,
+        "importPath": "1抓取热点.1抓取热点",
+        "description": "1抓取热点.1抓取热点",
+        "peekOfCode": "def get_html(url, headers):\n    response = requests.get(url, headers)\n    response.encoding = response.apparent_encoding\n    return response.text\ndef main():\n    url = \"https://weibo.com/hot/search\"\n    headers = {\n        'User-Agent': 'Mozilla/5.0',\n        # 'cookie': 'SINAGLOBAL=1127422090395.0383.1677333402874; login_sid_t=6fd501faa198b431d141da46e36abf91; cross_origin_proto=SSL; _s_tentry=cn.bing.com; UOR=,,cn.bing.com; wb_view_log=1584*10561.5674999952316284; XSRF-TOKEN=_xQbXMxHxzttthAgyYyPXY6K; Apache=2282365249758.7866.1677951822828; ULV=1677951822831:2:1:1:2282365249758.7866.1677951822828:1677333402877; SUB=_2A25JB_XcDeRhGeFG6VYY9yjFyDuIHXVqdWAUrDV8PUNbmtAGLWXNkW9NeejhdTA-kq2jxQO3ZfZfdgKR_dWpiuZv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFp8XIeQiba_CObGbL6c4Vk5JpX5KzhUgL.FoMReoB4S0q4e0M2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMN1hzX1KMc1KeN; ALF=1709488395; SSOLoginState=1677952396; PC_TOKEN=056100be9b; WBPSESS=ymfvqD0sw3HEdn-XndbaYaE00KF5CwKc77ZlRileOyU_6nRMf0gyCQ89w14M7-6hsiZ8ztOa6Qilw1VgPpI5_P2jjJyw6af8cDM2o3UTktuPJE0c5kbp85xXnIWWmADGY2o3-Zdn-wBHJGax3D4etA=='\n    }",
+        "detail": "1抓取热点.1抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "1抓取热点.1抓取热点",
+        "description": "1抓取热点.1抓取热点",
+        "peekOfCode": "def main():\n    url = \"https://weibo.com/hot/search\"\n    headers = {\n        'User-Agent': 'Mozilla/5.0',\n        # 'cookie': 'SINAGLOBAL=1127422090395.0383.1677333402874; login_sid_t=6fd501faa198b431d141da46e36abf91; cross_origin_proto=SSL; _s_tentry=cn.bing.com; UOR=,,cn.bing.com; wb_view_log=1584*10561.5674999952316284; XSRF-TOKEN=_xQbXMxHxzttthAgyYyPXY6K; Apache=2282365249758.7866.1677951822828; ULV=1677951822831:2:1:1:2282365249758.7866.1677951822828:1677333402877; SUB=_2A25JB_XcDeRhGeFG6VYY9yjFyDuIHXVqdWAUrDV8PUNbmtAGLWXNkW9NeejhdTA-kq2jxQO3ZfZfdgKR_dWpiuZv; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFp8XIeQiba_CObGbL6c4Vk5JpX5KzhUgL.FoMReoB4S0q4e0M2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMN1hzX1KMc1KeN; ALF=1709488395; SSOLoginState=1677952396; PC_TOKEN=056100be9b; WBPSESS=ymfvqD0sw3HEdn-XndbaYaE00KF5CwKc77ZlRileOyU_6nRMf0gyCQ89w14M7-6hsiZ8ztOa6Qilw1VgPpI5_P2jjJyw6af8cDM2o3UTktuPJE0c5kbp85xXnIWWmADGY2o3-Zdn-wBHJGax3D4etA=='\n    }\n    # headers = {\n    #     'User-Agent': \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36\"\n    # }\n    html = get_html(url, headers)",
+        "detail": "1抓取热点.1抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "url = 'https://s.weibo.com/top/summary?cate=realtimehot'\nheaders = {\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'\n}\nresponse = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nhot_list = soup.find_all('tr', class_='td-02')\n# 提取数据",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "headers = {\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'\n}\nresponse = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nhot_list = soup.find_all('tr', class_='td-02')\n# 提取数据\nfor hot in hot_list:",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "response = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nhot_list = soup.find_all('tr', class_='td-02')\n# 提取数据\nfor hot in hot_list:\n    rank = hot.find('td', class_='td-01 ranktop').text\n    title = hot.find('td', class_='td-02').a.text\n    link = hot.find('td', class_='td-02').a['href']",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "html = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nhot_list = soup.find_all('tr', class_='td-02')\n# 提取数据\nfor hot in hot_list:\n    rank = hot.find('td', class_='td-01 ranktop').text\n    title = hot.find('td', class_='td-02').a.text\n    link = hot.find('td', class_='td-02').a['href']\n    num = hot.find('td', class_='td-02').span.text",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "soup = BeautifulSoup(html, 'lxml')\nhot_list = soup.find_all('tr', class_='td-02')\n# 提取数据\nfor hot in hot_list:\n    rank = hot.find('td', class_='td-01 ranktop').text\n    title = hot.find('td', class_='td-02').a.text\n    link = hot.find('td', class_='td-02').a['href']\n    num = hot.find('td', class_='td-02').span.text\n    print(rank, title, link, num)",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "hot_list",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取微博热搜",
+        "description": "1抓取热点.gpt_爬取微博热搜",
+        "peekOfCode": "hot_list = soup.find_all('tr', class_='td-02')\n# 提取数据\nfor hot in hot_list:\n    rank = hot.find('td', class_='td-01 ranktop').text\n    title = hot.find('td', class_='td-02').a.text\n    link = hot.find('td', class_='td-02').a['href']\n    num = hot.find('td', class_='td-02').span.text\n    print(rank, title, link, num)",
+        "detail": "1抓取热点.gpt_爬取微博热搜",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "url = 'https://news.qq.com/'\nheaders = {\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'\n}\nresponse = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nnews_list = soup.find_all('div', class_='list')\n# 提取数据",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "headers = {\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'\n}\nresponse = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nnews_list = soup.find_all('div', class_='list')\n# 提取数据\nfor news in news_list[:10]: ",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "response = requests.get(url, headers=headers)\nhtml = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nnews_list = soup.find_all('div', class_='list')\n# 提取数据\nfor news in news_list[:10]: \n    title = news.a.text\n    link = news.a['href']\n    print(title, link)",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "html = response.text\n# 解析网页源码\nsoup = BeautifulSoup(html, 'lxml')\nnews_list = soup.find_all('div', class_='list')\n# 提取数据\nfor news in news_list[:10]: \n    title = news.a.text\n    link = news.a['href']\n    print(title, link)",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "soup = BeautifulSoup(html, 'lxml')\nnews_list = soup.find_all('div', class_='list')\n# 提取数据\nfor news in news_list[:10]: \n    title = news.a.text\n    link = news.a['href']\n    print(title, link)",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "news_list",
+        "kind": 5,
+        "importPath": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "description": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "peekOfCode": "news_list = soup.find_all('div', class_='list')\n# 提取数据\nfor news in news_list[:10]: \n    title = news.a.text\n    link = news.a['href']\n    print(title, link)",
+        "detail": "1抓取热点.gpt_爬取腾讯新闻前十条",
+        "documentation": {}
+    },
+    {
+        "label": "get_html",
+        "kind": 2,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "def get_html(url, headers):\n    r = requests.get(url, headers=headers)\n    r.encoding = r.apparent_encoding  # 解决中文字符编码问题\n    return r.text\n# 建立空表格 准备数据填充\nname = []\nrank = []\ntimes = []\n# 定义解析页面函数\ndef get_pages(html):",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "get_pages",
+        "kind": 2,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "def get_pages(html):\n    soup = BeautifulSoup(html, 'html.parser')  # 使用BeautifulSoup库解析页面\n    all_topics = soup.find_all('tr')[1:]  # 获取标签内容\n    for each_topic in all_topics:\n        topic_times = each_topic.find('td', class_='last')  # 热度\n        topic_rank = each_topic.find('td', class_='first')  # 排名\n        topic_name = each_topic.find('td', class_='keyword')  # 标题目\n        if topic_rank != None and topic_name != None and topic_times != None:\n            topic_rank = each_topic.find('td', class_='first').get_text().replace(\n                ' ', '').replace('\\n', '')",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "def main():\n    url = 'http://top.baidu.com/buzz?b=1&fr=20811'\n    headers = {'User-Agent': 'Mozilla/5.0'}  # 表头信息\n    html = get_html(url, headers)\n    get_pages(html)\nif __name__ == '__main__':\n    main()\nprint(times)\nprint(name)\nprint(rank)",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "name = []\nrank = []\ntimes = []\n# 定义解析页面函数\ndef get_pages(html):\n    soup = BeautifulSoup(html, 'html.parser')  # 使用BeautifulSoup库解析页面\n    all_topics = soup.find_all('tr')[1:]  # 获取标签内容\n    for each_topic in all_topics:\n        topic_times = each_topic.find('td', class_='last')  # 热度\n        topic_rank = each_topic.find('td', class_='first')  # 排名",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "rank",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "rank = []\ntimes = []\n# 定义解析页面函数\ndef get_pages(html):\n    soup = BeautifulSoup(html, 'html.parser')  # 使用BeautifulSoup库解析页面\n    all_topics = soup.find_all('tr')[1:]  # 获取标签内容\n    for each_topic in all_topics:\n        topic_times = each_topic.find('td', class_='last')  # 热度\n        topic_rank = each_topic.find('td', class_='first')  # 排名\n        topic_name = each_topic.find('td', class_='keyword')  # 标题目",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "times",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "times = []\n# 定义解析页面函数\ndef get_pages(html):\n    soup = BeautifulSoup(html, 'html.parser')  # 使用BeautifulSoup库解析页面\n    all_topics = soup.find_all('tr')[1:]  # 获取标签内容\n    for each_topic in all_topics:\n        topic_times = each_topic.find('td', class_='last')  # 热度\n        topic_rank = each_topic.find('td', class_='first')  # 排名\n        topic_name = each_topic.find('td', class_='keyword')  # 标题目\n        if topic_rank != None and topic_name != None and topic_times != None:",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "D",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "D = {\"排名\": rank,\n     \"标题\": name,\n     \"热度\": times}\ndata = DataFrame(D)\nprint(data)\n# 生成CSV文件\nfilename = \"redian.csv\"\ndata.to_csv(filename, index=False)",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "data = DataFrame(D)\nprint(data)\n# 生成CSV文件\nfilename = \"redian.csv\"\ndata.to_csv(filename, index=False)",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "kind": 5,
+        "importPath": "1抓取热点.博客园_抓取热点",
+        "description": "1抓取热点.博客园_抓取热点",
+        "peekOfCode": "filename = \"redian.csv\"\ndata.to_csv(filename, index=False)",
+        "detail": "1抓取热点.博客园_抓取热点",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "1抓取热点.豆瓣电影排行榜",
+        "description": "1抓取热点.豆瓣电影排行榜",
+        "peekOfCode": "url = 'https://movie.douban.com/chart'\n# 获取网页源代码\nhtml = requests.get(url).text\n# 使用BeautifulSoup解析网页源代码\nsoup = BeautifulSoup(html, 'lxml')\n# 获取电影排行榜信息\nmovies_list = soup.find('div', class_='indent')\nmovies = movies_list.find_all('table')\n# 打印电影排行榜信息\nfor movie in movies:",
+        "detail": "1抓取热点.豆瓣电影排行榜",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "1抓取热点.豆瓣电影排行榜",
+        "description": "1抓取热点.豆瓣电影排行榜",
+        "peekOfCode": "html = requests.get(url).text\n# 使用BeautifulSoup解析网页源代码\nsoup = BeautifulSoup(html, 'lxml')\n# 获取电影排行榜信息\nmovies_list = soup.find('div', class_='indent')\nmovies = movies_list.find_all('table')\n# 打印电影排行榜信息\nfor movie in movies:\n    info = movie.find('div', class_='pl2')\n    # 获取电影名称",
+        "detail": "1抓取热点.豆瓣电影排行榜",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "1抓取热点.豆瓣电影排行榜",
+        "description": "1抓取热点.豆瓣电影排行榜",
+        "peekOfCode": "soup = BeautifulSoup(html, 'lxml')\n# 获取电影排行榜信息\nmovies_list = soup.find('div', class_='indent')\nmovies = movies_list.find_all('table')\n# 打印电影排行榜信息\nfor movie in movies:\n    info = movie.find('div', class_='pl2')\n    # 获取电影名称\n    movie_name = info.find('a').text\n    # 获取评分",
+        "detail": "1抓取热点.豆瓣电影排行榜",
+        "documentation": {}
+    },
+    {
+        "label": "movies_list",
+        "kind": 5,
+        "importPath": "1抓取热点.豆瓣电影排行榜",
+        "description": "1抓取热点.豆瓣电影排行榜",
+        "peekOfCode": "movies_list = soup.find('div', class_='indent')\nmovies = movies_list.find_all('table')\n# 打印电影排行榜信息\nfor movie in movies:\n    info = movie.find('div', class_='pl2')\n    # 获取电影名称\n    movie_name = info.find('a').text\n    # 获取评分\n    movie_score = info.find('span', class_='rating_nums').text\n    # 获取评价人数",
+        "detail": "1抓取热点.豆瓣电影排行榜",
+        "documentation": {}
+    },
+    {
+        "label": "movies",
+        "kind": 5,
+        "importPath": "1抓取热点.豆瓣电影排行榜",
+        "description": "1抓取热点.豆瓣电影排行榜",
+        "peekOfCode": "movies = movies_list.find_all('table')\n# 打印电影排行榜信息\nfor movie in movies:\n    info = movie.find('div', class_='pl2')\n    # 获取电影名称\n    movie_name = info.find('a').text\n    # 获取评分\n    movie_score = info.find('span', class_='rating_nums').text\n    # 获取评价人数\n    movie_evaluate = info.find('span', class_='pl').text",
+        "detail": "1抓取热点.豆瓣电影排行榜",
+        "documentation": {}
+    },
+    {
+        "label": "get_city_code",
+        "kind": 2,
+        "importPath": "4爬取城市编码.爬取城市编码",
+        "description": "4爬取城市编码.爬取城市编码",
+        "peekOfCode": "def get_city_code():\n    url = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html'\n    headers = {\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'\n    }\n    req = requests.get(url, headers=headers)\n    req.encoding = 'gb2312'\n    html = req.text\n    pattern = re.compile(r'< a href=\" \">(.*?)</ a></td>')\n    city_code = re.findall(pattern, html)",
+        "detail": "4爬取城市编码.爬取城市编码",
+        "documentation": {}
+    },
+    {
+        "label": "WeatherDB",
+        "kind": 6,
+        "importPath": "5爬取天气.1爬取天气",
+        "description": "5爬取天气.1爬取天气",
+        "peekOfCode": "class WeatherDB:\n    def __init__(self):\n        self.cursor = None\n        self.con = None\n    def openDB(self):\n        self.con = sqlite3.connect(\"weathers.db\")\n        self.cursor = self.con.cursor()\n        try:\n            self.cursor.execute(\n                \"create table weathers (wCity varchar(16),\"",
+        "detail": "5爬取天气.1爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "WeatherForecast",
+        "kind": 6,
+        "importPath": "5爬取天气.1爬取天气",
+        "description": "5爬取天气.1爬取天气",
+        "peekOfCode": "class WeatherForecast:\n    def __init__(self):\n        self.headers = {\n            \"User-Agent\": \"Mozilla/5.0 (Windows; U; Windows NT 6.0 x64; en-US; rv:1.9pre) \"\n                          \"Gecko/2008072421 Minefield/3.0.2pre\"}\n        self.cityCode = {\"北京\": \"101010100\", \"上海\": \"101020100\",\n                         \"广州\": \"101280101\", \"深圳\": \"101280601\"}\n    def forecastCity(self, city):\n        if city not in self.cityCode.keys():\n            print(city + \" 找不到代码\")",
+        "detail": "5爬取天气.1爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "ws",
+        "kind": 5,
+        "importPath": "5爬取天气.1爬取天气",
+        "description": "5爬取天气.1爬取天气",
+        "peekOfCode": "ws = WeatherForecast()\nws.process([\"北京\", \"上海\", \"广州\", \"深圳\"])\nprint(\"completed\")",
+        "detail": "5爬取天气.1爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "get_weather",
+        "kind": 2,
+        "importPath": "5爬取天气.2爬取天气",
+        "description": "5爬取天气.2爬取天气",
+        "peekOfCode": "def get_weather(html):\n    soup = BeautifulSoup(html, 'lxml')\n    weather_remind = soup.select(\"div[id='CurrentWeatherSummary'] p\")[0].text\n    temperature = soup.select(\n        \"div[id='OverviewCurrentTemperature'] a\")[0][\"title\"]\n    print(\"现在温度是: \" + temperature)\n    print(weather_remind)\ndef get_html(url, headers):\n    # 模仿浏览器发送请求\n    request = requests.get(url, headers)",
+        "detail": "5爬取天气.2爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "get_html",
+        "kind": 2,
+        "importPath": "5爬取天气.2爬取天气",
+        "description": "5爬取天气.2爬取天气",
+        "peekOfCode": "def get_html(url, headers):\n    # 模仿浏览器发送请求\n    request = requests.get(url, headers)\n    print('linxinhuan1')\n    print('jiushi1lixninhaun1jiushilinxihuan1')\n    request.encoding = request.apparent_encoding  # 用网页的编码设置编码, 解决中文乱码问题\n    return request.text\ndef main():\n    url = \"https://www.msn.cn/zh-cn/weather/forecast/in-广西壮族自治区,桂林市,雁山区\"\n    filename = \"\"",
+        "detail": "5爬取天气.2爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "5爬取天气.2爬取天气",
+        "description": "5爬取天气.2爬取天气",
+        "peekOfCode": "def main():\n    url = \"https://www.msn.cn/zh-cn/weather/forecast/in-广西壮族自治区,桂林市,雁山区\"\n    filename = \"\"\n    headers = {'User-Agent': 'Mozilla/5.0'}  # 表头信息\n    html = get_html(url, headers)\n    get_weather(html)\nif __name__ == '__main__':\n    main()\n    # get_msn_forecast(\"河北省\")",
+        "detail": "5爬取天气.2爬取天气",
+        "documentation": {}
+    },
+    {
+        "label": "get_msn_forecast",
+        "kind": 2,
+        "importPath": "5爬取天气.3抓取天气_AI补全版",
+        "description": "5爬取天气.3抓取天气_AI补全版",
+        "peekOfCode": "def get_msn_forecast(city):    #city is a string, e.g. \"河北省,山leen\"\n    _url = \"https://www.msn.cn/zh-cn/search/location?\" + urllib.parse.urlencode({'q': '河北省', 'c': 'h'}) + \"&br=on\"  # noqa:E501,F841  # pylint: disable=invalid-name  # noqa:E501,F841  # pylint: disable=line-too-long  # pylint: disable=invalid-name  # pylint: disable=line-too-long  # pylint: disable=no-member  # pylint: disable=line-too-long  # pylint: disable=no-\n    _headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'}  # pylint\n    _session = requests.session()  # pylint: disable=invalid-name  # pylint: disable=invalid-name\n    _session.headers.update(_headers)  # pylint: disable=no-member  # pylint: disable=no-member\n    _page = _session.get(_url)  # pylint: disable=no-member  # pylint: disable=no-member\n    # pylint: enable=no-member  # pylint: enable=no-member  # pylint: enable=no-member\n    _souper = bs4.BeautifulSoup(_page.text, 'html.parser')  # pylint: disable=in\n    _forecast_table = _souper.find('table', {'class': 'forecastTable'}).find_all()('tr')\n    forecast_array = []  # pylint: disable=invalid-name  # pylint: disable=invalid-name  # pylint: disable=no-member  # pylint: disable=no-member  # pylint: disable=line-too-long  # pylint: disable=no-member  # pylint: disable=line-too-long  # pylint: enable=line-too-long  # pylint: enable=no-member  # pylint: enable=line-too-long  #",
+        "detail": "5爬取天气.3抓取天气_AI补全版",
+        "documentation": {}
+    },
+    {
+        "label": "getHTMLText",
+        "kind": 2,
+        "importPath": "6爬取大学排名.1爬取大学排名",
+        "description": "6爬取大学排名.1爬取大学排名",
+        "peekOfCode": "def getHTMLText(url):  # 获取URL信息，输出内容\n    # =========================方式1获取=========================\n    try:\n        res = requests.get(url)  # 使用requests库爬取\n        res.raise_for_status()  # 产生异常信息\n        res.encoding = res.apparent_encoding  # 修改编码\n        return res.text  # 返回网页编码\n    except Exception as err:\n        print(err)\n    # =========================方式2获取=========================",
+        "detail": "6爬取大学排名.1爬取大学排名",
+        "documentation": {}
+    },
+    {
+        "label": "fillUnivList",
+        "kind": 2,
+        "importPath": "6爬取大学排名.1爬取大学排名",
+        "description": "6爬取大学排名.1爬取大学排名",
+        "peekOfCode": "def fillUnivList(ulist, html):  # 将html页面放到ulist列表中(核心)\n    # 解析网页文件（使用html解释器）\n    soup = BeautifulSoup(html, \"html.parser\")\n    # soup.prettify()  # 把soup对象的文档树变换成一个字符串\n    # 数据结构:所用数据都封装在一个表格(标签tbody)中，单个学校信息在tr标签中，详细信息在td标签中\n    # 学校名称在a标签中，定义一个列表单独存放a标签内容\n    for tr in soup.find('tbody').children:\n        if isinstance(tr, bs4.element.Tag):  # 如果tr标签的类型不是bs4库中定义的tag类型，则过滤掉\n            a = tr('a')  # 把所用的a标签存为一个列表类型\n            tds = tr('td')  # 将所有的td标签存为一个列表类型",
+        "detail": "6爬取大学排名.1爬取大学排名",
+        "documentation": {}
+    },
+    {
+        "label": "printUnivList",
+        "kind": 2,
+        "importPath": "6爬取大学排名.1爬取大学排名",
+        "description": "6爬取大学排名.1爬取大学排名",
+        "peekOfCode": "def printUnivList(ulist1, num):  # 打印出ulist列表的信息，num表示希望将列表中的多少个元素打印出来\n    # 格式化输出\n    tplt = \"{0:^10}\\t{1:^10}\\t{2:^12}\\t{3:^12}\\t{4:^10}\"\n    print(tplt.format(\"排名\", \"学校名称\", \"省份\", \"学校类型\", \"总分\"))\n    for i in range(num):\n        u = ulist1[i]\n        print(tplt.format(u[0], u[1], u[2], u[3], u[4]))\n'ss'\ndef main():\n    uinfo = []  # 将大学信息放到列表中",
+        "detail": "6爬取大学排名.1爬取大学排名",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "6爬取大学排名.1爬取大学排名",
+        "description": "6爬取大学排名.1爬取大学排名",
+        "peekOfCode": "def main():\n    uinfo = []  # 将大学信息放到列表中\n    url = \"https://www.shanghairanking.cn/rankings/bcur/2020\"\n    html = getHTMLText(url)\n    fillUnivList(uinfo, html)\n    printUnivList(uinfo, 30)  # 一个界面的数据\nif __name__ == '__main__':\n    main()",
+        "detail": "6爬取大学排名.1爬取大学排名",
+        "documentation": {}
+    },
+    {
+        "label": "Img",
+        "kind": 6,
+        "importPath": "7爬取壁纸.1爬取动漫壁纸",
+        "description": "7爬取壁纸.1爬取动漫壁纸",
+        "peekOfCode": "class Img():\n    url_basic = \"https://konachan.net/post/show/353{}\"\n    headers = {\n        'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36 Edg/110.0.1587.63',\n        'cookie': 'cf_clearance=7jkQWxfribBphidBEgoj2lYT11nMvkJvZZXLP8qPve8-1677999453-0-160; country=CN; blacklisted_tags=%5B%22%22%5D; konachan.net=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJThkNDkxM2EwYWRkMDU0MTBlYjlhNjRjMTVmNDkwNzVlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMW9jUm9rZ0M5MWFlMk0veTVqaktJYUNOMlh5Z3AxRVlBdzVDbEhXbkorcXc9BjsARg%3D%3D--951bd140d3a24ebe202274b9b89f828cca69ff75; __utma=20658210.391917013.1677999462.1677999462.1677999462.1; __utmc=20658210; __utmz=20658210.1677999462.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); vote=1; reported_error=1; forum_post_last_read_at=%222023-03-05T08%3A02%3A47%2B01%3A00%22; cf_chl_2=27ec65179f4022c'\n    }\n    # 下载图片\n    def get_img(self):\n        # for num in range(550, 600+1):\n        for num in range(555, 557):",
+        "detail": "7爬取壁纸.1爬取动漫壁纸",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "7爬取壁纸.爬取壁纸_代码模板",
+        "description": "7爬取壁纸.爬取壁纸_代码模板",
+        "peekOfCode": "def download(img, count):\n    r = requests.get(img, headers=headers)\n    pic = r.content\n    try:\n        with open('{}.jpg'.format(count), 'wb') as f:\n            f.write(pic)\n            print('{}.jpg-----下载成功'.format(count))\n    except:\n        print('下载失败！')\ndef get_img(img_url):",
+        "detail": "7爬取壁纸.爬取壁纸_代码模板",
+        "documentation": {}
+    },
+    {
+        "label": "get_img",
+        "kind": 2,
+        "importPath": "7爬取壁纸.爬取壁纸_代码模板",
+        "description": "7爬取壁纸.爬取壁纸_代码模板",
+        "peekOfCode": "def get_img(img_url):\n    r = requests.get(img_url, headers=headers)\n    html = r.content.decode('gbk')\n    tree = etree.HTML(html)\n    # 图片链接\n    img_list = tree.xpath(\n        '//div[@id=\"main\"]/div[@class=\"slist\"]/ul/li/a/img/@src')\n    # print(img_list, len(img_list))\n    count = 1\n    for img in img_list:",
+        "detail": "7爬取壁纸.爬取壁纸_代码模板",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "7爬取壁纸.爬取壁纸_代码模板",
+        "description": "7爬取壁纸.爬取壁纸_代码模板",
+        "peekOfCode": "def main():\n    # 启始url\n    url = 'http://pic.netbian.com/4kdongman/'\n    req = requests.get(url, headers=headers)\n    html = req.content.decode('gbk')\n    # print(html)\n    tree = etree.HTML(html)\n    # 提取壁纸页数\n    num = tree.xpath('//div[@class=\"page\"]/a[last() - 1]/text()')[0]\n    for i in range(int(num)):",
+        "detail": "7爬取壁纸.爬取壁纸_代码模板",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "7爬取壁纸.爬取壁纸_代码模板",
+        "description": "7爬取壁纸.爬取壁纸_代码模板",
+        "peekOfCode": "headers = {\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',\n}\ndef download(img, count):\n    r = requests.get(img, headers=headers)\n    pic = r.content\n    try:\n        with open('{}.jpg'.format(count), 'wb') as f:\n            f.write(pic)\n            print('{}.jpg-----下载成功'.format(count))",
+        "detail": "7爬取壁纸.爬取壁纸_代码模板",
+        "documentation": {}
+    },
+    {
+        "label": "get_info",
+        "kind": 2,
+        "importPath": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "description": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "peekOfCode": "def get_info(url):\n    response = requests.get(url=url, headers=headers)\n    html = response.content.decode(\"utf-8\")\n    print(url, response.status_code)  # 输出url的状态码\n    if response.status_code == 200:  # 如果访问正常\n        contents = re.findall('<p>(.*?)</p>', html, re.S)\n        # 用正则表达式查找所有文字,re.S是re.dotall的缩写,\n        #   re.S 的作用是让正则表达式中的点（.）匹配包括换行符在内的所有字符，\n        #       以便可以正确地匹配多行文本中的段落。\n        for contents in contents:",
+        "detail": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "description": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "peekOfCode": "headers = {\n    \"User-Agent\": \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36\"\n}\n# 定义获取信息的函数\ndef get_info(url):\n    response = requests.get(url=url, headers=headers)\n    html = response.content.decode(\"utf-8\")\n    print(url, response.status_code)  # 输出url的状态码\n    if response.status_code == 200:  # 如果访问正常\n        contents = re.findall('<p>(.*?)</p>', html, re.S)",
+        "detail": "8斗破苍穹小说.爬取斗破苍穹小说",
+        "documentation": {}
+    },
+    {
+        "label": "datetime_to_timestamp_in_milliseconds",
+        "kind": 2,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "def datetime_to_timestamp_in_milliseconds(d):\n    def current_milli_time(): return int(round(time.time() * 1000))\n    return current_milli_time()\nreload(sys)\ndef LoadUserAgents(uafile):\n    uas = []\n    with open(uafile, 'rb') as uaf:\n        for ua in uaf.readlines():\n            if ua:\n                uas.append(ua.strip()[:-1])",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "LoadUserAgents",
+        "kind": 2,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "def LoadUserAgents(uafile):\n    uas = []\n    with open(uafile, 'rb') as uaf:\n        for ua in uaf.readlines():\n            if ua:\n                uas.append(ua.strip()[:-1])\n    random.shuffle(uas)\n    return uas\nuas = LoadUserAgents(\"user_agents.txt\")\nhead = {",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "uas",
+        "kind": 5,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "uas = LoadUserAgents(\"user_agents.txt\")\nhead = {\n    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',\n    'X-Requested-With': 'XMLHttpRequest',\n    'Referer': 'http://space.bilibili.com/45388',\n    'Origin': 'http://space.bilibili.com',\n    'Host': 'space.bilibili.com',\n    'AlexaToolbar-ALX_NS_PH': 'AlexaToolbar/alx-4.0',\n    'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4',\n    'Accept': 'application/json, text/javascript, */*; q=0.01',",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "kind": 5,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "head = {\n    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',\n    'X-Requested-With': 'XMLHttpRequest',\n    'Referer': 'http://space.bilibili.com/45388',\n    'Origin': 'http://space.bilibili.com',\n    'Host': 'space.bilibili.com',\n    'AlexaToolbar-ALX_NS_PH': 'AlexaToolbar/alx-4.0',\n    'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6,ja;q=0.4',\n    'Accept': 'application/json, text/javascript, */*; q=0.01',\n}",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "proxies",
+        "kind": 5,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "proxies = {\n    'http': 'http://120.26.110.59:8080',\n    'http': 'http://120.52.32.46:80',\n    'http': 'http://218.85.133.62:80',\n}\ntime1 = time.time()\nurls = []\n# Please change the range data by yourself.\nfor m in range(5214, 5215):\n    for i in range(m * 100, (m + 1) * 100):",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "time1",
+        "kind": 5,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "time1 = time.time()\nurls = []\n# Please change the range data by yourself.\nfor m in range(5214, 5215):\n    for i in range(m * 100, (m + 1) * 100):\n        url = 'https://space.bilibili.com/' + str(i)\n        urls.append(url)\n    def getsource(url):\n        payload = {\n            '_': datetime_to_timestamp_in_milliseconds(datetime.datetime.now()),",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "kind": 5,
+        "importPath": "9爬取B站用户.bilibili_user",
+        "description": "9爬取B站用户.bilibili_user",
+        "peekOfCode": "urls = []\n# Please change the range data by yourself.\nfor m in range(5214, 5215):\n    for i in range(m * 100, (m + 1) * 100):\n        url = 'https://space.bilibili.com/' + str(i)\n        urls.append(url)\n    def getsource(url):\n        payload = {\n            '_': datetime_to_timestamp_in_milliseconds(datetime.datetime.now()),\n            'mid': url.replace('https://space.bilibili.com/', '')",
+        "detail": "9爬取B站用户.bilibili_user",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "9爬取B站用户.get_face",
+        "description": "9爬取B站用户.get_face",
+        "peekOfCode": "f = open(\"/Users/airing/Documents/work/Data/bilibili_user_face.txt\")\nline = f.readline()\nfor i in range(1, 1000):\n    print (line)\n    if re.match('http://static.*', line):\n        line = f.readline()\n        print ('noface:' + str(i))\n    else:\n        path = r\"/Users/airing/Documents/work/Data/face/\" + str(i) + \".jpg\"\n        data = urllib.urlretrieve(line, path)",
+        "detail": "9爬取B站用户.get_face",
+        "documentation": {}
+    },
+    {
+        "label": "line",
+        "kind": 5,
+        "importPath": "9爬取B站用户.get_face",
+        "description": "9爬取B站用户.get_face",
+        "peekOfCode": "line = f.readline()\nfor i in range(1, 1000):\n    print (line)\n    if re.match('http://static.*', line):\n        line = f.readline()\n        print ('noface:' + str(i))\n    else:\n        path = r\"/Users/airing/Documents/work/Data/face/\" + str(i) + \".jpg\"\n        data = urllib.urlretrieve(line, path)\n        line = f.readline()",
+        "detail": "9爬取B站用户.get_face",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "9爬取B站用户.pathTest",
+        "description": "9爬取B站用户.pathTest",
+        "peekOfCode": "path = os.getcwd()\nprint('当前的路径为:',path)",
+        "detail": "9爬取B站用户.pathTest",
+        "documentation": {}
+    }
+]

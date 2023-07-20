@@ -1,0 +1,1 @@
+docker run -d -p 3000:3000 -e OPENAI_API_KEY="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 -- 5$" -e CODE="linxinhuan123" --net=host -e PROXY_URL="http://127.0.0.1:7890" yidadaa/chatgpt-next-web

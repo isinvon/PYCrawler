@@ -1,0 +1,155 @@
+Date : 2023-05-09 02:01:14
+Directory : d:\PYproject\PYscript
+Total : 87 files,  1770 codes, 334 comments, 505 blanks, all 2609 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Python           |         70 |      1,397 |        322 |        403 |      2,122 |
+| Markdown         |          3 |        137 |          0 |         89 |        226 |
+| Excel            |          1 |         78 |          0 |          1 |         79 |
+| XML              |          8 |         67 |          0 |          0 |         67 |
+| SQL              |          1 |         51 |         12 |          8 |         71 |
+| pip requirements |          1 |         38 |          0 |          1 |         39 |
+| CSV              |          2 |          1 |          0 |          2 |          3 |
+| Log              |          1 |          1 |          0 |          1 |          2 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         87 |      1,770 |        334 |        505 |      2,609 |
+| .idea                                                                              |          8 |         67 |          0 |          0 |         67 |
+| .idea (Files)                                                                      |          5 |         34 |          0 |          0 |         34 |
+| .idea\dictionaries                                                                 |          1 |          3 |          0 |          0 |          3 |
+| .idea\inspectionProfiles                                                           |          2 |         30 |          0 |          0 |         30 |
+| 100测试文件夹                                                                           |          1 |          1 |          2 |          1 |          4 |
+| 10博客园爬虫                                                                            |          4 |        184 |          5 |         19 |        208 |
+| 12爬取b站弹幕                                                                           |          4 |         90 |         23 |         29 |        142 |
+| 13自动答题脚本                                                                           |          2 |          0 |          7 |          5 |         12 |
+| 14抓取抖音数据                                                                           |         34 |        499 |        100 |        146 |        745 |
+| 14抓取抖音数据\test                                                                      |          6 |         40 |         19 |         14 |         73 |
+| 14抓取抖音数据\教程                                                                        |         25 |        366 |         38 |        111 |        515 |
+| 14抓取抖音数据\教程 (Files)                                                                |          1 |          0 |          0 |          1 |          1 |
+| 14抓取抖音数据\教程\教程1                                                                    |          4 |         53 |          1 |         17 |         71 |
+| 14抓取抖音数据\教程\教程1 (Files)                                                            |          1 |          0 |          0 |          1 |          1 |
+| 14抓取抖音数据\教程\教程1\DouYin-Video-Crawler                                               |          3 |         53 |          1 |         16 |         70 |
+| 14抓取抖音数据\教程\教程2                                                                    |         16 |        258 |         16 |         79 |        353 |
+| 14抓取抖音数据\教程\教程2 (Files)                                                            |          1 |          0 |          0 |          1 |          1 |
+| 14抓取抖音数据\教程\教程2\douyin_bot                                                         |         15 |        258 |         16 |         78 |        352 |
+| 14抓取抖音数据\教程\教程2\douyin_bot (Files)                                                 |          4 |        108 |          1 |         37 |        146 |
+| 14抓取抖音数据\教程\教程2\douyin_bot\adb                                                     |          3 |         59 |          1 |         16 |         76 |
+| 14抓取抖音数据\教程\教程2\douyin_bot\resource                                                |          4 |         49 |          2 |         11 |         62 |
+| 14抓取抖音数据\教程\教程2\douyin_bot\tool                                                    |          4 |         42 |         12 |         14 |         68 |
+| 14抓取抖音数据\教程\教程3_知乎版                                                                |          2 |         25 |          9 |          6 |         40 |
+| 14抓取抖音数据\教程\教程4_腾讯云                                                                |          2 |         30 |         12 |          8 |         50 |
+| 14抓取抖音数据\爬取抖音数据_myself                                                             |          3 |         93 |         43 |         21 |        157 |
+| 15爬取b站视频                                                                           |          4 |        112 |         59 |         45 |        216 |
+| 16爬取抖音热榜                                                                           |          4 |        113 |         28 |         35 |        176 |
+| 17爬取抖音创作者平台                                                                        |          1 |         22 |          2 |          3 |         27 |
+| 1抓取热点                                                                              |          8 |        132 |         39 |         40 |        211 |
+| 2抓取代理ip                                                                            |          1 |          5 |          0 |          2 |          7 |
+| 3微信机器人                                                                             |          2 |          2 |          0 |          4 |          6 |
+| 4爬取城市编码                                                                            |          2 |         16 |          0 |          6 |         22 |
+| 5爬取天气                                                                              |          3 |        124 |         17 |         33 |        174 |
+| 6爬取大学排名                                                                            |          1 |         40 |         12 |         12 |         64 |
+| 7爬取壁纸                                                                              |          2 |         66 |         12 |         19 |         97 |
+| 8斗破苍穹小说                                                                            |          1 |         25 |          9 |          8 |         42 |
+| 9爬取B站用户                                                                            |          5 |        272 |         19 |         98 |        389 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                           | language         | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| d:\PYproject\PYscript\.idea\PYscript.iml                                           | XML              |          8 |          0 |          0 |          8 |
+| d:\PYproject\PYscript\.idea\dictionaries\sinvon.xml                                | XML              |          3 |          0 |          0 |          3 |
+| d:\PYproject\PYscript\.idea\encodings.xml                                          | XML              |          6 |          0 |          0 |          6 |
+| d:\PYproject\PYscript\.idea\inspectionProfiles\Project_Default.xml                 | XML              |         23 |          0 |          0 |         23 |
+| d:\PYproject\PYscript\.idea\inspectionProfiles\profiles_settings.xml               | XML              |          7 |          0 |          0 |          7 |
+| d:\PYproject\PYscript\.idea\misc.xml                                               | XML              |          4 |          0 |          0 |          4 |
+| d:\PYproject\PYscript\.idea\modules.xml                                            | XML              |          8 |          0 |          0 |          8 |
+| d:\PYproject\PYscript\.idea\vcs.xml                                                | XML              |          8 |          0 |          0 |          8 |
+| d:\PYproject\PYscript\100测试文件夹\demo1.py                                            | Python           |          1 |          2 |          1 |          4 |
+| d:\PYproject\PYscript\10博客园爬虫\博园客文章信息.xlsx                                         | Excel            |         78 |          0 |          1 |         79 |
+| d:\PYproject\PYscript\10博客园爬虫\博园客爬虫.py                                             | Python           |         50 |          3 |          7 |         60 |
+| d:\PYproject\PYscript\10博客园爬虫\博客园爬虫(无效).py                                         | Python           |         22 |          2 |          6 |         30 |
+| d:\PYproject\PYscript\10博客园爬虫\测试get_info()方法.py                                    | Python           |         34 |          0 |          5 |         39 |
+| d:\PYproject\PYscript\12爬取b站弹幕\__init__.py                                         | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\12爬取b站弹幕\爬取b站弹幕1.py                                          | Python           |         31 |          5 |          6 |         42 |
+| d:\PYproject\PYscript\12爬取b站弹幕\爬取b站弹幕2.py                                          | Python           |         48 |         14 |         17 |         79 |
+| d:\PYproject\PYscript\12爬取b站弹幕\词云图测试.py                                            | Python           |         11 |          4 |          5 |         20 |
+| d:\PYproject\PYscript\13自动答题脚本\__init__.py                                         | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\13自动答题脚本\自动答题脚本.py                                           | Python           |          0 |          7 |          4 |         11 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\URL的解码和编码_test.py                              | Python           |          5 |          3 |          2 |         10 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\__init__.py                                    | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\bs4查找特定文本的标签_test.py                           | Python           |         11 |          4 |          1 |         16 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\切片法去掉头尾字符_test.py                              | Python           |          7 |          0 |          1 |          8 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\获取含该文本的父类标签_test.py                            | Python           |         13 |          3 |          6 |         22 |
+| d:\PYproject\PYscript\14抓取抖音数据\test\重定向测试_test.py                                  | Python           |          4 |          9 |          3 |         16 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\__init__.py                                      | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程1\DouYin-Video-Crawler\DouYin.py               | Python           |         39 |          1 |          9 |         49 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程1\DouYin-Video-Crawler\README.md               | Markdown         |         14 |          0 |          6 |         20 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程1\DouYin-Video-Crawler\__init__.py             | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程1\__init__.py                                  | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\__init__.py                                  | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\Launcher.py                       | Python           |         20 |          1 |         10 |         31 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\README.md                         | Markdown         |         50 |          0 |         25 |         75 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\__init__.py                       | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\adb\AdbShell.py                   | Python           |         39 |          1 |          8 |         48 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\adb\AutoSlide.py                  | Python           |         20 |          0 |          7 |         27 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\adb\__init__.py                   | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\requirements.txt                  | pip requirements |         38 |          0 |          1 |         39 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\resource\BaseVideo.py             | Python           |         10 |          0 |          2 |         12 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\resource\__init__.py              | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\resource\douyin_config.py         | Python           |         19 |          1 |          4 |         24 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\resource\douyin_huoshan_config.py | Python           |         20 |          1 |          4 |         25 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\tool\Downloader.py                | Python           |         23 |          5 |          7 |         35 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\tool\JsonTool.py                  | Python           |         12 |          7 |          1 |         20 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\tool\Session.py                   | Python           |          7 |          0 |          5 |         12 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程2\douyin_bot\tool\__init__.py                  | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程3_知乎版\__init__.py                              | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程3_知乎版\爬取抖音视频.py                                | Python           |         25 |          9 |          5 |         39 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程4_腾讯云\__init__.py                              | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\教程\教程4_腾讯云\爬取抖音视频.py                                | Python           |         30 |         12 |          7 |         49 |
+| d:\PYproject\PYscript\14抓取抖音数据\爬取抖音数据_myself\__init__.py                           | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\爬取抖音数据_myself\tempCodeRunnerFile.py                 | Python           |          1 |          0 |          0 |          1 |
+| d:\PYproject\PYscript\14抓取抖音数据\爬取抖音数据_myself\爬取抖音视频&主页&作者信息.py                     | Python           |         92 |         43 |         20 |        155 |
+| d:\PYproject\PYscript\15爬取b站视频\__init__.py                                         | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\15爬取b站视频\osDemo.py                                           | Python           |          4 |          2 |          9 |         15 |
+| d:\PYproject\PYscript\15爬取b站视频\正则表达式测试.py                                          | Python           |         27 |          3 |         17 |         47 |
+| d:\PYproject\PYscript\15爬取b站视频\爬取b站视频.py                                           | Python           |         81 |         54 |         18 |        153 |
+| d:\PYproject\PYscript\16爬取抖音热榜\format_test.py                                      | Python           |         15 |          3 |          3 |         21 |
+| d:\PYproject\PYscript\16爬取抖音热榜\geckodriver.log                                     | Log              |          1 |          0 |          1 |          2 |
+| d:\PYproject\PYscript\16爬取抖音热榜\selenium_test.py                                    | Python           |         30 |          3 |         14 |         47 |
+| d:\PYproject\PYscript\16爬取抖音热榜\抓取抖音热榜(selenium).py                                 | Python           |         67 |         22 |         17 |        106 |
+| d:\PYproject\PYscript\17爬取抖音创作者平台\爬取抖音创作者平台.py                                     | Python           |         22 |          2 |          3 |         27 |
+| d:\PYproject\PYscript\1抓取热点\1抓取热点.py                                               | Python           |         20 |          8 |         10 |         38 |
+| d:\PYproject\PYscript\1抓取热点\gpt_爬取微博热搜.py                                          | Python           |         16 |          3 |          3 |         22 |
+| d:\PYproject\PYscript\1抓取热点\gpt_爬取腾讯新闻前十条.py                                       | Python           |         14 |          3 |          1 |         18 |
+| d:\PYproject\PYscript\1抓取热点\redian.csv                                             | CSV              |          1 |          0 |          1 |          2 |
+| d:\PYproject\PYscript\1抓取热点\博客园_抓取热点.py                                            | Python           |         46 |          6 |         14 |         66 |
+| d:\PYproject\PYscript\1抓取热点\热搜榜-2023-03-05.csv                                     | CSV              |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\1抓取热点\知乎_抓取微博热点.py                                           | Python           |         21 |         10 |          5 |         36 |
+| d:\PYproject\PYscript\1抓取热点\豆瓣电影排行榜.py                                             | Python           |         14 |          9 |          5 |         28 |
+| d:\PYproject\PYscript\2抓取代理ip\抓取代理ip.py                                            | Python           |          5 |          0 |          2 |          7 |
+| d:\PYproject\PYscript\3微信机器人\__init__.py                                           | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\3微信机器人\微信机器人.py                                              | Python           |          2 |          0 |          3 |          5 |
+| d:\PYproject\PYscript\4爬取城市编码\__init__.py                                          | Python           |          0 |          0 |          1 |          1 |
+| d:\PYproject\PYscript\4爬取城市编码\爬取城市编码.py                                            | Python           |         16 |          0 |          5 |         21 |
+| d:\PYproject\PYscript\5爬取天气\1爬取天气.py                                               | Python           |         83 |          4 |         17 |        104 |
+| d:\PYproject\PYscript\5爬取天气\2爬取天气.py                                               | Python           |         23 |          5 |         12 |         40 |
+| d:\PYproject\PYscript\5爬取天气\3抓取天气_AI补全版.py                                         | Python           |         18 |          8 |          4 |         30 |
+| d:\PYproject\PYscript\6爬取大学排名\1爬取大学排名.py                                           | Python           |         40 |         12 |         12 |         64 |
+| d:\PYproject\PYscript\7爬取壁纸\1爬取动漫壁纸.py                                             | Python           |         22 |          2 |          7 |         31 |
+| d:\PYproject\PYscript\7爬取壁纸\爬取壁纸_代码模板.py                                           | Python           |         44 |         10 |         12 |         66 |
+| d:\PYproject\PYscript\8斗破苍穹小说\爬取斗破苍穹小说.py                                          | Python           |         25 |          9 |          8 |         42 |
+| d:\PYproject\PYscript\9爬取B站用户\README.md                                            | Markdown         |         73 |          0 |         58 |        131 |
+| d:\PYproject\PYscript\9爬取B站用户\bilibili_user.py                                     | Python           |        130 |          5 |         23 |        158 |
+| d:\PYproject\PYscript\9爬取B站用户\bilibili_user_info.sql                               | SQL              |         51 |         12 |          8 |         71 |
+| d:\PYproject\PYscript\9爬取B站用户\get_face.py                                          | Python           |         15 |          1 |          5 |         21 |
+| d:\PYproject\PYscript\9爬取B站用户\pathTest.py                                          | Python           |          3 |          1 |          4 |          8 |
+| Total                                                                              |                  |      1,770 |        334 |        505 |      2,609 |
++------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

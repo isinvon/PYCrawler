@@ -1,0 +1,21 @@
+
+<script data-react-helmet="true" type="application/ld+json">{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "抖音",
+            "item": "https://www.douyin.com"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "蜘蛛侠弹吉他🎸",
+            "item": "https://www.douyin.com/user/MS4wLjABAAAAvSoKxfeyYWWJS9WJOaTmhNMc8P9alE0KW9pMXgCyLQs"
+          },{
+            "@type": "ListItem",
+            "position": 3,
+            "name": "视频作品",
+            "item": "https://www.douyin.com/video/7211517706783182118"
+          }]
+        }</script>

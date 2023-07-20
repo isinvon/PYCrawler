@@ -1,0 +1,43 @@
+
+
+haeders = {
+        'access-control-allow-credentials': 'true',
+        'access-control-allow-origin': 'https://juejin.cn',
+        'access-control-expose-headers': 'X-Ware-Csrf-Token',
+        'content-length': '73',
+        'content-type': 'application/json; charset=utf-8',
+        'date': 'Mon, 22 May 2023 03:43:23 GMT',
+        'eagleid': '7110d68e16847270038968765e',
+        'server': 'Tengine',
+        'server-timing': 'cdn-cache;desc=MISS,edge;dur=0,origin;dur=81',
+        'server-timing': 'inner; dur=33, tt_agw; dur=15',
+        'timing-allow-origin': '*',
+        'vary': 'Origin',
+        'via': 'ens-vcache2.cn4796[81,0]',
+        'x-tt-logid': '202305221143239B296CEF4FFB3758D08A',
+        'x-tt-timestamp': '1684727003.955',
+        'x-tt-trace-host': '01f2e8026e48fdd64a349e18bafbb991736266a6b746b427d800096850908da994d7cb856cb2f2011529b9008e28b1a11a66dc6e3a0380917e66d1abda955b9d717b1273ec12c075189a874b43cf917341c8ff5a8fdbfb8d34e638efc6bb270222',
+        'x-tt-trace-tag': 'id=03;cdn-cache=miss;type=dyn',
+        ':authority': 'api.juejin.cn',
+        ':method': 'GET',
+        ':path': '/user_api/v1/user/profile_id?aid=2608&uuid=7227755818714875392&spider=0&web_id=7227755818714875392',
+        ':scheme': 'https',
+        'accept': '*/*',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+        'content-type': 'application/json',
+        'cookie': 'csrf_session_id=2096d5342140377b24e8340d8ce5b173; _tea_utm_cache_2608=undefined; __tea_cookie_tokens_2608=%257B%2522web_id%2522%253A%25227227755818714875392%2522%252C%2522user_unique_id%2522%253A%25227227755818714875392%2522%252C%2522timestamp%2522%253A1682843065738%257D; passport_csrf_token=6ed71327115eb2206befd795f3de795f; passport_csrf_token_default=6ed71327115eb2206befd795f3de795f; n_mh=l_zjKz5JBJY58MiSW1A3SC9NxmXsBL5sTVgT0k9tCMw; store-region=cn-gx; store-region-src=uid; uid_tt=164933008129563eef9e8cc51fb20296; uid_tt_ss=164933008129563eef9e8cc51fb20296; sid_tt=dc0600731af1d21cde82894b30153afe; sessionid=dc0600731af1d21cde82894b30153afe; sessionid_ss=dc0600731af1d21cde82894b30153afe; sid_guard=dc0600731af1d21cde82894b30153afe%7C1684726610%7C31536000%7CTue%2C+21-May-2024+03%3A36%3A50+GMT; sid_ucp_v1=1.0.0-KDQ1ZWNmNWI0M2ZkNmQzMzdiMzgyMWI4ZmIyN2Q0OTIyNWQzZDMwYTMKFwidx_D4x42fBBDSxqujBhiwFDgCQO8HGgJsZiIgZGMwNjAwNzMxYWYxZDIxY2RlODI4OTRiMzAxNTNhZmU; ssid_ucp_v1=1.0.0-KDQ1ZWNmNWI0M2ZkNmQzMzdiMzgyMWI4ZmIyN2Q0OTIyNWQzZDMwYTMKFwidx_D4x42fBBDSxqujBhiwFDgCQO8HGgJsZiIgZGMwNjAwNzMxYWYxZDIxY2RlODI4OTRiMzAxNTNhZmU; msToken=VOw783LunvesqzG6wcOHBvrNhoJXAlkuPwMO377aHUXAzR5iZigaRdi79j5yLkqQ22p28toml8zfevLKR9v5-BIep6E645eDAu5uSz6A4rKO',
+        'origin': 'https://juejin.cn',
+        'referer': 'https://juejin.cn/',
+        'sec-ch-ua': '"Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50',
+        }
+        response = requests.get(url)
+        response.encoding = response.apparent_encoding
+        html = response.text
+        print(html)

@@ -1,0 +1,15 @@
+{
+    /* pylance设置 */
+    // pylance自动补全括号
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.autoImportCompletions": true,
+    //设置未被使用的变量/代码淡色(灰色)
+    "editor.showUnused": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/yamllint.json": "file:///d%3A/PYproject/PyCrawler/22%E7%88%AC%E5%8F%96%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6/vpnYaml%282023.05.288%29.yaml"
+    },
+}
