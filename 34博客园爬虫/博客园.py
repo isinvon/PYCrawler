@@ -41,6 +41,6 @@ with open(file="博客园.json", mode="w", encoding="utf-8") as f:
     # 将json数据写入文件
     f.write(str(json_data))
     f.close()
-
+    
 # 打印JSON数据
 print(json_data)

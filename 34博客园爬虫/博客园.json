@@ -1,5 +1,30 @@
 [
   {
+    "title": "轻松理解Java中的public、private、static和final",
+    "href": "https://www.cnblogs.com/ACAI-cc/p/17569388.html",
+    "summary": "一、概念 **1、public和private** 两个都是访问权限修饰符，用于控制外界对类内部成员的访问。 * public：表明对象成员是完全共有的，外界可以随意访问。用public修饰的数据成员、成员函数是对所有用户开放的，所有用户都可以直接进行调用。 * private：表明对象成员是完全私 ..."
+  },
+  {
+    "title": "[日志] 日志脱敏实践",
+    "href": "https://www.cnblogs.com/johnnyzen/p/17569379.html",
+    "summary": "# 1 序言 思路：根据待输出的关键字段名称进行不可逆算法的(离线式)脱敏。 # 2 步骤 ## 2.1 修改本工程的日志框架为 Log4j2 ``` xml slf4j.version = 1.7.25 log4j.version = 2.13.3 org.slf4j slf4j-api ${sl ..."
+  },
+  {
+    "title": "【ElasticSearch】大数据量情况下的前缀、中缀实时搜索方案",
+    "href": "https://www.cnblogs.com/yywf/p/17541137.html",
+    "summary": "大数据、elasticsearch、实时搜索、search_as_you_type、Completion Suggester、查询优化、前缀匹配、中缀匹配 ..."
+  },
+  {
+    "title": "时隔一年后，35岁生日，恰逢720",
+    "href": "https://www.cnblogs.com/ibeisha/p/by720.html",
+    "summary": "2023年7月20日，35岁生日，乍一看日历，7月20日，先缅怀下在这个城市7.20逝去的人儿。这些年，每逢生日，媳妇儿都会精心策划一番。首先，蛋糕肯定是少不了的，就在生日前两天，预定了一个8寸的蛋糕，一个恐龙森林的造型，让人萌生童趣。原本说，要给我预定一个\n有奥特曼的蛋糕，寓意是：\"让我永远相信光... ..."
+  },
+  {
+    "title": "基于Taro开发京东小程序小记",
+    "href": "https://www.cnblogs.com/jingdongkeji/p/17568640.html",
+    "summary": "本篇文章是基于Taro进行小程序开发实战小记，你在开发小程序的过程中遇到了哪些问题呢，欢迎留言区讨论交流～ ..."
+  },
+  {
     "title": "论文翻译：跨语言语音转换和富有表现力的语音转换",
     "href": "https://www.cnblogs.com/Edison-zzc/p/17568531.html",
     "summary": "论文原文：USING JOINT TRAINING SPEAKER ENCODER WITH CONSISTENCY LOSS TO ACHIEVE CROSS-LINGUAL VOICE CONVERSION AND EXPRESSIVE VOICE CONVERSION 代码和论文地址：http ..."
@@ -8,11 +33,6 @@
     "title": "Cilium系列-1-Cilium特色 功能及适用场景",
     "href": "https://www.cnblogs.com/east4ming/p/17568522.html",
     "summary": "## 系列文章 * [Cilium 系列文章](https://ewhisper.cn/tags/Cilium/) ## Cilium 简介 Cilium 是一个开源的云原生解决方案，用于提供、保护(安全功能)和观察(监控功能)工作负载之间的网络连接，由革命性的内核技术 **eBPF** 提供动力。 ..."
-  },
-  {
-    "title": "中小企业建设数字化工厂，选择集成老路还是整体重构？",
-    "href": "https://www.cnblogs.com/huaweiyun/p/17568308.html",
-    "summary": "基于统一的数字化平台，重构PLM、ERP、MES、WMS系统，构建柔性化的数字化系统，实现端到端的数据源统一，可以提高协同效率和降低生产成本。 ..."
   },
   {
     "title": "使用Docker+PHP搭建苹果Maccms的影视站详细教程",
@@ -78,25 +98,5 @@
     "title": "什么是数据管理，数据治理，数据中心，数据中台，数据湖？",
     "href": "https://www.cnblogs.com/tree1123/p/17567390.html",
     "summary": "大家好，我是独孤风，大数据流动的作者。 最近几个概念频繁出现在大家的视野内。 什么是数据管理，数据治理，数据中心，数据中台，数据湖？ 他们之间又有怎么样的区别和联系呢？ 这几个概念常常让人混淆，今天我们就来详细解析一下。 # 一、数据管理 数据管理是指组织对其整个数据生命周期进行的规划、执行和控制, ..."
-  },
-  {
-    "title": "利用Abp过滤器实现业务数据“回收站”功能",
-    "href": "https://www.cnblogs.com/jevonsflash/p/17567356.html",
-    "summary": "@[toc] ## 原理 回收站是当用户删除一条记录时，不是直接从数据库中删除，而是将其放入“回收站”，以便用户可以在需要时恢复数据。 在Abp框架中，若实体实现了ISoftDelete，则将实体标记为删除时不是物理删除，而是“软删除” ``` public interface ISoftDelet ..."
-  },
-  {
-    "title": "Kubernetes亲和性学习笔记",
-    "href": "https://www.cnblogs.com/bolingcavalry/p/17567286.html",
-    "summary": "### 欢迎访问我的GitHub > 这里分类和汇总了欣宸的全部原创(含配套源码)：[https://github.com/zq2599/blog_demos](https://github.com/zq2599/blog_demos) ### 本篇概览 - 本文是欣宸在学习Kubernetes调度 ..."
-  },
-  {
-    "title": "Centos7 安装部署 Kubernetes(k8s) 高可用集群",
-    "href": "https://www.cnblogs.com/renshengdezheli/p/17567249.html",
-    "summary": "Centos7 安装部署 Kubernetes(k8s) 高可用集群：配置机器基本环境，部署haproxy负载均衡器，部署etcd集群，部署Kubernetes(k8s) master HA，配置docker，安装kubelet，kubeadm，kubectl，kubeadm初始化，添加master... ..."
-  },
-  {
-    "title": "Mysql基础7-约束",
-    "href": "https://www.cnblogs.com/Se7eN-HOU/p/17566988.html",
-    "summary": "一、约束的基本概念 1、概念：约束是作用于表中字段上的规则，用于限制储存在表中的数据 2、目的：保证数据库中的数据的正确性，有效性和完整性 3、分类 非空约束(not null)：限制该字段的数据不能为null 唯一约束(unique)：保证该字段的所有数据都是唯一，不重复的 主键约束(primar ..."
   }
 ]

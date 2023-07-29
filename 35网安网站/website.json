@@ -1,0 +1,4226 @@
+[
+  {
+    "name": "技能学习脑图",
+    "link": "https://github.com/SecWiki/sec-chart",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "技能学习思维导图"
+  },
+  {
+    "name": "Sec-News安全文摘",
+    "link": "https://govuln.com/news/",
+    "image": "https://dmsj-cdn.oss-cn-zhangjiakou.aliyuncs.com/static/img/favicon.png",
+    "description": "安全文摘"
+  },
+  {
+    "name": "SecWiki",
+    "link": "https://www.sec-wiki.com/skill/index",
+    "image": "https://dh.aabyss.cn/img/secwiki.jpg",
+    "description": "信息安全技能学习表"
+  },
+  {
+    "name": "Sec-wiki",
+    "link": "https://www.sec-wiki.com/index.php",
+    "image": "https://dh.aabyss.cn/img/secwiki.jpg",
+    "description": "安全维基百科"
+  },
+  {
+    "name": "漏洞银行技能树",
+    "link": "https://skills.bugbank.cn/",
+    "image": "https://skills.bugbank.cn/favicon.ico",
+    "description": "漏洞银行学习技能树"
+  },
+  {
+    "name": "安全信息流",
+    "link": "https://i.hacking8.com/",
+    "image": "https://i.hacking8.com/static/favicon.ico",
+    "description": "安全信息流，最新安全资讯"
+  },
+  {
+    "name": "T00LS",
+    "link": "https://www.t00ls.net/",
+    "image": "https://dh.aabyss.cn/img/t00ls.jpg",
+    "description": "低调求发展-潜心学习安全"
+  },
+  {
+    "name": "先知社区",
+    "link": "https://xz.aliyun.com/",
+    "image": "https://dh.aabyss.cn/img/xz.jpg",
+    "description": "优秀的网络安全社区"
+  },
+  {
+    "name": "FreeBuf",
+    "link": "https://www.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/freebuf.jpg",
+    "description": "互联网安全新媒体"
+  },
+  {
+    "name": "看雪安全论坛",
+    "link": "https://bbs.pediy.com/",
+    "image": "https://dh.aabyss.cn/img/kanxue.ico",
+    "description": "致力于PC/移动/智能设备安全研究社区"
+  },
+  {
+    "name": "unSafe",
+    "link": "https://unsafe.sh/",
+    "image": "https://unsafe.sh/static/icon.png",
+    "description": "unSafe-不安全"
+  },
+  {
+    "name": "圈子社区",
+    "link": "https://www.secquan.org",
+    "image": "https://dh.aabyss.cn/img/secquan.ico",
+    "description": "一个新锐白帽子汇聚地"
+  },
+  {
+    "name": "漏洞银行",
+    "link": "https://www.bugbank.cn/",
+    "image": "https://www.bugbank.cn/favicon.ico",
+    "description": "领先的网络安全漏洞发现品牌"
+  },
+  {
+    "name": "渊龙Sec团队博客",
+    "link": "https://blog.aabyss.cn",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "为国之安全而奋斗，为信息安全而发声！"
+  },
+  {
+    "name": "90Sec",
+    "link": "https://forum.90sec.com/",
+    "image": "https://forum.90sec.com/uploads/default/optimized/2X/0/02c0b50fd002ab519248513ca5832fc789e2355a_2_32x32.png",
+    "description": "专注于网络空间安全、前沿技术研究"
+  },
+  {
+    "name": "i春秋",
+    "link": "https://www.ichunqiu.com/",
+    "image": "https://dh.aabyss.cn/img/icq.jpg",
+    "description": "i春秋网络安全平台"
+  },
+  {
+    "name": "奇安信攻防社区",
+    "link": "https://forum.butian.net",
+    "image": "https://forum.butian.net/ico.png",
+    "description": "补天配套-奇安信攻防社区"
+  },
+  {
+    "name": "嘶吼",
+    "link": "https://www.4hou.com/",
+    "image": "https://www.4hou.com/sihou/images/favicon.ico",
+    "description": "回归最本质的信息安全,互联网安全新媒体"
+  },
+  {
+    "name": "IOTsec-Zone",
+    "link": "https://www.iotsec-zone.com/",
+    "image": "https://www.iotsec-zone.com/img/logo_.svg",
+    "description": "IOTsec-Zone 物联网安全社区"
+  },
+  {
+    "name": "安全脉搏",
+    "link": "https://www.secpulse.com/",
+    "image": "https://www.secpulse.com/favicon.ico",
+    "description": "分享技术，悦享品质"
+  },
+  {
+    "name": "安全客",
+    "link": "https://www.anquanke.com/",
+    "image": "https://s3.ssl.qhres2.com/static/02b5158bbb6adeac.ico",
+    "description": "安全客-安全资讯平台"
+  },
+  {
+    "name": "跳跳糖",
+    "link": "http://tttang.com/",
+    "image": "https://storage.tttang.com/static/images/icon.png",
+    "description": "跳跳糖安全社区"
+  },
+  {
+    "name": "洞见微信聚合",
+    "link": "http://wechat.doonsec.com/",
+    "image": "https://dh.aabyss.cn/img/dongjian.ico",
+    "description": "洞见微信聚合-订阅号文章收录"
+  },
+  {
+    "name": "吾爱破解论坛",
+    "link": "https://www.52pojie.cn/",
+    "image": "https://www.52pojie.cn/favicon.ico",
+    "description": "致力于软件安全与病毒分析的前沿"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://github.com/Aabyss-Team",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "有非常多的优秀开源安全工具"
+  },
+  {
+    "name": "Bilibili",
+    "link": "https://space.bilibili.com/122627170/favlist?fid=325120470",
+    "image": "https://dh.aabyss.cn/img/bilibili.ico",
+    "description": "哔哩哔哩可以算是不错的学习平台"
+  },
+  {
+    "name": "SecHub",
+    "link": "https://sechub.com.cn/",
+    "image": "https://sechub.com.cn/app/favicon.ico",
+    "description": "为网安提供学习交流、知识分享的平台"
+  },
+  {
+    "name": "安全牛课堂",
+    "link": "https://www.aqniukt.com/",
+    "image": "https://www.aqniukt.com/files/system/2021/03-10/095520817f3c179900.png",
+    "description": "领先的信息安全教育平台"
+  },
+  {
+    "name": "CT Stack安全社区",
+    "link": "https://stack.chaitin.com/",
+    "image": "https://stack.chaitin.com/favicon.ico",
+    "description": "长亭科技旗下的安全社区"
+  },
+  {
+    "name": "暗魂社区",
+    "link": "https://bbs.anhunsec.cn/",
+    "image": "https://bbs.anhunsec.cn/assets/favicon-zuu9stwf.png",
+    "description": "暗魂安全团队社区"
+  },
+  {
+    "name": "知识大陆",
+    "link": "https://wiki.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/zhishidalu.ico",
+    "description": "知识大陆 - 安全圈的百科全书"
+  },
+  {
+    "name": "开源安全情报预警",
+    "link": "https://www.oscs1024.com/cm",
+    "image": "https://www.oscs1024.com/oscs.svg",
+    "description": "OSCS | 开源软件供应链安全"
+  },
+  {
+    "name": "HITCON",
+    "link": "https://zeroday.hitcon.org/",
+    "image": "https://dh.aabyss.cn/img/zeroday.ico",
+    "description": "HITCON ZeroDay"
+  },
+  {
+    "name": "360网络安全响应中心",
+    "link": "https://cert.360.cn/",
+    "image": "https://cert.360.cn/static/favicon.ico",
+    "description": "360CERT"
+  },
+  {
+    "name": "渊龙Sec内部漏洞库",
+    "link": "https://wiki.aabyss.cn/",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "渊龙Sec安全团队内部漏洞库"
+  },
+  {
+    "name": "Exp库",
+    "link": "http://www.expku.com/",
+    "image": "https://dh.aabyss.cn/img/expk.png",
+    "description": "打造中文最大exploit库"
+  },
+  {
+    "name": "Seebug漏洞平台",
+    "link": "https://www.seebug.org/",
+    "image": "https://dh.aabyss.cn/img/zdcy.png",
+    "description": "知道创宇Seebug漏洞平台"
+  },
+  {
+    "name": "BugScan平台",
+    "link": "http://www.bugscan.net/",
+    "image": "https://dh.aabyss.cn/img/bugs.png",
+    "description": "少数漏洞插件收集平台"
+  },
+  {
+    "name": "工控漏洞子库",
+    "link": "https://ics.cnvd.org.cn/",
+    "image": "https://dh.aabyss.cn/img/ics.ico",
+    "description": "工控漏洞子库"
+  },
+  {
+    "name": "国家信息安全漏洞共享平台",
+    "link": "https://www.cnvd.org.cn/",
+    "image": "https://dh.aabyss.cn/img/CNVD.ico",
+    "description": "国家信息安全漏洞共享平台"
+  },
+  {
+    "name": "国家信息安全漏洞库",
+    "link": "https://www.cnnvd.org.cn/",
+    "image": "https://dh.aabyss.cn/img/CNNVD.ico",
+    "description": "国家信息安全漏洞库"
+  },
+  {
+    "name": "绿盟漏洞库",
+    "link": "http://www.nsfocus.net/index.php",
+    "image": "https://dh.aabyss.cn/img/nsfocus.ico",
+    "description": "NSFOCUS绿盟漏洞库"
+  },
+  {
+    "name": "IOT安全情报",
+    "link": "https://www.iotsec-zone.com/vullist",
+    "image": "https://www.iotsec-zone.com/img/logo_.svg",
+    "description": "IOTsec-IOT安全情报"
+  },
+  {
+    "name": "漏洞时代",
+    "link": "http://0day5.com/",
+    "image": "https://dh.aabyss.cn/img/ldsd.png",
+    "description": "博客型漏洞收集平台"
+  },
+  {
+    "name": "SCAP中文漏洞库",
+    "link": "http://cve.scap.org.cn/",
+    "image": "https://dh.aabyss.cn/img/scap.ico",
+    "description": "VULHUB开源网络安全威胁库"
+  },
+  {
+    "name": "数字观星",
+    "link": "https://poc.shuziguanxing.com",
+    "image": "https://poc.shuziguanxing.com/favicon.ico",
+    "description": "360POC++"
+  },
+  {
+    "name": "Edu SRC",
+    "link": "https://src.sjtu.edu.cn/list/",
+    "image": "https://src.sjtu.edu.cn/static/img/main.ico",
+    "description": "教育行业漏洞报告平台"
+  },
+  {
+    "name": "360众测平台",
+    "link": "https://zhongce.360.net/",
+    "image": "https://dh.aabyss.cn/img/360zhongce.ico",
+    "description": "360面向企业的白帽子众测平台"
+  },
+  {
+    "name": "火线安全平台",
+    "link": "https://www.huoxian.cn/",
+    "image": "https://www.huoxian.cn/favicon.ico",
+    "description": "北京安全共识科技创立的安全平台"
+  },
+  {
+    "name": "乌云镜像知识库",
+    "link": "http://wooyun.2xss.cc/",
+    "image": "http://www.chamd5.org/favicon.ico",
+    "description": "乌云网镜像、知识库搜索"
+  },
+  {
+    "name": "PeiQiWiki",
+    "link": "https://www.yuque.com/peiqiwiki",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "佩奇漏洞文库"
+  },
+  {
+    "name": "Hacking8 安全信息流",
+    "link": "https://i.hacking8.com/index/vul-poc",
+    "image": "https://i.hacking8.com/static/favicon.ico",
+    "description": "安全信息流-漏洞/Poc监控"
+  },
+  {
+    "name": "96.mk",
+    "link": "https://wiki.96.mk/",
+    "image": "https://wiki.96.mk/assets/images/favicon.png",
+    "description": "基于零组公开漏洞库"
+  },
+  {
+    "name": "白阁文库",
+    "link": "https://wiki.bylibrary.cn/",
+    "image": "https://dh.aabyss.cn/img/baigeWiki.png",
+    "description": "白阁文库"
+  },
+  {
+    "name": "阿里云漏洞库",
+    "link": "https://avd.aliyun.com",
+    "image": "https://avd.aliyun.com/static/favicon.ico",
+    "description": "及时响应与收敛云上高危漏洞"
+  },
+  {
+    "name": "情报星球",
+    "link": "https://planet.vulbox.com/",
+    "image": "https://planet.vulbox.com/favicon.svg",
+    "description": "漏洞盒子 情报星球"
+  },
+  {
+    "name": "VIP 漏洞情报中心",
+    "link": "https://vip.riskivy.com/",
+    "image": "https://vip.riskivy.com/favicon.ico",
+    "description": "斗象科技 VIP漏洞情报"
+  },
+  {
+    "name": "Shodan Exploits",
+    "link": "https://exploits.shodan.io/",
+    "image": "https://static.shodan.io/exploits/img/favicon.png",
+    "description": "Shodan Exploits"
+  },
+  {
+    "name": "CVE Details",
+    "link": "https://www.cvedetails.com/",
+    "image": "https://dh.aabyss.cn/img/cvedetails.ico",
+    "description": "CVE security vulnerability database"
+  },
+  {
+    "name": "Zero Day Initiative",
+    "link": "https://www.zerodayinitiative.com/",
+    "image": "https://www.zerodayinitiative.com/images/favicon.png",
+    "description": "Published | Zero Day Initiative"
+  },
+  {
+    "name": "Alerts | CISA",
+    "link": "https://www.cisa.gov/uscert/ncas/alerts",
+    "image": "https://www.cisa.gov/sites/default/files/images/favicon.ico",
+    "description": "Alerts | CISA"
+  },
+  {
+    "name": "NVD",
+    "link": "https://nvd.nist.gov/",
+    "image": "https://nvd.nist.gov/site-media/images/favicons/favicon-32x32.png",
+    "description": "NVD - Home"
+  },
+  {
+    "name": "OVAL",
+    "link": "https://oval.mitre.org/",
+    "image": "https://oval.mitre.org/favicon.ico",
+    "description": "Open Vulnerability and Assessment Language"
+  },
+  {
+    "name": "Security Database",
+    "link": "https://www.security-database.com/",
+    "image": "https://www.security-database.com/templates/sd5/favicon.ico",
+    "description": "security-database"
+  },
+  {
+    "name": "Bugtraq",
+    "link": "https://bugtraq.securityfocus.com/",
+    "image": "https://bugtraq.securityfocus.com/favicon.ico",
+    "description": "Securityfocus"
+  },
+  {
+    "name": "hyp3rlinx",
+    "link": "http://hyp3rlinx.altervista.org/",
+    "image": "https://im.altervista.org/favicon.ico",
+    "description": "HYP3RLINX Information security"
+  },
+  {
+    "name": "JVN",
+    "link": "https://jvndb.jvn.jp/en/",
+    "image": "https://dh.aabyss.cn/img/jvndb.png",
+    "description": "JVN iPedia"
+  },
+  {
+    "name": "Full Disclosure",
+    "link": "https://seclists.org/fulldisclosure/",
+    "image": "https://seclists.org/shared/images/tiny-eyeicon.png",
+    "description": "Full Disclosure Mailing List"
+  },
+  {
+    "name": "JetLib",
+    "link": "https://sec.jetlib.com/",
+    "image": "https://dh.aabyss.cn/img/jetlib.ico",
+    "description": "jetlib.sec"
+  },
+  {
+    "name": "Уязвимости",
+    "link": "https://www.securitylab.ru/vulnerability/",
+    "image": "https://dh.aabyss.cn/img/securitylab.ico",
+    "description": "securitylab.ru"
+  },
+  {
+    "name": "XSSed",
+    "link": "http://xssed.com/",
+    "image": "https://dh.aabyss.cn/img/xssed.ico",
+    "description": "Cross Site Scripting (XSS) attacks information and archive"
+  },
+  {
+    "name": "VULNERABILITY",
+    "link": "https://www.vulnerability-lab.com/",
+    "image": "https://dh.aabyss.cn/img/vulnerability-lab.ico",
+    "description": "VULNERABILITY LAB"
+  },
+  {
+    "name": "RAPID7",
+    "link": "https://www.rapid7.com/db/",
+    "image": "https://dh.aabyss.cn/img/rapid7.ico",
+    "description": "Vulnerability & Exploit Database"
+  },
+  {
+    "name": "Packet Storm",
+    "link": "https://packetstormsecurity.com/",
+    "image": "https://dh.aabyss.cn/img/pss.ico",
+    "description": "Packet Storm"
+  },
+  {
+    "name": "CVE Trends",
+    "link": "https://cvetrends.com/",
+    "image": "https://cvetrends.com/favicon.ico",
+    "description": "crowdsourced CVE intel"
+  },
+  {
+    "name": "HackOne",
+    "link": "https://www.hackerone.com/",
+    "image": "https://dh.aabyss.cn/img/hackone.jpg",
+    "description": "国际漏洞提交平台"
+  },
+  {
+    "name": "0day.taday",
+    "link": "https://www.0day.today/",
+    "image": "https://dh.aabyss.cn/img/0day.png",
+    "description": "0day前沿漏洞交易平台"
+  },
+  {
+    "name": "Routerpwn",
+    "link": "http://routerpwn.com/",
+    "image": "https://dh.aabyss.cn/img/lyqldk.png",
+    "description": "国外路由器漏洞库"
+  },
+  {
+    "name": "CVE",
+    "link": "https://cve.mitre.org/",
+    "image": "http://cve.mitre.org/favicon.ico",
+    "description": "国际CVE漏洞平台"
+  },
+  {
+    "name": "微软漏洞通报库",
+    "link": "https://learn.microsoft.com/zh-cn/security-updates/",
+    "image": "https://learn.microsoft.com/favicon.ico",
+    "description": "微软官方安全通报和公告"
+  },
+  {
+    "name": "Exploit Database",
+    "link": "https://www.exploit-db.com/papers",
+    "image": "https://www.exploit-db.com/favicon.ico",
+    "description": "exploit-db"
+  },
+  {
+    "name": "BugX",
+    "link": "http://www.bugx.org",
+    "image": "https://dh.aabyss.cn/img/BugX.ico",
+    "description": "国外区块链安全平台"
+  },
+  {
+    "name": "DVPNET",
+    "link": "https://dvpnet.io/",
+    "image": "https://dh.aabyss.cn/img/bitbug_favicon.ico",
+    "description": "去中心化区块链漏洞平台"
+  },
+  {
+    "name": "CXSECURITY",
+    "link": "https://cxsecurity.com/",
+    "image": "https://dh.aabyss.cn/img/CX.ico",
+    "description": "Free Security List"
+  },
+  {
+    "name": "Sploitus",
+    "link": "https://sploitus.com/",
+    "image": "https://dh.aabyss.cn/img/Sploitus.png",
+    "description": "Exploits & Tools Search Engine"
+  },
+  {
+    "name": "ATT&CK",
+    "link": "https://attack.mitre.org/",
+    "image": "https://dh.aabyss.cn/img/mitre.ico",
+    "description": "MITRE ATT&CK®"
+  },
+  {
+    "name": "TI-Start",
+    "link": "https://start.me/p/rxRbpo/cti",
+    "image": "https://c.start.me/assets/favicons/favicon-16-987d5ae010e3e00048f706fd4ce34bde5e892059fe56b88fde6f7049f71dd1ad.png",
+    "description": "国外安全资源导航集合"
+  },
+  {
+    "name": "Minio CVE",
+    "link": "https://www.opencve.io/cve?vendor=minio",
+    "image": "https://www.opencve.io/static/img/favicon.ico",
+    "description": "Minio CVE - Open CVE"
+  },
+  {
+    "name": "Mvnrepository",
+    "link": "https://mvnrepository.com/",
+    "image": "https://dh.aabyss.cn/img/mvnrepository.ico",
+    "description": "mvnrepository"
+  },
+  {
+    "name": "Vulnerability feed",
+    "link": "https://inthewild.io/feed",
+    "image": "https://dh.aabyss.cn/img/Vulnerabilityfeed.png",
+    "description": "Vulnerability feed"
+  },
+  {
+    "name": "Newest CVEs",
+    "link": "https://www.tenable.com/cve/newest",
+    "image": "https://dh.aabyss.cn/img/NewestCVEs.svg",
+    "description": "Newest CVEs | Tenable®"
+  },
+  {
+    "name": "hunter",
+    "link": "https://huntr.dev/",
+    "image": "https://dh.aabyss.cn/img/hunter.ico",
+    "description": "huntr – Security Bounties for any GitHub repository"
+  },
+  {
+    "name": "斗鱼SRC",
+    "link": "https://security.douyu.com/",
+    "image": "https://dh.aabyss.cn/img/douyuSRC.ico",
+    "description": "斗鱼安全应急响应中心"
+  },
+  {
+    "name": "FSRC",
+    "link": "https://security.focuschina.com/",
+    "image": "https://security.focuschina.com/Public/resource/img/logo.ico",
+    "description": "焦点安全应急响应中心"
+  },
+  {
+    "name": "融360SRC",
+    "link": "https://security.rong360.com",
+    "image": "https://security.rong360.com/static/assets/favicon.ico",
+    "description": "融360安全应急响应中心"
+  },
+  {
+    "name": "vivoSRC",
+    "link": "https://security.vivo.com.cn",
+    "image": "https://security.vivo.com.cn/assets/favicon.ico",
+    "description": "vivo安全应急响应中心"
+  },
+  {
+    "name": "挖财SRC",
+    "link": "https://sec.wacai.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "挖财安全应急响应中心"
+  },
+  {
+    "name": "魅族SRC",
+    "link": "https://sec.meizu.com/",
+    "image": "https://sec.meizu.com/favicon.ico",
+    "description": "魅族安全应急响应中心"
+  },
+  {
+    "name": "MFSRC",
+    "link": "https://security.mafengwo.cn/",
+    "image": "https://security.mafengwo.cn/favicon.ico",
+    "description": "马蜂窝安全应急响应中心"
+  },
+  {
+    "name": "你我贷SRC",
+    "link": "https://www.niwodai.com/sec/index.htm",
+    "image": "http://static.niwodai.com/favicon.ico",
+    "description": "你我贷安全响应中心"
+  },
+  {
+    "name": "新浪SRC",
+    "link": "https://sec.sina.com.cn/",
+    "image": "https://sec.sina.com.cn/favicon.ico",
+    "description": "新浪安全应急响应中心"
+  },
+  {
+    "name": "涂鸦SRC",
+    "link": "https://src.tuya.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Tuya SRC"
+  },
+  {
+    "name": "荣耀SRC",
+    "link": "https://security.hihonor.com/",
+    "image": "https://security.hihonor.com/src/favicon.ico",
+    "description": "荣耀安全应急响应中心"
+  },
+  {
+    "name": "TSRC",
+    "link": "https://security.tencent.com/",
+    "image": "https://security.tencent.com/static/v2.0/images/favicon.ico",
+    "description": "腾讯安全应急响应中心"
+  },
+  {
+    "name": "ASRC",
+    "link": "https://security.alibaba.com/",
+    "image": "https://img.alicdn.com/tfs/TB1LsRwgFzqK1RjSZSgXXcpAVXa-40-40.png",
+    "description": "阿里安全响应中心"
+  },
+  {
+    "name": "百度SRC",
+    "link": "https://bsrc.baidu.com/",
+    "image": "https://bsrc.baidu.com/v2/statics/static/favicon.ico",
+    "description": "百度安全应急响应中心"
+  },
+  {
+    "name": "菜鸟SRC",
+    "link": "https://sec.cainiao.com/",
+    "image": "https://sec.cainiao.com/common/images/icon.ico",
+    "description": "菜鸟安全应急响应中心"
+  },
+  {
+    "name": "滴滴SRC",
+    "link": "http://sec.didichuxing.com/",
+    "image": "https://sec.didichuxing.com/favicon.ico",
+    "description": "滴滴出行安全应急响应中心"
+  },
+  {
+    "name": "京东SRC",
+    "link": "https://security.jd.com/",
+    "image": "https://security.jd.com/static/images/favicon.png",
+    "description": "京东安全应急响应中心"
+  },
+  {
+    "name": "LYSRC",
+    "link": "https://sec.ly.com/",
+    "image": "https://sec.ly.com/Public/Index/images/logo.ico",
+    "description": "同程旅行安全应急响应中心"
+  },
+  {
+    "name": "蘑菇街SRC",
+    "link": "https://security.mogu.com",
+    "image": "https://s11.mogucdn.com/mlcdn/c45406/191231_10kclag86gc8k0991d2681gi72fbf.ico",
+    "description": "美丽联合集团安全应急响应中心"
+  },
+  {
+    "name": "陌陌SRC",
+    "link": "https://security.immomo.com/",
+    "image": "https://security.immomo.com/dist/favicon.ico",
+    "description": "陌陌安全应急响应中心"
+  },
+  {
+    "name": "360SRC",
+    "link": "https://security.360.cn/",
+    "image": "https://security.360.cn/static/img/base/logo-icon.png",
+    "description": "360安全应急响应中心"
+  },
+  {
+    "name": "苏宁SRC",
+    "link": "https://security.suning.com/",
+    "image": "https://dh.aabyss.cn/img/suningSRC.ico",
+    "description": "苏宁安全应急响应中心"
+  },
+  {
+    "name": "VSRC",
+    "link": "https://sec.vip.com/",
+    "image": "https://sec.vip.com/images/far.ico",
+    "description": "唯品会信息安全中心"
+  },
+  {
+    "name": "微博SRC",
+    "link": "https://wsrc.weibo.com/",
+    "image": "https://wsrc.weibo.com/static/img/icon_01.png",
+    "description": "微博安全应急响应中心"
+  },
+  {
+    "name": "VIPKIDSRC",
+    "link": "http://security.vipkid.com.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "VIPKID安全响应中心"
+  },
+  {
+    "name": "网易SRC",
+    "link": "https://aq.163.com/",
+    "image": "https://aq.163.com/favicon.ico",
+    "description": "网易安全中心"
+  },
+  {
+    "name": "WiFi万能钥匙SRC",
+    "link": "https://sec.wifi.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "WiFi万能钥匙安全响应中心"
+  },
+  {
+    "name": "WMSRC",
+    "link": "http://security.wanmei.com/",
+    "image": "https://safestatic.games.wanmei.com/common/ico/favicon.ico",
+    "description": "完美世界安全应急响应中心"
+  },
+  {
+    "name": "小米SRC",
+    "link": "https://sec.xiaomi.com/",
+    "image": "https://cdn.cnbj1.fds.api.mi-img.com/misrc/cdn/favicon.ico",
+    "description": "小米安全中心"
+  },
+  {
+    "name": "蚂蚁金服SRC",
+    "link": "https://security.alipay.com/",
+    "image": "https://i.alipayobjects.com/common/favicon/favicon.ico",
+    "description": "蚂蚁集团安全应急响应中心"
+  },
+  {
+    "name": "71SRC",
+    "link": "https://security.iqiyi.com/",
+    "image": "https://dh.aabyss.cn/img/iqiyiSRC.png",
+    "description": "爱奇艺安全应急响应中心"
+  },
+  {
+    "name": "安全狗SRC",
+    "link": "http://security.safedog.cn/",
+    "image": "https://www.safedog.cn/images/safedog2020/footer_logo.png",
+    "description": "安全狗漏洞响应中心"
+  },
+  {
+    "name": "BilibiliSRC",
+    "link": "https://security.bilibili.com/",
+    "image": "https://static.hdslb.com/images/favicon.ico",
+    "description": "哔哩哔哩安全应急响应中心"
+  },
+  {
+    "name": "贝壳SRC",
+    "link": "https://security.ke.com/",
+    "image": "https://security.ke.com/favicon.ico",
+    "description": "贝壳安全应急响应中心"
+  },
+  {
+    "name": "58SRC",
+    "link": "https://security.58.com/",
+    "image": "https://bj.58.com/favicon.ico",
+    "description": "58安全应急响应中心"
+  },
+  {
+    "name": "度小满SRC",
+    "link": "https://security.duxiaoman.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "度小满安全应急响应中心"
+  },
+  {
+    "name": "美团SRC",
+    "link": "https://security.meituan.com/",
+    "image": "https://security.meituan.com/static/img/title.png",
+    "description": "美团安全应急响应中心"
+  },
+  {
+    "name": "货拉拉SRC",
+    "link": "https://llsrc.huolala.cn/",
+    "image": "https://llsrc.huolala.cn/static/favicon.ico",
+    "description": "货拉拉安全应急响应中心"
+  },
+  {
+    "name": "GZSRC",
+    "link": "https://security.guazi.com",
+    "image": "https://security.guazi.com/img/icons/favicon-32x32.png",
+    "description": "瓜子安全应急响应中心"
+  },
+  {
+    "name": "T3SRC",
+    "link": "https://security.t3go.cn/",
+    "image": "https://security.t3go.cn/favicon.png",
+    "description": "T3出行安全应急响应中心"
+  },
+  {
+    "name": "字节跳动SRC",
+    "link": "https://security.bytedance.com/",
+    "image": "https://dh.aabyss.cn/img/zijieSRC.png",
+    "description": "字节跳动安全中心"
+  },
+  {
+    "name": "USRC",
+    "link": "https://security.unionpay.com/",
+    "image": "https://security.unionpay.com/favicon.ico",
+    "description": "银联安全应急响应中心"
+  },
+  {
+    "name": "虎牙SRC",
+    "link": "https://security.huya.com/",
+    "image": "https://security.huya.com/favicon.ico",
+    "description": "虎牙安全应急中心"
+  },
+  {
+    "name": "携程SRC",
+    "link": "https://sec.ctrip.com/",
+    "image": "https://sec.ctrip.com/static/img/favicon.ico",
+    "description": "携程安全应急响应中心"
+  },
+  {
+    "name": "讯飞SRC",
+    "link": "https://security.iflytek.com/",
+    "image": "https://dh.aabyss.cn/img/xunfeiSRC.ico",
+    "description": "讯飞安全响应中心"
+  },
+  {
+    "name": "顺丰SRC",
+    "link": "https://sfsrc.sf-express.com/",
+    "image": "https://sfsrc.sf-express.com/src-logo.svg",
+    "description": "顺丰安全应急响应中心"
+  },
+  {
+    "name": "ZSRC",
+    "link": "https://sec.zto.com/",
+    "image": "https://sec.zto.com/favicon.ico",
+    "description": "中通安全应急响应中心"
+  },
+  {
+    "name": "平安SRC",
+    "link": "https://security.pingan.com",
+    "image": "https://security.pingan.com/favicon.ico",
+    "description": "平安安全应急响应中心"
+  },
+  {
+    "name": "FSRC",
+    "link": "https://fsrc.fuiou.com/",
+    "image": "https://dh.aabyss.cn/img/FSRC.ico",
+    "description": "富友安全应急响应中心"
+  },
+  {
+    "name": "华为SRC",
+    "link": "https://bugbounty.huawei.com/",
+    "image": "https://bugbounty.huawei.com/resource.root/favicon.ico",
+    "description": "华为安全奖励计划"
+  },
+  {
+    "name": "JJSRC",
+    "link": "https://security.jj.cn/",
+    "image": "https://security.jj.cn/src_icon_16.ico",
+    "description": "竞技世界安全应急响应中心"
+  },
+  {
+    "name": "快手SRC",
+    "link": "https://security.kuaishou.com/",
+    "image": "https://security.kuaishou.com/title.png",
+    "description": "快手安全应急响应中心"
+  },
+  {
+    "name": "YSRC",
+    "link": "https://ysrc.ys7.com/",
+    "image": "https://i.ys7.com/src/common/imgs/icons/favicon.ico",
+    "description": "荧石安全应急响应中心"
+  },
+  {
+    "name": "金山SRC",
+    "link": "https://security.wps.cn/",
+    "image": "https://security.wps.cn/favicon.ico",
+    "description": "金山办公安全应急响应中心"
+  },
+  {
+    "name": "YYSRC",
+    "link": "https://security.yy.com/",
+    "image": "https://security.yy.com/center/img/logo.png",
+    "description": "YY安全应急响应中心"
+  },
+  {
+    "name": "喜马拉雅SRC",
+    "link": "https://security.ximalaya.com/",
+    "image": "https://x.security.tencent.com/upload_files/201905/b66cead7db69a83b9a88fe051079952c.png",
+    "description": "喜马拉雅应急响应中心"
+  },
+  {
+    "name": "DHSRC",
+    "link": "http://dhsrc.dhgate.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "DHSRC 安全应急响应中心"
+  },
+  {
+    "name": "OneSRC",
+    "link": "https://security.oneplus.com/",
+    "image": "https://security.oneplus.com/en/favicon.ico",
+    "description": "OnePlus SRC"
+  },
+  {
+    "name": "大疆SRC",
+    "link": "https://security.dji.com/",
+    "image": "https://security.dji.com/favicon.ico",
+    "description": "大疆安全应急响应中心"
+  },
+  {
+    "name": "华住SRC",
+    "link": "https://sec.huazhu.com/",
+    "image": "https://sec.huazhu.com/Public/Index/images/logo.ico",
+    "description": "华住安全响应中心"
+  },
+  {
+    "name": "安恒SRC",
+    "link": "https://security.dbappsecurity.com.cn/index",
+    "image": "https://security.dbappsecurity.com.cn/miniosrc/20210611/8fc97cfe3eff4271851091771f4f136a.jpg",
+    "description": "安恒信息安全应急响应中心"
+  },
+  {
+    "name": "知识星球SRC",
+    "link": "https://security.zsxq.com/",
+    "image": "https://x.security.tencent.com/upload_files/202003/f847f7bd28acae45efb5b99d72e70df3.png",
+    "description": "知识星球安全应急响应中心"
+  },
+  {
+    "name": "BIGO SRC",
+    "link": "https://security.bigo.sg/#/",
+    "image": "https://security.bigo.sg/favicon.ico",
+    "description": "BIGO 安全响应中心"
+  },
+  {
+    "name": "深信服SRC",
+    "link": "https://security.sangfor.com.cn/",
+    "image": "https://security.sangfor.com.cn/Public/Index/images/logo.ico",
+    "description": "深信服安全应急响应中心"
+  },
+  {
+    "name": "斗米SRC",
+    "link": "https://security.doumi.com/",
+    "image": "https://security.doumi.com/img/doumi.ico",
+    "description": "斗米安全应急响应中心"
+  },
+  {
+    "name": "ISRC",
+    "link": "https://security.intsig.com/",
+    "image": "https://static.intsig.net/web_basic_front/static/images/logo/ico/intsig_white_48x48.ico",
+    "description": "合合安全应急响应中心"
+  },
+  {
+    "name": "100TAL SRC",
+    "link": "https://src.100tal.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "好未来安全应急响应中心"
+  },
+  {
+    "name": "LPSRC",
+    "link": "https://security.liepin.com/",
+    "image": "https://x.security.tencent.com/upload_files/202105/169b917b8dd0dbb6d341dc1628fa126a.png",
+    "description": "猎聘安全应急响应中心"
+  },
+  {
+    "name": "TOPSRC",
+    "link": "https://src.topsec.com.cn/",
+    "image": "https://src.topsec.com.cn/Public/Index/images/logo.ico",
+    "description": "天融信安全漏洞响应中心"
+  },
+  {
+    "name": "WSRC",
+    "link": "https://security.webank.com/",
+    "image": "https://x.security.tencent.com/upload_files/201903/12c790178ae4efd4dfba2e47733a0fb9.png",
+    "description": "微众银行安全响应中心"
+  },
+  {
+    "name": "THSRC",
+    "link": "https://security.tuhu.cn/",
+    "image": "https://security.tuhu.cn/Public/Index/images/logo.ico",
+    "description": "途虎安全应急响应中心"
+  },
+  {
+    "name": "BSSRC",
+    "link": "https://src.zhipin.com/",
+    "image": "https://x.security.tencent.com/upload_files/202202/b6125adcedbe20225c470213a2cd6200.png",
+    "description": "BOSS直聘安全应急响应中心"
+  },
+  {
+    "name": "YZSRC",
+    "link": "https://src.youzan.com/",
+    "image": "https://src.youzan.com/Public/Index/images/logo.ico",
+    "description": "有赞安全应急响应中心"
+  },
+  {
+    "name": "KGSRC",
+    "link": "https://security.kugou.com/",
+    "image": "https://security.kugou.com/Public/Index/images/logo.ico",
+    "description": "酷狗安全应急响应中心"
+  },
+  {
+    "name": "ZRSRC",
+    "link": "https://zrsecurity.ziroom.com/",
+    "image": "https://zrsecurity.ziroom.com/Public/Index/images/logo.ico",
+    "description": "自如安全应急响应中心"
+  },
+  {
+    "name": "OSRC",
+    "link": "https://security.oppo.com/cn/",
+    "image": "https://security.oppo.com/cn/favicon.ico",
+    "description": "OPPO安全应急响应中心"
+  },
+  {
+    "name": "宜信SRC",
+    "link": "https://security.creditease.cn/",
+    "image": "https://security.creditease.cn/images/favicon.ico",
+    "description": "宜信安全应急响应中心"
+  },
+  {
+    "name": "猪八戒SRC",
+    "link": "https://sec.zbj.com/",
+    "image": "https://sec.zbj.com/assets/favicon.ico",
+    "description": "猪八戒网安全响应中心"
+  },
+  {
+    "name": "ZPSRC",
+    "link": "https://src.zhaopin.com/",
+    "image": "https://src.zhaopin.com/static/images/favicon.ico",
+    "description": "智联招聘安全应急响应中心"
+  },
+  {
+    "name": "东方SRC",
+    "link": "http://security.eastmoney.com/",
+    "image": "https://security.eastmoney.com/favicon.ico",
+    "description": "东方财富安全应急响应中心"
+  },
+  {
+    "name": "漏洞银行",
+    "link": "https://www.bugbank.cn/",
+    "image": "https://www.bugbank.cn/favicon.ico",
+    "description": "领先的网络安全漏洞发现品牌"
+  },
+  {
+    "name": "SOBUG",
+    "link": "https://sobug.com/",
+    "image": "https://dh.aabyss.cn/img/sobug.ico",
+    "description": "Sobug众测平台"
+  },
+  {
+    "name": "漏洞盒子",
+    "link": "https://www.vulbox.com/",
+    "image": "https://www.vulbox.com/favicon.svg",
+    "description": "互联网安全测试众测平台"
+  },
+  {
+    "name": "HakcerOne",
+    "link": "https://www.hackerone.com/",
+    "image": "https://dh.aabyss.cn/img/hackerone.ico",
+    "description": "#1 Trusted Security Platform and Hacker Program"
+  },
+  {
+    "name": "HITCON",
+    "link": "https://zeroday.hitcon.org/",
+    "image": "https://dh.aabyss.cn/img/zeroday.ico",
+    "description": "HITCON ZeroDay"
+  },
+  {
+    "name": "OpenBugBounty",
+    "link": "https://www.openbugbounty.org/",
+    "image": "https://dh.aabyss.cn/img/openbugbounty.ico",
+    "description": "Free Bug Bounty Program and Coordinated Vulnerability Disclosure"
+  },
+  {
+    "name": "云众可信",
+    "link": "https://www.cloudcrowd.com.cn/",
+    "image": "https://www.cloudcrowd.com.cn/images/favicon.ico",
+    "description": "云众可信 - 互联网安全服务引领者"
+  },
+  {
+    "name": "Seebug漏洞平台",
+    "link": "https://www.seebug.org/",
+    "image": "https://dh.aabyss.cn/img/zdcy.png",
+    "description": "知道创宇Seebug漏洞平台"
+  },
+  {
+    "name": "Edu SRC",
+    "link": "https://src.sjtu.edu.cn/list/",
+    "image": "https://src.sjtu.edu.cn/static/img/main.ico",
+    "description": "教育行业漏洞报告平台"
+  },
+  {
+    "name": "360众测平台",
+    "link": "https://zhongce.360.net/",
+    "image": "https://dh.aabyss.cn/img/360zhongce.ico",
+    "description": "360面向企业的白帽子众测平台"
+  },
+  {
+    "name": "火线安全平台",
+    "link": "https://www.huoxian.cn/",
+    "image": "https://www.huoxian.cn/favicon.ico",
+    "description": "北京安全共识科技创立的安全平台"
+  },
+  {
+    "name": "hunter",
+    "link": "https://huntr.dev/",
+    "image": "https://dh.aabyss.cn/img/hunter.ico",
+    "description": "huntr – Security Bounties for any GitHub repository"
+  },
+  {
+    "name": "雷神众测",
+    "link": "https://www.bountyteam.com/",
+    "image": "https://dh.aabyss.cn/img/leishen.png",
+    "description": "雷神众测 - 网聚优秀安全力量，开创安全众测新纪元"
+  },
+  {
+    "name": "技能学习脑图",
+    "link": "https://github.com/SecWiki/sec-chart",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "技能学习思维导图"
+  },
+  {
+    "name": "SecWiki",
+    "link": "https://www.sec-wiki.com/skill/index",
+    "image": "https://dh.aabyss.cn/img/secwiki.jpg",
+    "description": "信息安全技能学习表"
+  },
+  {
+    "name": "漏洞银行技能树",
+    "link": "https://skills.bugbank.cn/",
+    "image": "https://skills.bugbank.cn/favicon.ico",
+    "description": "漏洞银行学习技能树"
+  },
+  {
+    "name": "技能时间轴",
+    "link": "https://www.anquanquan.info/sifangcai/tuijian/jinengzhou.pdf",
+    "image": "https://dh.aabyss.cn/img/jinengzhou.ico",
+    "description": "西电协会的学习技能时间轴"
+  },
+  {
+    "name": "习科技能表",
+    "link": "https://www.shentoushi.top/Public/upload/images/2017-07-09/Sisso_skills_table.jpg",
+    "image": "https://dh.aabyss.cn/img/silic.ico",
+    "description": "习科技能表V1.1"
+  },
+  {
+    "name": "研发技能表",
+    "link": "https://blog.knownsec.com/Knownsec_RD_Checklist/index.html",
+    "image": "https://dh.aabyss.cn/img/knownsec.ico",
+    "description": "知道创宇研发技能表v3.1"
+  },
+  {
+    "name": "安全技能树-余弦",
+    "link": "https://evilcos.me/security_skill_tree_basic/index.html",
+    "image": "https://dh.aabyss.cn/img/evilcos.ico",
+    "description": "安全技能树简版"
+  },
+  {
+    "name": "HTML5 Security Cheatsheet",
+    "link": "https://html5sec.org/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "HTML5 Security Cheatsheet"
+  },
+  {
+    "name": "Unicode®字符百科",
+    "link": "https://unicode-table.com/cn/",
+    "image": "https://dh.aabyss.cn/img/UT.ico",
+    "description": "基本拉丁字母 — Unicode 字符百科"
+  },
+  {
+    "name": "XSS Payload",
+    "link": "http://xssor.io/s/payload/xssmisc.txt",
+    "image": "https://dh.aabyss.cn/img/xss'OR.ico",
+    "description": "xss payload"
+  },
+  {
+    "name": "XSS Filter Evasion Cheat Sheet",
+    "link": "https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html",
+    "image": "https://dh.aabyss.cn/img/XSS-Filter.png",
+    "description": "XSS过滤器逃避作弊表"
+  },
+  {
+    "name": "XSS Probe",
+    "link": "https://github.com/evilcos/xssprobe",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "xss探针脚本，用于获取被跨页面的通用数据"
+  },
+  {
+    "name": "HTML Purifier",
+    "link": "http://htmlpurifier.org/",
+    "image": "https://dh.aabyss.cn/img/HTML-Purifier.ico",
+    "description": "Filter your HTML the standards-compliant way!"
+  },
+  {
+    "name": "XSSEE",
+    "link": "https://web2hack.org/xssee/",
+    "image": "https://dh.aabyss.cn/img/web2hack.ico",
+    "description": "XSSEE 3.0 Beta"
+  },
+  {
+    "name": "XSS Hunter",
+    "link": "https://xsshunter.com/",
+    "image": "https://dh.aabyss.cn/img/xsshunter.ico",
+    "description": "XSS Hunter"
+  },
+  {
+    "name": "XSStrike",
+    "link": "https://github.com/s0md3v/XSStrike",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "智能XSS检测与开发套件"
+  },
+  {
+    "name": "xsspt",
+    "link": "https://www.shentoushi.top/xsspt.txt",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "XSS平台合集"
+  },
+  {
+    "name": "WebDeveloper",
+    "link": "https://payloads.online/tools/",
+    "image": "https://dh.aabyss.cn/img/webdevelop.ico",
+    "description": "WebDeveloper"
+  },
+  {
+    "name": "XSS Payload",
+    "link": "http://www.xss-payloads.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "XSS-Payload"
+  },
+  {
+    "name": "Xss'OR",
+    "link": "http://xssor.io/",
+    "image": "https://dh.aabyss.cn/img/xss'OR.ico",
+    "description": "XSS在线构造工具"
+  },
+  {
+    "name": "w3school",
+    "link": "https://www.w3school.com.cn/",
+    "image": "https://dh.aabyss.cn/img/w3school.png",
+    "description": "Web前端学习平台"
+  },
+  {
+    "name": "XSS平台",
+    "link": "https://xssye.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "XSSYE"
+  },
+  {
+    "name": "BugBountyHunting",
+    "link": "https://www.bugbountyhunting.com/",
+    "image": "https://dh.aabyss.cn/img/BugBountyHunting.ico",
+    "description": "A community-curated Resource for Bug Bounty Hunting"
+  },
+  {
+    "name": "Java安全",
+    "link": "https://github.com/HackJava/HackJava",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "只有Java安全才能拯救宇宙"
+  },
+  {
+    "name": "Spring Boot Vulnerability",
+    "link": "https://github.com/LandGrey/SpringBootVulExploit",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Spring Boot 相关漏洞学习资料合集"
+  },
+  {
+    "name": "Fastjson",
+    "link": "https://github.com/safe6Sec/Fastjson",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Fastjson姿势技巧集合"
+  },
+  {
+    "name": "漏洞银行",
+    "link": "https://www.bugbank.cn/",
+    "image": "https://www.bugbank.cn/favicon.ico",
+    "description": "领先的网络安全漏洞发现品牌"
+  },
+  {
+    "name": "1earn",
+    "link": "https://github.com/ffffffff0x/1earn",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "安全知识框架"
+  },
+  {
+    "name": "i春秋",
+    "link": "https://www.ichunqiu.com/",
+    "image": "https://dh.aabyss.cn/img/icq.jpg",
+    "description": "i春秋网络安全平台"
+  },
+  {
+    "name": "SQL-injection-bypass",
+    "link": "https://github.com/Junehck/SQL-injection-bypass",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "记录实战中的各种sql注入绕过姿势"
+  },
+  {
+    "name": "洞见微信聚合",
+    "link": "http://wechat.doonsec.com/",
+    "image": "https://dh.aabyss.cn/img/dongjian.ico",
+    "description": "洞见微信聚合-订阅号文章收录"
+  },
+  {
+    "name": "Bilibili",
+    "link": "https://space.bilibili.com/122627170/favlist?fid=325120470",
+    "image": "https://dh.aabyss.cn/img/bilibili.ico",
+    "description": "哔哩哔哩可以算是不错的学习平台"
+  },
+  {
+    "name": "Quick Reference",
+    "link": "https://quickref.me/",
+    "image": "https://quickref.me/images/favicon.png?v=1",
+    "description": "编程语言速查备忘录"
+  },
+  {
+    "name": "TWiki",
+    "link": "https://github.com/teamssix/TWiki",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "云安全方向知识库"
+  },
+  {
+    "name": "PTES Technical Guidelines",
+    "link": "http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "PTES Technical Guidelines"
+  },
+  {
+    "name": "Hacking8",
+    "link": "https://www.hacking8.com/repository",
+    "image": "https://www.hacking8.com/favicon.ico",
+    "description": "Hacking8 安全知识库"
+  },
+  {
+    "name": "合天网安实验室",
+    "link": "https://www.hetianlab.com/",
+    "image": "https://www.hetianlab.com/favicon.ico",
+    "description": "合天网安实验室"
+  },
+  {
+    "name": "KSSD",
+    "link": "https://www.pediy.com/kssd/index.html",
+    "image": "https://dh.aabyss.cn/img/kanxueKSSD.ico",
+    "description": "看雪KSSD"
+  },
+  {
+    "name": "Web Security Learning",
+    "link": "https://github.com/CHYbeta/Web-Security-Learning",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Web-Security-Learning"
+  },
+  {
+    "name": "Software Security Learning",
+    "link": "https://github.com/CHYbeta/Software-Security-Learning",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Software-Security-Learning"
+  },
+  {
+    "name": "Writeups",
+    "link": "https://pentester.land/writeups/",
+    "image": "https://dh.aabyss.cn/img/pentester.land.ico",
+    "description": "赏金漏洞文章列表"
+  },
+  {
+    "name": "T Wiki",
+    "link": "https://wiki.teamssix.com/cloudsecurityresources/",
+    "image": "https://wiki.teamssix.com/img/favicon.ico",
+    "description": "云安全资源汇总"
+  },
+  {
+    "name": "狼组公开知识库",
+    "link": "https://wiki.wgpsec.org/",
+    "image": "https://wiki.wgpsec.org/assets/logo.svg",
+    "description": "狼组公开知识库"
+  },
+  {
+    "name": "暗月知识中心",
+    "link": "https://wiki.moonteams.com/",
+    "image": "https://wiki.moonteams.com/favicon.ico",
+    "description": "暗月知识分享中心"
+  },
+  {
+    "name": "SecHub",
+    "link": "https://sechub.com.cn/",
+    "image": "https://sechub.com.cn/app/favicon.ico",
+    "description": "为网安提供学习交流、知识分享的平台"
+  },
+  {
+    "name": "白阁文库",
+    "link": "https://wiki.bylibrary.cn/",
+    "image": "https://dh.aabyss.cn/img/baigeWiki.png",
+    "description": "白阁文库"
+  },
+  {
+    "name": "Webshell免杀手册",
+    "link": "https://github.com/AabyssZG/WebShell-Bypass-Guide",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "PHP从零学习到Webshell免杀手册"
+  },
+  {
+    "name": "信息安全知识库",
+    "link": "https://vipread.com/",
+    "image": "https://dh.aabyss.cn/img/xxaqzsk.jpg",
+    "description": "信息安全知识文库"
+  },
+  {
+    "name": "安全牛课堂",
+    "link": "https://www.aqniukt.com/",
+    "image": "https://www.aqniukt.com/files/system/2021/03-10/095520817f3c179900.png",
+    "description": "领先的信息安全教育平台"
+  },
+  {
+    "name": "补天学习平台",
+    "link": "https://www.butian.net/School/index",
+    "image": "https://www.butian.net/favicon.ico",
+    "description": "补天学习平台"
+  },
+  {
+    "name": "菜鸟教程",
+    "link": "https://www.runoob.com/",
+    "image": "https://static.runoob.com/images/favicon.ico",
+    "description": "学的不仅是技术，更是梦想！"
+  },
+  {
+    "name": "慕课网",
+    "link": "https://www.imooc.com/",
+    "image": "https://www.imooc.com/favicon.ico",
+    "description": "程序员的梦工场"
+  },
+  {
+    "name": "中国大学MOOC",
+    "link": "https://www.icourse163.org/",
+    "image": "https://dh.aabyss.cn/img/zgdxsmk.jpg",
+    "description": "国家精品课程在线学习平台"
+  },
+  {
+    "name": "腾讯课堂",
+    "link": "https://ke.qq.com/",
+    "image": "https://ke.qq.com/favicon.ico",
+    "description": "腾讯课堂教育平台"
+  },
+  {
+    "name": "Linux命令大全",
+    "link": "https://www.linuxcool.com/",
+    "image": "https://www.linuxcool.com/favicon.ico",
+    "description": "真正好用的Linux命令在线查询网站"
+  },
+  {
+    "name": "潇湘信安",
+    "link": "https://www.yuque.com/xxxasec",
+    "image": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*sRUdR543RjcAAAAAAAAAAAAADvuFAQ/original",
+    "description": "潇湘信安知识库"
+  },
+  {
+    "name": "JavaSec",
+    "link": "https://javasec.org/",
+    "image": "https://javasec.org/gitbook/images/favicon.ico",
+    "description": "攻击Java Web应用-[Java Web安全]"
+  },
+  {
+    "name": "Web安全学习笔记",
+    "link": "https://websec.readthedocs.io/zh/latest/",
+    "image": "https://websec.readthedocs.io/favicon.ico",
+    "description": "Web安全学习笔记"
+  },
+  {
+    "name": "知识大陆",
+    "link": "https://wiki.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/zhishidalu.ico",
+    "description": "知识大陆 - 安全圈的百科全书"
+  },
+  {
+    "name": "信息安全学报",
+    "link": "http://jcs.iie.ac.cn/xxaqxb/ch/index.aspx",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "中国科学院信息工程研究所"
+  },
+  {
+    "name": "CBR-Doc",
+    "link": "https://github.com/WilsonHuha/cbr-doc/blob/master/posts/cc_sum.md",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "网安图书馆：文档"
+  },
+  {
+    "name": "CTF-Tools",
+    "link": "https://github.com/Aabyss-Team/CTF-Tools",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "渊龙Sec安全团队CTF&AWD工具包"
+  },
+  {
+    "name": "CRC32-Tools",
+    "link": "https://github.com/AabyssZG/CRC32-Tools",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "CTFer专属的CRC碰撞全自动化脚本"
+  },
+  {
+    "name": "FileReverse-Tools",
+    "link": "https://github.com/AabyssZG/FileReverse-Tools",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "二进制文件反转、倒置相关的工具"
+  },
+  {
+    "name": "BugKu社区",
+    "link": "https://www.bugku.com/",
+    "image": "https://www.bugku.com/favicon.ico",
+    "description": "CTF论坛"
+  },
+  {
+    "name": "合天网安实验室",
+    "link": "https://www.hetianlab.com/pages/CTFLaboratory.jsp",
+    "image": "https://www.hetianlab.com/favicon.ico",
+    "description": "CTF从入门到实践"
+  },
+  {
+    "name": "PwnHub",
+    "link": "https://pwnhub.cn",
+    "image": "https://pwnhub.cn/static/favicon.ico",
+    "description": "长亭科技旗下的CTF平台"
+  },
+  {
+    "name": "Reversing.Kr",
+    "link": "http://reversing.kr/",
+    "image": "https://dh.aabyss.cn/img/reversing.ico",
+    "description": "Reversing.Kr"
+  },
+  {
+    "name": "CTFlearn",
+    "link": "https://ctflearn.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "CTFlearn - Home"
+  },
+  {
+    "name": "RedTiger's Hackit",
+    "link": "http://redtiger.labs.overthewire.org/",
+    "image": "https://dh.aabyss.cn/img/overthewire.ico",
+    "description": "RedTiger's Hackit"
+  },
+  {
+    "name": "CTF Tools",
+    "link": "https://ctf-wiki.github.io/ctf-tools/",
+    "image": "https://dh.aabyss.cn/img/ctf-wiki.github.io.png",
+    "description": "CTF 军火库"
+  },
+  {
+    "name": "About WeChall",
+    "link": "http://www.wechall.net/",
+    "image": "https://dh.aabyss.cn/img/wechall.ico",
+    "description": "About WeChall"
+  },
+  {
+    "name": "CTF WP from P4 Team",
+    "link": "https://github.com/p4-team/ctf",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "CTF writeups from P4 Team"
+  },
+  {
+    "name": "prompt(1)",
+    "link": "http://prompt.ml",
+    "image": "https://dh.aabyss.cn/img/prompt.ico",
+    "description": "prompt(1) to win"
+  },
+  {
+    "name": "CTF Wiki",
+    "link": "https://ctf-wiki.org/index.html",
+    "image": "https://dh.aabyss.cn/img/CTFWiki.png",
+    "description": "CTF开源知识库"
+  },
+  {
+    "name": "CTF快速入门手册",
+    "link": "https://github.com/ProbiusOfficial/CTF-QuickStart",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "【推荐】CTF快速入门手册"
+  },
+  {
+    "name": "CTF在线编码工具",
+    "link": "http://www.hiencode.com/",
+    "image": "https://dh.aabyss.cn/img/ctfjjm_favicon.ico",
+    "description": "CTF加解密/编码在线工具"
+  },
+  {
+    "name": "CTFHub",
+    "link": "https://www.ctfhub.com",
+    "image": "https://www.ctfhub.com/img/ctfhub_logo.0265db54.svg",
+    "description": "CTFHub"
+  },
+  {
+    "name": "BUUCTF",
+    "link": "https://buuoj.cn/",
+    "image": "https://buuoj.cn/themes/buu_core/static/img/favicon.ico",
+    "description": "安恒信息-CTF靶场"
+  },
+  {
+    "name": "CTFtime",
+    "link": "https://ctftime.org/",
+    "image": "https://ctftime.org/favicon.png",
+    "description": "国际CTF平台"
+  },
+  {
+    "name": "CTF资源库",
+    "link": "https://www.ctftools.com/",
+    "image": "https://www.ctftools.com/favicon.ico",
+    "description": "CTF在线工具库、工具下载"
+  },
+  {
+    "name": "Bugku CTF",
+    "link": "https://ctf.bugku.com/",
+    "image": "https://ctf.bugku.com/favicon.ico",
+    "description": "BugkuCTF练习平台"
+  },
+  {
+    "name": "攻防世界",
+    "link": "https://adworld.xctf.org.cn/home/index",
+    "image": "https://dh.aabyss.cn/img/ctf.jpg",
+    "description": "XCTF社区（攻防世界）"
+  },
+  {
+    "name": "RealWorldCTF",
+    "link": "https://realworldctf.cn",
+    "image": "https://dh.aabyss.cn/img/RealWorldCTF.jpg",
+    "description": "长亭科技-RealWorldCTF"
+  },
+  {
+    "name": "CTFshow",
+    "link": "https://wp.ctf.show/",
+    "image": "https://wp.ctf.show/assets/favicon-iutqpgxv.ico",
+    "description": "CTF WriteUP整理"
+  },
+  {
+    "name": "Wgpsec CTF",
+    "link": "https://ctf.wgpsec.org/",
+    "image": "https://dh.aabyss.cn/img/WgpsecCTF.ico",
+    "description": "WgpSec狼组-CTF平台"
+  },
+  {
+    "name": "与佛论禅",
+    "link": "https://www.keyfc.net/bbs/tools/tudoucode.aspx",
+    "image": "https://www.keyfc.net/favicon.ico",
+    "description": "佛曰加密与解密"
+  },
+  {
+    "name": "实验吧",
+    "link": "https://www.shiyanbar.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "实验吧CTF题库"
+  },
+  {
+    "name": "SanhaCTF",
+    "link": "https://su-sanha.cn/",
+    "image": "https://su-sanha.cn/favicon.ico",
+    "description": "CTF比赛讯息平台"
+  },
+  {
+    "name": "GPS Visualizer",
+    "link": "https://www.gpsvisualizer.com/map_input",
+    "image": "https://www.gpsvisualizer.com/favicon.png",
+    "description": "Draw a map from a GPS data file"
+  },
+  {
+    "name": "Ook！",
+    "link": "https://www.dcode.fr/ook-language",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Esoteric Code Decoder, Online Translator"
+  },
+  {
+    "name": "Vulhub",
+    "link": "https://github.com/vulhub/vulhub",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "面向大众的开源漏洞靶场"
+  },
+  {
+    "name": "Vulfocus",
+    "link": "https://vulfocus.cn/",
+    "image": "https://dh.aabyss.cn/img/vulfocus.ico",
+    "description": "白帽汇开发的一款开源漏洞靶场"
+  },
+  {
+    "name": "墨者学院",
+    "link": "https://www.mozhe.cn/",
+    "image": "https://s.mozhe.cn/static/ico/favicon.ico",
+    "description": "专注安全人才培训"
+  },
+  {
+    "name": "渊龙Sec团队靶场",
+    "link": "http://ctf.aabyss.cn/",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "为国之安全而奋斗，为信息安全而发声！"
+  },
+  {
+    "name": "春秋云镜",
+    "link": "https://yunjing.ichunqiu.com/",
+    "image": "https://yunjing.ichunqiu.com/favicon.ico",
+    "description": "i春秋旗下的云镜实战靶场"
+  },
+  {
+    "name": "封神台",
+    "link": "https://hack.zkaq.cn/",
+    "image": "https://hack.zkaq.cn/favicon.ico",
+    "description": "掌控安全在线演练靶场"
+  },
+  {
+    "name": "VulnHub",
+    "link": "https://www.vulnhub.com/",
+    "image": "https://www.vulnhub.com/static/img/favicon.ico",
+    "description": "VulnHub"
+  },
+  {
+    "name": "Hack The Box",
+    "link": "https://www.hackthebox.com/",
+    "image": "https://www.hackthebox.com/images/landingv3/favicon.png",
+    "description": "大名鼎鼎的HTB"
+  },
+  {
+    "name": "Xss小游戏",
+    "link": "https://xss.haozi.me/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "部署在Github上的XSS小游戏"
+  },
+  {
+    "name": "网络安全实验室",
+    "link": "http://hackinglab.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "网络信息安全攻防学习平台"
+  },
+  {
+    "name": "Root Me",
+    "link": "https://www.root-me.org/",
+    "image": "https://www.root-me.org/favicon.ico",
+    "description": "国外实战靶场"
+  },
+  {
+    "name": "AltoroJ",
+    "link": "http://demo.testfire.net/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "IBM公司的漏洞靶场"
+  },
+  {
+    "name": "Acunetix Web Vulnerability",
+    "link": "http://vulnweb.com/",
+    "image": "https://dh.aabyss.cn/img/acunetix_vulweb.png",
+    "description": "Acunetix Web Vulnerability Scanner."
+  },
+  {
+    "name": "VulApps",
+    "link": "http://vulapps.evalbug.com/",
+    "image": "https://vulapps.evalbug.com/assets/img/icons/favicon.ico",
+    "description": "VulApps"
+  },
+  {
+    "name": "Attack-Defense",
+    "link": "https://attackdefense.com/",
+    "image": "https://dh.aabyss.cn/img/attackdefense.ico",
+    "description": "Attack-Defense Online Lab"
+  },
+  {
+    "name": "BugX",
+    "link": "http://www.bugx.org",
+    "image": "https://dh.aabyss.cn/img/BugX.ico",
+    "description": "国外区块链安全平台"
+  },
+  {
+    "name": "DVPNET",
+    "link": "https://dvpnet.io/",
+    "image": "https://dh.aabyss.cn/img/bitbug_favicon.ico",
+    "description": "去中心化区块链漏洞平台"
+  },
+  {
+    "name": "Blockchain Security",
+    "link": "https://blockchain-sec.com/",
+    "image": "https://dh.aabyss.cn/img/blockchain-sec.png",
+    "description": "区块链安全Wiki"
+  },
+  {
+    "name": "DASP",
+    "link": "https://www.dasp.co/",
+    "image": "https://dh.aabyss.cn/img/dasp.co.png",
+    "description": "DASP-TOP 10"
+  },
+  {
+    "name": "DarkHandBook",
+    "link": "https://darkhandbook.io/",
+    "image": "https://darkhandbook.io/images/favicon.ico",
+    "description": "区块链黑暗森林自救手册"
+  },
+  {
+    "name": "Pentester's Notebook",
+    "link": "https://ppn.snovvcrash.rocks/",
+    "image": "https://dh.aabyss.cn/img/ppn.snovvcrash.rocks.png",
+    "description": "Pentester's Promiscuous Notebook"
+  },
+  {
+    "name": "Red Team Notes",
+    "link": "https://dmcxblue.gitbook.io/red-team-notes/",
+    "image": "https://dh.aabyss.cn/img/dmcxblue.gitbook.io.png",
+    "description": "Introduction - Red Team Notes"
+  },
+  {
+    "name": "NVISO Labs",
+    "link": "https://blog.nviso.eu/",
+    "image": "https://dh.aabyss.cn/img/blog.nviso.eu.png",
+    "description": "Cyber security research, straight from the lab!"
+  },
+  {
+    "name": "RedTeam101",
+    "link": "https://www.redteam101.tech/",
+    "image": "https://dh.aabyss.cn/img/www.redteam101.tech.png",
+    "description": "redteam101 - 红队技术手册"
+  },
+  {
+    "name": "Windows Protocol",
+    "link": "https://daiker.gitbook.io/windows-protocol/",
+    "image": "https://dh.aabyss.cn/img/daiker.github.io.png",
+    "description": "windows-protocol"
+  },
+  {
+    "name": "eXploit",
+    "link": "https://exploit.ph/",
+    "image": "https://dh.aabyss.cn/img/exploit.ph.ico",
+    "description": "exploit.ph"
+  },
+  {
+    "name": "CheatSheets",
+    "link": "https://cheats.philkeeble.com/",
+    "image": "https://dh.aabyss.cn/img/cheats.philkeeble.com.png",
+    "description": "Introduction - CheatSheets"
+  },
+  {
+    "name": "CPP构建C2",
+    "link": "https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/",
+    "image": "https://dh.aabyss.cn/img/shogunlab.png",
+    "description": "Building-C2-Implants-In-Cpp-A-Primer"
+  },
+  {
+    "name": "The Hacker Recipes",
+    "link": "https://www.thehacker.recipes/",
+    "image": "https://dh.aabyss.cn/img/www.thehacker.recipes.png",
+    "description": "The Hacker Recipes"
+  },
+  {
+    "name": "Offensive Security",
+    "link": "https://cheatsheet.haax.fr/",
+    "image": "https://dh.aabyss.cn/img/cheatsheet.haax.fr.png",
+    "description": "Offensive Security Cheatsheet"
+  },
+  {
+    "name": "GTFOBins",
+    "link": "https://gtfobins.github.io/",
+    "image": "https://dh.aabyss.cn/img/GTFOBins.png",
+    "description": "GTFOBins"
+  },
+  {
+    "name": "NCC Group",
+    "link": "https://research.nccgroup.com/",
+    "image": "https://dh.aabyss.cn/img/nccGroup.jpg",
+    "description": "Making the world safer and more secure"
+  },
+  {
+    "name": "xct's notes",
+    "link": "https://notes.vulndev.io/notes/",
+    "image": "https://dh.aabyss.cn/img/notes.vulndev.io.png",
+    "description": "xct's notes"
+  },
+  {
+    "name": "idiotc4t",
+    "link": "https://idiotc4t.com/",
+    "image": "https://dh.aabyss.cn/img/idiotc4t.com.png",
+    "description": "Windows系统安全"
+  },
+  {
+    "name": "Cobalt Strike",
+    "link": "https://wbglil.gitbook.io/cobalt-strike/",
+    "image": "https://dh.aabyss.cn/img/wbglil.gitbook.io.png",
+    "description": "CS相关知识整理"
+  },
+  {
+    "name": "C2 Matrix",
+    "link": "https://howto.thec2matrix.com/",
+    "image": "https://dh.aabyss.cn/img/howto.thec2matrix.com.png",
+    "description": "The C2 Matrix"
+  },
+  {
+    "name": "Community Kit",
+    "link": "https://cobalt-strike.github.io/community_kit/",
+    "image": "https://dh.aabyss.cn/img/cobaltstrike-logo-header.png",
+    "description": "Community Kit"
+  },
+  {
+    "name": "Active Directory",
+    "link": "https://adsecurity.org/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Active Directory Security"
+  },
+  {
+    "name": "LOLBAS",
+    "link": "https://lolbas-project.github.io/",
+    "image": "https://dh.aabyss.cn/img/LOLBAS.png",
+    "description": "Living Off The Land Binaries, Scripts and Libraries"
+  },
+  {
+    "name": "dirkjanm.io",
+    "link": "https://dirkjanm.io/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "dirkjanm.io"
+  },
+  {
+    "name": "XPN",
+    "link": "https://blog.xpnsec.com/",
+    "image": "https://dh.aabyss.cn/img/XPN.ico",
+    "description": "XPN InfoSec"
+  },
+  {
+    "name": "360Netlab",
+    "link": "https://blog.netlab.360.com/",
+    "image": "https://dh.aabyss.cn/img/360.com.ico",
+    "description": "360 Netlab Blog"
+  },
+  {
+    "name": "Vx,Jump Security",
+    "link": "http://www.vxjump.net/files/a_page/7/aptr.htm",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Vx,Jump Security"
+  },
+  {
+    "name": "Win RedTeam",
+    "link": "https://www.pentesteracademy.com/redteamlab",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Windows Red Team Lab"
+  },
+  {
+    "name": "SkullSecurity",
+    "link": "https://www.skullsecurity.org/",
+    "image": "https://dh.aabyss.cn/img/skullsecurity.jpg",
+    "description": "SkullSecurity Adventures In Security"
+  },
+  {
+    "name": "HackTricks",
+    "link": "https://book.hacktricks.xyz/welcome/readme",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "HackTricks"
+  },
+  {
+    "name": "Penetration Testing",
+    "link": "https://www.hackingarticles.in/penetration-testing/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Penetration Testing"
+  },
+  {
+    "name": "3gstudent",
+    "link": "https://3gstudent.github.io/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Good in study, attitude and health"
+  },
+  {
+    "name": "Red Teaming",
+    "link": "https://www.ired.team/",
+    "image": "https://dh.aabyss.cn/img/red_team.png",
+    "description": "Red Teaming Experiments"
+  },
+  {
+    "name": "Red Team Adventures",
+    "link": "https://riccardoancarani.github.io/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Red Team Adventures"
+  },
+  {
+    "name": "Red Team Security",
+    "link": "https://www.reddit.com/r/redteamsec/",
+    "image": "https://dh.aabyss.cn/img/reddit.com.ico",
+    "description": "Red Team Security"
+  },
+  {
+    "name": "awesome-rat",
+    "link": "https://github.com/alphaSeclab/awesome-rat",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "RAT And C&C Resources"
+  },
+  {
+    "name": "Sevagas",
+    "link": "https://blog.sevagas.com/",
+    "image": "https://dh.aabyss.cn/img/sevagas.com.ico",
+    "description": "Sevagas"
+  },
+  {
+    "name": "Tarlogic Blog",
+    "link": "https://www.tarlogic.com/blog/",
+    "image": "https://dh.aabyss.cn/img/tarlogic.com.png",
+    "description": "Cybersecurity Blog"
+  },
+  {
+    "name": "Spaceraccoon's Blog",
+    "link": "https://spaceraccoon.dev/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Spaceraccoon's Blog"
+  },
+  {
+    "name": "Pentest Book",
+    "link": "https://pentestbook.six2dez.com/",
+    "image": "https://dh.aabyss.cn/img/pentestbook.six2dez.com.png",
+    "description": "six2dez/.pentest-book"
+  },
+  {
+    "name": "Pentest Handbook",
+    "link": "https://www.heresecurity.wiki/about/readme",
+    "image": "https://dh.aabyss.cn/img/Pentest-Handbook.jpg",
+    "description": "渗透测试手册 - Pentest Handbook"
+  },
+  {
+    "name": "Unprotect Project",
+    "link": "https://unprotect.it/",
+    "image": "https://dh.aabyss.cn/img/unprotect.it.ico",
+    "description": "Search Evasion Techniques"
+  },
+  {
+    "name": "Payloads All The Things",
+    "link": "https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/",
+    "image": "https://dh.aabyss.cn/img/swisskyrepo.github.io.png",
+    "description": "Payloads All The Things Web"
+  },
+  {
+    "name": "APT实战资源",
+    "link": "https://start.me/p/PwlKgn/apt-osint-labs",
+    "image": "https://c.start.me/assets/favicons/favicon-64-fff35804676f95d1dbe48e65281e094bf3aa47c3dc5f1f7a1a5ad2aed6e0fdd4.png",
+    "description": "APT实战资源 OSINT-Labs"
+  },
+  {
+    "name": "Netlas",
+    "link": "https://netlas.io/",
+    "image": "https://dh.aabyss.cn/img/netlas.ico",
+    "description": "Netlas"
+  },
+  {
+    "name": "IOTsec-Zone",
+    "link": "https://www.iotsec-zone.com/",
+    "image": "https://www.iotsec-zone.com/img/logo_.svg",
+    "description": "IOTsec-Zone 物联网安全社区"
+  },
+  {
+    "name": "Shodan",
+    "link": "https://www.shodan.io/",
+    "image": "https://static.shodan.io/shodan/img/favicon.png",
+    "description": "Shodan Search"
+  },
+  {
+    "name": "知风",
+    "link": "https://zhifeng.io/web/new/",
+    "image": "https://zhifeng.io/favicon.ico",
+    "description": "互联网联网工控资产测绘引擎"
+  },
+  {
+    "name": "IOT安全情报",
+    "link": "https://www.iotsec-zone.com/vullist",
+    "image": "https://www.iotsec-zone.com/img/logo_.svg",
+    "description": "IOTsec-IOT安全情报"
+  },
+  {
+    "name": "Hak5",
+    "link": "https://www.hak5.org/",
+    "image": "https://dh.aabyss.cn/img/hak5.png",
+    "description": "Hak5 Official Site"
+  },
+  {
+    "name": "IoT-vulhub",
+    "link": "https://github.com/VulnTotal-Team/IoT-vulhub",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "IoT固件漏洞复现环境"
+  },
+  {
+    "name": "LimitedResults",
+    "link": "https://limitedresults.com",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Limited contribution to this world"
+  },
+  {
+    "name": "灯塔实验室",
+    "link": "http://plcscan.org/blog/",
+    "image": "https://plcscan.org/favicon.ico",
+    "description": "灯塔实验室-专注工控安全"
+  },
+  {
+    "name": "谛听",
+    "link": "https://www.ditecting.com/",
+    "image": "https://dh.aabyss.cn/img/diting.png",
+    "description": "专注工控安全的搜索引擎"
+  },
+  {
+    "name": "物联网安全百科",
+    "link": "https://iot-security.wiki/",
+    "image": "https://iot-security.wiki/gitbook/images/favicon.ico",
+    "description": "物联网安全百科"
+  },
+  {
+    "name": "T00LS",
+    "link": "https://www.t00ls.net/",
+    "image": "https://dh.aabyss.cn/img/t00ls.jpg",
+    "description": "低调求发展-潜心学习安全"
+  },
+  {
+    "name": "安全内参",
+    "link": "https://www.secrss.com/",
+    "image": "https://www.secrss.com/logo.png",
+    "description": "决策者的网络安全知识库"
+  },
+  {
+    "name": "先知社区",
+    "link": "https://xz.aliyun.com/",
+    "image": "https://dh.aabyss.cn/img/xz.jpg",
+    "description": "优秀的网络安全社区"
+  },
+  {
+    "name": "FreeBuf",
+    "link": "https://www.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/freebuf.jpg",
+    "description": "互联网安全新媒体"
+  },
+  {
+    "name": "unSafe",
+    "link": "https://unsafe.sh/",
+    "image": "https://unsafe.sh/static/icon.png",
+    "description": "unSafe-不安全"
+  },
+  {
+    "name": "圈子社区",
+    "link": "https://www.secquan.org",
+    "image": "https://dh.aabyss.cn/img/secquan.ico",
+    "description": "一个新锐白帽子汇聚地"
+  },
+  {
+    "name": "安全牛",
+    "link": "https://www.aqniu.com/",
+    "image": "https://dh.aabyss.cn/img/aqn.jpg",
+    "description": "安全牛学习平台"
+  },
+  {
+    "name": "90Sec",
+    "link": "https://forum.90sec.com/",
+    "image": "https://forum.90sec.com/uploads/default/optimized/2X/0/02c0b50fd002ab519248513ca5832fc789e2355a_2_32x32.png",
+    "description": "专注于网络空间安全、前沿技术研究"
+  },
+  {
+    "name": "i春秋",
+    "link": "https://www.ichunqiu.com/",
+    "image": "https://dh.aabyss.cn/img/icq.jpg",
+    "description": "i春秋网络安全平台"
+  },
+  {
+    "name": "奇安信攻防社区",
+    "link": "https://forum.butian.net",
+    "image": "https://forum.butian.net/ico.png",
+    "description": "补天配套-奇安信攻防社区"
+  },
+  {
+    "name": "指尖安全",
+    "link": "https://www.secfree.com/",
+    "image": "https://dh.aabyss.cn/img/zhijian.ico",
+    "description": "垂直互联网安全媒体"
+  },
+  {
+    "name": "嘶吼",
+    "link": "https://www.4hou.com/",
+    "image": "https://www.4hou.com/sihou/images/favicon.ico",
+    "description": "回归最本质的信息安全,互联网安全新媒体"
+  },
+  {
+    "name": "白帽汇安全研究院",
+    "link": "https://nosec.org/home/index",
+    "image": "https://nosec.org/home/image/favicon.ico",
+    "description": "NOSEC安全讯息平台"
+  },
+  {
+    "name": "IOTsec-Zone",
+    "link": "https://www.iotsec-zone.com/",
+    "image": "https://www.iotsec-zone.com/img/logo_.svg",
+    "description": "IOTsec-Zone 物联网安全社区"
+  },
+  {
+    "name": "安全脉搏",
+    "link": "https://www.secpulse.com/",
+    "image": "https://www.secpulse.com/favicon.ico",
+    "description": "分享技术，悦享品质"
+  },
+  {
+    "name": "跳跳糖",
+    "link": "http://tttang.com/",
+    "image": "https://storage.tttang.com/static/images/icon.png",
+    "description": "跳跳糖安全社区"
+  },
+  {
+    "name": "Track安全社区",
+    "link": "https://bbs.zkaq.cn/",
+    "image": "https://bbs.zkaq.cn/favicon.ico",
+    "description": "掌控安全旗下的安全社区"
+  },
+  {
+    "name": "[~]#棱角 ::Edge.Forum*",
+    "link": "https://forum.ywhack.com/",
+    "image": "https://forum.ywhack.com/favicon.ico",
+    "description": "棱角安全团队的技术论坛"
+  },
+  {
+    "name": "非安全中国网",
+    "link": "https://www.sitedirsec.com/",
+    "image": "https://www.sitedirsec.com/favicon.ico",
+    "description": "非安全中国网-官方论坛"
+  },
+  {
+    "name": "Hacking8 安全信息流",
+    "link": "https://i.hacking8.com/index/vul-poc",
+    "image": "https://i.hacking8.com/static/favicon.ico",
+    "description": "安全信息流-漏洞/Poc监控"
+  },
+  {
+    "name": "SecHub",
+    "link": "https://sechub.com.cn/",
+    "image": "https://sechub.com.cn/app/favicon.ico",
+    "description": "为网安提供学习交流、知识分享的平台"
+  },
+  {
+    "name": "SecIN",
+    "link": "https://www.sec-in.com/",
+    "image": "https://www.sec-in.com/favicon.ico",
+    "description": "SecIN信息安全技术社区"
+  },
+  {
+    "name": "i春秋论坛",
+    "link": "https://bbs.ichunqiu.com/",
+    "image": "https://dh.aabyss.cn/img/icq.jpg",
+    "description": "i春秋论坛"
+  },
+  {
+    "name": "国家计算机病毒应急处理中心",
+    "link": "https://www.cverc.org.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "CVERC"
+  },
+  {
+    "name": "安全村",
+    "link": "https://www.sec-un.org",
+    "image": "https://www.sec-un.org/wp-content/uploads/sec-un-pavicon.png",
+    "description": "安全村(Sec-UN)，成立于2014年"
+  },
+  {
+    "name": "ParrotSec",
+    "link": "https://parrotsec-cn.org/",
+    "image": "https://parrotsec-cn.org/uploads/default/optimized/1X/eb84ebb9b07176c8f852466e6c8b17a1e4495f96_2_32x32.png",
+    "description": "ParrotSec中文社区"
+  },
+  {
+    "name": "CT Stack安全社区",
+    "link": "https://stack.chaitin.com/",
+    "image": "https://stack.chaitin.com/favicon.ico",
+    "description": "长亭科技旗下的安全社区"
+  },
+  {
+    "name": "暗魂社区",
+    "link": "https://bbs.anhunsec.cn/",
+    "image": "https://bbs.anhunsec.cn/assets/favicon-zuu9stwf.png",
+    "description": "暗魂安全团队社区"
+  },
+  {
+    "name": "知识大陆",
+    "link": "https://wiki.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/zhishidalu.ico",
+    "description": "知识大陆 - 安全圈的百科全书"
+  },
+  {
+    "name": "NGC660安全社区",
+    "link": "http://ngc660.cn/",
+    "image": "https://dh.aabyss.cn/img/ngc660.png",
+    "description": "NGC660安全社区"
+  },
+  {
+    "name": "补天白帽大会",
+    "link": "https://whc.butian.net/",
+    "image": "https://whc.butian.net/favicon.ico",
+    "description": "补天白帽大会"
+  },
+  {
+    "name": "KCon 黑客大会",
+    "link": "https://kcon.knownsec.com/",
+    "image": "https://kcon.knownsec.com/favicon.ico",
+    "description": "知道创宇 KCon安全大会"
+  },
+  {
+    "name": "NSC",
+    "link": "http://nsc.skdlabs.com/",
+    "image": "https://nsc.skdlabs.com/favicon.ico",
+    "description": "NSC中国网络安全大会"
+  },
+  {
+    "name": "CIS 网络安全创新大会",
+    "link": "https://cis.freebuf.com/",
+    "image": "https://dh.aabyss.cn/img/freebuf.jpg",
+    "description": "CIS 网络安全创新大会"
+  },
+  {
+    "name": "CCS 网络安全大会",
+    "link": "https://www.cdccs.cn/",
+    "image": "https://www.cdccs.cn/favicon.ico",
+    "description": "CCS 网络安全大会"
+  },
+  {
+    "name": "BCS 网络安全大会",
+    "link": "https://bcs.qianxin.com/",
+    "image": "https://bcs.qianxin.com/favicon.ico",
+    "description": "2022北京网络安全大会"
+  },
+  {
+    "name": "ISC 互联网安全大会",
+    "link": "https://isc.360.com/",
+    "image": "https://dh.aabyss.cn/img/ISC.png",
+    "description": "ISC 互联网安全大会"
+  },
+  {
+    "name": "Defcon",
+    "link": "https://defcon.org/",
+    "image": "https://dh.aabyss.cn/img/Defcon.ico",
+    "description": "国际网络安全大会"
+  },
+  {
+    "name": "SDC 看雪安全",
+    "link": "https://meet.kanxue.com/",
+    "image": "https://meet.kanxue.com/view/images/favicon.ico",
+    "description": "看雪安全开发者峰会"
+  },
+  {
+    "name": "GeekPwn",
+    "link": "https://www.geekpwn.org/zh/",
+    "image": "https://www.geekpwn.org/images/icon/favicon.ico",
+    "description": "GeekPwn国际安全极客大赛"
+  },
+  {
+    "name": "XCon",
+    "link": "http://xcon.xfocus.net/",
+    "image": "https://dh.aabyss.cn/img/Xcon.ico",
+    "description": "安全焦点信息安全技术峰会"
+  },
+  {
+    "name": "USENIX Security",
+    "link": "https://www.usenix.org/conference/usenixsecurity14",
+    "image": "https://dh.aabyss.cn/img/USENIX_Security.ico",
+    "description": "USENIX Security"
+  },
+  {
+    "name": "S&P",
+    "link": "https://www.ieee-security.org/",
+    "image": "https://dh.aabyss.cn/img/S-P.ico",
+    "description": "IEEE Symposium on Security and Privacy"
+  },
+  {
+    "name": "CCS",
+    "link": "http://www.sigsac.org/ccs.html",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "ACM Conference on Computer and Communications Security"
+  },
+  {
+    "name": "NDSS",
+    "link": "https://www.ndss-symposium.org/",
+    "image": "https://dh.aabyss.cn/img/NDSS.png",
+    "description": "Network and Distributed System Security Symposium"
+  },
+  {
+    "name": "Eurocrypt",
+    "link": "https://eurocrypt.iacr.org/",
+    "image": "https://dh.aabyss.cn/img/Eurocrypt.png",
+    "description": "Eurocrypt (欧密)"
+  },
+  {
+    "name": "Asiacrypt",
+    "link": "https://asiacrypt.iacr.org/",
+    "image": "https://dh.aabyss.cn/img/Asiacrypt.png",
+    "description": "Asiacrypt (亚密)"
+  },
+  {
+    "name": "Crypto",
+    "link": "https://crypto.iacr.org/",
+    "image": "https://dh.aabyss.cn/img/Crypto.png",
+    "description": "Crypto (美密)"
+  },
+  {
+    "name": "中国密码学会",
+    "link": "https://www.cacrnet.org.cn/site/term/43.html",
+    "image": "https://www.cacrnet.org.cn/favicon.ico",
+    "description": "中国密码学会"
+  },
+  {
+    "name": "新耀东方",
+    "link": "http://www.sins-expo.com/",
+    "image": "https://dh.aabyss.cn/img/xingyao.ico",
+    "description": "上海网络安全博览会暨高峰论坛"
+  },
+  {
+    "name": "渊龙Sec团队博客",
+    "link": "https://blog.aabyss.cn",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "为国之安全而奋斗，为信息安全而发声！"
+  },
+  {
+    "name": "360核心技术团队",
+    "link": "http://blogs.360.cn/",
+    "image": "https://dh.aabyss.cn/img/360blog.png",
+    "description": "360核心技术团队博客"
+  },
+  {
+    "name": "Paper-知道创宇",
+    "link": "https://paper.seebug.org",
+    "image": "https://paper.seebug.org/static/images/favicon.ico",
+    "description": "知道创宇SeeBug安全博客"
+  },
+  {
+    "name": "天融信阿尔法实验室",
+    "link": "http://blog.topsec.com.cn/",
+    "image": "http://alphalab1-wordpress.stor.sinaapp.com/uploads/2018/11/2018112805462612_logo.png",
+    "description": "天融信阿尔法实验室"
+  },
+  {
+    "name": "算命瞎子",
+    "link": "http://www.nmd5.com",
+    "image": "https://dh.aabyss.cn/img/smxz.ico",
+    "description": "生命不息，算命不止"
+  },
+  {
+    "name": "ChaBug安全",
+    "link": "https://www.chabug.org/",
+    "image": "https://www.chabug.org/favicon.ico",
+    "description": "一个分享知识、结识伙伴、资源共享的博客"
+  },
+  {
+    "name": "Hedysx博客",
+    "link": "https://www.hedysx.com",
+    "image": "https://www.hedysx.com/wp-content/uploads/2020/05/2020052208104754.ico",
+    "description": "Hedysx-专注信息安全"
+  },
+  {
+    "name": "倾旋的博客",
+    "link": "https://payloads.online/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "h4ck1r's Blog"
+  },
+  {
+    "name": "绿盟科技博客",
+    "link": "http://blog.nsfocus.net/",
+    "image": "https://dh.aabyss.cn/img/nsfocus.ico",
+    "description": "绿盟安全技术博客"
+  },
+  {
+    "name": "独自等待的博客",
+    "link": "https://www.waitalone.cn/",
+    "image": "https://www.waitalone.cn/favicon.ico",
+    "description": "独自等待's Blog"
+  },
+  {
+    "name": "Java安全网",
+    "link": "https://www.javasec.cn/",
+    "image": "https://www.javasec.cn/favicon.ico",
+    "description": "JAVA安全网"
+  },
+  {
+    "name": "Hack Inn",
+    "link": "https://www.hackinn.com/",
+    "image": "https://www.hackinn.com/favicon.ico",
+    "description": "国内网络安全峰会资料整理"
+  },
+  {
+    "name": "K8哥哥",
+    "link": "http://k8gege.org/",
+    "image": "http://k8gege.org/favicon.ico",
+    "description": "K8哥哥's Blog"
+  },
+  {
+    "name": "Safe6",
+    "link": "http://www.safe6.cn/",
+    "image": "https://dh.aabyss.cn/img/safe6.png",
+    "description": "Safe6's Blog"
+  },
+  {
+    "name": "shadowsec",
+    "link": "http://blog.shadowsec.org/",
+    "image": "https://dh.aabyss.cn/img/shadowsec.jpeg",
+    "description": "暗影安全团队博客"
+  },
+  {
+    "name": "素十八",
+    "link": "https://su18.org/",
+    "image": "https://su18.org/favicon.ico",
+    "description": "素十八的博客"
+  },
+  {
+    "name": "边窗",
+    "link": "https://peirs.net/",
+    "image": "https://dh.aabyss.cn/img/peirs.png",
+    "description": "SideWindow"
+  },
+  {
+    "name": "Victory",
+    "link": "https://txluck.github.io/",
+    "image": "https://txluck.github.io/img/logo.png",
+    "description": "潜心学安全"
+  },
+  {
+    "name": "WHOAMI",
+    "link": "https://whoamianony.top/",
+    "image": "https://whoamianony.top/assets/img/WHOAMI.png",
+    "description": "Pentesting & Security research"
+  },
+  {
+    "name": "Potato's Blog",
+    "link": "https://potato.gold/",
+    "image": "https://potato.gold/favicon.ico",
+    "description": "没有攻不破的系统，只有不努力的黑客！"
+  },
+  {
+    "name": "离别歌",
+    "link": "https://www.leavesongs.com/",
+    "image": "https://www.leavesongs.com/static/cactus/images/favicon.ico",
+    "description": "我是phith0n"
+  },
+  {
+    "name": "安全小飞侠",
+    "link": "http://avfisher.win/",
+    "image": "https://dh.aabyss.cn/img/avfisher.ico",
+    "description": "安全小飞侠的窝"
+  },
+  {
+    "name": "Black-Hole",
+    "link": "https://www.bugs.cc/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Black-Hole's Blog"
+  },
+  {
+    "name": "回忆飘如雪",
+    "link": "https://gv7.me/",
+    "image": "https://gv7.me/images/favicon.ico",
+    "description": "回忆飘如雪是一个专注于网络安全,研究漏洞艺术,记录c0ny1成长的信息安全博客"
+  },
+  {
+    "name": "Chaitin Blog",
+    "link": "https://blog.chaitin.cn/",
+    "image": "https://dh.aabyss.cn/img/changting.ico",
+    "description": "长亭科技博客"
+  },
+  {
+    "name": "腾讯安全玄武实验室",
+    "link": "https://xlab.tencent.com/cn/",
+    "image": "https://xlab.tencent.com/cn/favicon.png?v=1.1",
+    "description": "腾讯安全玄武实验室博客"
+  },
+  {
+    "name": "PanguTeam",
+    "link": "https://blog.pangu.io/",
+    "image": "https://dh.aabyss.cn/img/pangu.jpg",
+    "description": "盘古团队博客"
+  },
+  {
+    "name": "Demon",
+    "link": "https://www.ggsec.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Demonsec"
+  },
+  {
+    "name": "lijiejie",
+    "link": "https://www.lijiejie.com/",
+    "image": "https://www.lijiejie.com/wp-content/uploads/2022/04/cropped-fav_icon-32x32.png",
+    "description": "李劼杰的博客"
+  },
+  {
+    "name": "Hackfun",
+    "link": "https://hackfun.org/",
+    "image": "https://hackfun.org/images/favicon.ico",
+    "description": "Hackfun | Secblog"
+  },
+  {
+    "name": "KitPloit",
+    "link": "https://www.kitploit.com",
+    "image": "https://dh.aabyss.cn/img/KitPloit.ico",
+    "description": "KitPloit"
+  },
+  {
+    "name": "NOSEC安全讯息平台",
+    "link": "https://nosec.org/home/index",
+    "image": "https://nosec.org/home/image/favicon.ico",
+    "description": "白帽汇安全研究院"
+  },
+  {
+    "name": "YX'BLOG",
+    "link": "http://535yx.cn/",
+    "image": "http://www.535yx.cn/yx.png",
+    "description": "Green_Datura负责人"
+  },
+  {
+    "name": "TeamsSix",
+    "link": "https://teamssix.com/",
+    "image": "https://teamssix.com/favicon.png",
+    "description": "I can do all this through him who gives me strength."
+  },
+  {
+    "name": "国光",
+    "link": "https://www.sqlsec.com/",
+    "image": "https://image.3001.net/images/20200922/16007336487809.jpg",
+    "description": "国光 - 分享与收获"
+  },
+  {
+    "name": "AabyssZG's Blog",
+    "link": "https://blog.zgsec.cn/",
+    "image": "https://blog.zgsec.cn/favicon.ico",
+    "description": "曾哥的个人博客"
+  },
+  {
+    "name": "WBGIII",
+    "link": "https://wbglil.github.io/",
+    "image": "https://wbglil.github.io/images/favicon-32x32-next.png?v=5.1.4",
+    "description": "WBGIII's Blog"
+  },
+  {
+    "name": "cnhack's blog",
+    "link": "https://securityreseacher.gitee.io/securityreseacher/",
+    "image": "https://securityreseacher.gitee.io/securityreseacher/favicon.png",
+    "description": "cnhack's blog"
+  },
+  {
+    "name": "R4v3zn's Blog",
+    "link": "https://www.r4v3zn.com/",
+    "image": "https://www.r4v3zn.com/images/favicon-32x32-next.png",
+    "description": "R4v3zn's Blog"
+  },
+  {
+    "name": "雨苁",
+    "link": "https://www.ddosi.org/",
+    "image": "https://dh.aabyss.cn/img/yucong.png",
+    "description": "雨苁博客"
+  },
+  {
+    "name": "阿浪的小破站",
+    "link": "https://blog.yunjianxx.com/",
+    "image": "https://dh.aabyss.cn/img/ExpLang.jpg",
+    "description": "我荒废的今日，正是昨日殒身之人祈求的明日！望诸君 共勉之."
+  },
+  {
+    "name": "JunBlog",
+    "link": "https://blog.mo60.cn/",
+    "image": "https://blog.mo60.cn/portrait.php",
+    "description": "喜欢交朋友，也喜欢交流"
+  },
+  {
+    "name": "One-Fox安全团队",
+    "link": "https://www.one-fox.cn/",
+    "image": "https://www.one-fox.cn/sec/images/favicon.ico",
+    "description": "One-Fox安全团队"
+  },
+  {
+    "name": "悬镜安全实验室",
+    "link": "https://www.xmirror.cn",
+    "image": "https://www.xmirror.cn/static/images/logo-xj-32x32.ico",
+    "description": "追求技术安全"
+  },
+  {
+    "name": "网络尖刀",
+    "link": "https://www.1aq.com/",
+    "image": "https://www.1aq.com/favicon.ico",
+    "description": "网络尖刀（1AQ TEAM）"
+  },
+  {
+    "name": "WgpSec",
+    "link": "https://www.wgpsec.org/",
+    "image": "https://www.wgpsec.org/favicon.ico",
+    "description": "狼组安全团队"
+  },
+  {
+    "name": "Hawoo SecLab",
+    "link": "http://www.hawoo.net/",
+    "image": "https://dh.aabyss.cn/img/hawoo.ico",
+    "description": "汉武安全实验室"
+  },
+  {
+    "name": "RadeBit",
+    "link": "http://www.radebit.com/",
+    "image": "https://dh.aabyss.cn/img/RadeBit.png",
+    "description": "瑞安全"
+  },
+  {
+    "name": "Timeline Sec",
+    "link": "http://www.timelinesec.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Timeline Sec团队"
+  },
+  {
+    "name": "Tide安全团队",
+    "link": "https://tidesec.com/",
+    "image": "https://tidesec.com/img/tide.ico",
+    "description": "Tide安全团队"
+  },
+  {
+    "name": "米斯特安全团队",
+    "link": "http://www.acmesec.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "米斯特安全团队"
+  },
+  {
+    "name": "星盟安全团队",
+    "link": "http://www.xmcve.com/",
+    "image": "https://dh.aabyss.cn/img/xingmeng.png",
+    "description": "Star Alliance SECURITY TEAM"
+  },
+  {
+    "name": "渊龙Sec安全团队",
+    "link": "https://www.aabyss.cn",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "为国之安全而奋斗，为信息安全而发声！"
+  },
+  {
+    "name": "NGC660安全实验室",
+    "link": "https://ngc660.com/",
+    "image": "https://dh.aabyss.cn/img/ngc660.png",
+    "description": "NGC660安全实验室"
+  },
+  {
+    "name": "吾爱破解论坛",
+    "link": "https://www.52pojie.cn/",
+    "image": "https://www.52pojie.cn/favicon.ico",
+    "description": "致力于软件安全与病毒分析的前沿"
+  },
+  {
+    "name": "卡饭论坛",
+    "link": "https://bbs.kafan.cn/",
+    "image": "https://bbs.kafan.cn/favicon.ico",
+    "description": "第三方综合性安全软件交流社区"
+  },
+  {
+    "name": "火绒安全论坛",
+    "link": "https://bbs.huorong.cn/",
+    "image": "https://bbs.huorong.cn/favicon.ico",
+    "description": "火绒安全官方论坛"
+  },
+  {
+    "name": "逆向未来",
+    "link": "https://www.pd521.com/",
+    "image": "https://www.pd521.com/favicon.ico",
+    "description": "逆向未来"
+  },
+  {
+    "name": "飘云阁",
+    "link": "https://www.chinapyg.com/",
+    "image": "https://www.chinapyg.com/favicon.ico",
+    "description": "飘云阁"
+  },
+  {
+    "name": "睿论坛",
+    "link": "https://iosre.com/",
+    "image": "https://cdn.iosre.com/uploads/default/optimized/2X/e/e67147ecd54bec34d43c3c79411e9be8ebd08109_2_32x32.png",
+    "description": "互联网人的罗马广场"
+  },
+  {
+    "name": "Infosec Exchange",
+    "link": "https://infosec.exchange/",
+    "image": "https://dh.aabyss.cn/img/infosec.ico",
+    "description": "是由 Mastodon 驱动的去中心化社交网络的一部分"
+  },
+  {
+    "name": "andika",
+    "link": "https://andika-here.medium.com/",
+    "image": "https://dh.aabyss.cn/img/andika.png",
+    "description": "andika - Medium"
+  },
+  {
+    "name": "Security Intelligence",
+    "link": "https://securityintelligence.com",
+    "image": "https://dh.aabyss.cn/img/SecurityIntelligence.ico",
+    "description": "Cybersecurity Analysis & Insight"
+  },
+  {
+    "name": "Exploit.IN",
+    "link": "https://forum.exploit.in/",
+    "image": "https://dh.aabyss.cn/img/exploit.in.ico",
+    "description": "Exploit.IN Forum"
+  },
+  {
+    "name": "Hack Forums",
+    "link": "https://hackforums.net/",
+    "image": "https://dh.aabyss.cn/img/hackforums.ico",
+    "description": "Hack Forums"
+  },
+  {
+    "name": "ANTICHAT",
+    "link": "https://forum.antichat.com/",
+    "image": "https://dh.aabyss.cn/img/antichat.png",
+    "description": "Security online community"
+  },
+  {
+    "name": "0x00sec",
+    "link": "https://0x00sec.org/",
+    "image": "https://dh.aabyss.cn/img/0x00sec.png",
+    "description": "The Home of the Hacker"
+  },
+  {
+    "name": "FuzzySecurity",
+    "link": "https://fuzzysecurity.com/",
+    "image": "https://dh.aabyss.cn/img/FuzzySecurity.ico",
+    "description": "FuzzySecurity"
+  },
+  {
+    "name": "Exetools",
+    "link": "https://forum.exetools.com/",
+    "image": "https://dh.aabyss.cn/img/exetools.ico",
+    "description": "Exetools - Powered by vBulletin"
+  },
+  {
+    "name": "Tuts 4 You",
+    "link": "https://forum.tuts4you.com/",
+    "image": "https://dh.aabyss.cn/img/tuts4you.ico",
+    "description": "Tuts 4 You Forums"
+  },
+  {
+    "name": "R0 CREW",
+    "link": "https://forum.reverse4you.org/",
+    "image": "https://dh.aabyss.cn/img/R0_CREW.png",
+    "description": "R0 CREW - The Best Community Ever =)"
+  },
+  {
+    "name": "Security Tube",
+    "link": "http://www.securitytube.net/",
+    "image": "https://dh.aabyss.cn/img/securitytube.ico",
+    "description": "SecurityTube.net"
+  },
+  {
+    "name": "blackMORE Ops",
+    "link": "https://www.blackmoreops.com/",
+    "image": "https://dh.aabyss.cn/img/blackmoreops.ico",
+    "description": "Linux, InfoSec, Hacking - blackMORE Ops"
+  },
+  {
+    "name": "BreachForums",
+    "link": "https://breached.vc/",
+    "image": "https://dh.aabyss.cn/img/BF.png",
+    "description": "臭名昭著的冲突论坛"
+  },
+  {
+    "name": "Netlas",
+    "link": "https://netlas.io/",
+    "image": "https://dh.aabyss.cn/img/netlas.ico",
+    "description": "Netlas"
+  },
+  {
+    "name": "钟馗之眼",
+    "link": "https://www.zoomeye.org/",
+    "image": "https://dh.aabyss.cn/img/zhongkui.ico",
+    "description": "知道创宇开发的全球网络资产绘测"
+  },
+  {
+    "name": "360Quake",
+    "link": "https://quake.360.cn/",
+    "image": "https://quake.360.cn/quake/static/welcome/favicon.ico",
+    "description": "360网络空间测绘-因为看见，所以安全"
+  },
+  {
+    "name": "鹰图平台",
+    "link": "https://hunter.qianxin.com/",
+    "image": "https://hunter.qianxin.com/geagle/static/favicon.ico",
+    "description": "奇安信网络空间测绘鹰图平台"
+  },
+  {
+    "name": "Fofa",
+    "link": "https://fofa.info/",
+    "image": "https://dh.aabyss.cn/img/FOFA.ico",
+    "description": "白帽汇推出的网络空间资产搜索引擎"
+  },
+  {
+    "name": "Shodan",
+    "link": "https://www.shodan.io/",
+    "image": "https://static.shodan.io/shodan/img/favicon.png",
+    "description": "Shodan Search"
+  },
+  {
+    "name": "Censys",
+    "link": "https://search.censys.io/",
+    "image": "https://search.censys.io/static/img/favicon.ico",
+    "description": "一款洞察互联网秘密的新型搜索引擎"
+  },
+  {
+    "name": "全球DNS搜索引擎",
+    "link": "https://dnsdb.io/zh-cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "全球DNS搜索引擎"
+  },
+  {
+    "name": "BinaryEdge",
+    "link": "https://www.binaryedge.io/",
+    "image": "https://dh.aabyss.cn/img/binaryedge.png",
+    "description": "针对全网范围扫描资产"
+  },
+  {
+    "name": "GreyNoise",
+    "link": "https://www.greynoise.io/blog",
+    "image": "https://dh.aabyss.cn/img/greynoise.png",
+    "description": "资产测绘引擎"
+  },
+  {
+    "name": "Project Sonar",
+    "link": "https://opendata.rapid7.com/",
+    "image": "https://dh.aabyss.cn/img/rapid7.ico",
+    "description": "搜集公网数据并分析"
+  },
+  {
+    "name": "FullHunt",
+    "link": "https://fullhunt.io/",
+    "image": "https://dh.aabyss.cn/img/fullhunt.ico",
+    "description": "互联网攻击面数据库"
+  },
+  {
+    "name": "LeakIX",
+    "link": "https://leakix.net",
+    "image": "https://dh.aabyss.cn/img/LeakIX.png",
+    "description": "LeakIX"
+  },
+  {
+    "name": "Criminal IP",
+    "link": "https://www.criminalip.io",
+    "image": "https://dh.aabyss.cn/img/CriminalIP.ico",
+    "description": "Cybersecurity Search Engine | Criminal IP"
+  },
+  {
+    "name": "PublicWWW",
+    "link": "https://publicwww.com/",
+    "image": "https://dh.aabyss.cn/img/publicwww.png",
+    "description": "Source Code Search Engine"
+  },
+  {
+    "name": "IVRE",
+    "link": "https://ivre.rocks/",
+    "image": "https://dh.aabyss.cn/img/ivre.png",
+    "description": "Network recon"
+  },
+  {
+    "name": "零零信安",
+    "link": "https://0.zone/",
+    "image": "https://0.zone/favicon.png",
+    "description": "00SEC-ASM 零零信安攻击面管理系统"
+  },
+  {
+    "name": "网络设备默认口令查询",
+    "link": "https://www.shentoushi.top/av/",
+    "image": "https://www.shentoushi.top/av/favicon.ico",
+    "description": "提权|杀软|默认口令|辅助工具的集合"
+  },
+  {
+    "name": "RedTeam And Command",
+    "link": "https://book.shentoushi.top/",
+    "image": "https://book.shentoushi.top/favicon.svg",
+    "description": "系统命令Wiki"
+  },
+  {
+    "name": "凌星阁",
+    "link": "https://sec.lintstar.top/",
+    "image": "https://sec.lintstar.top/static/favicon.ico",
+    "description": "凌星阁"
+  },
+  {
+    "name": "Windows提权辅助",
+    "link": "https://i.hacking8.com/tiquan",
+    "image": "https://i.hacking8.com/static/favicon.ico",
+    "description": "Windows提权辅助工具"
+  },
+  {
+    "name": "Reverse shell",
+    "link": "https://www.shentoushi.top/tools/misc/reverse_shell.php",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Reverse shell cheatsheet"
+  },
+  {
+    "name": "Reverse Shell",
+    "link": "https://www.revshells.com/",
+    "image": "https://www.revshells.com/favicon.442ac9e8.ico",
+    "description": "Reverse Shell Generator"
+  },
+  {
+    "name": "URLhaus",
+    "link": "https://urlhaus.abuse.ch/browse/",
+    "image": "https://dh.aabyss.cn/img/malwarebazaar.ico",
+    "description": "URLhaus Database"
+  },
+  {
+    "name": "Pinatahub",
+    "link": "https://pinatahub.incognita.tech/",
+    "image": "https://dh.aabyss.cn/img/pinata-retina.png",
+    "description": "Github 敏感信息搜索引擎"
+  },
+  {
+    "name": "Hunter",
+    "link": "https://hunter.io/",
+    "image": "https://dh.aabyss.cn/img/hunter.io.png",
+    "description": "电子邮件搜寻工具"
+  },
+  {
+    "name": "微步情报社区",
+    "link": "https://x.threatbook.com/",
+    "image": "https://x.threatbook.cn/favicon.ico",
+    "description": "微步在线X情报社区"
+  },
+  {
+    "name": "安恒威胁分析平台",
+    "link": "https://ti.dbappsecurity.com.cn/",
+    "image": "https://ti.dbappsecurity.com.cn/favicon.ico",
+    "description": "安恒威胁情报中心"
+  },
+  {
+    "name": "360威胁情报中心",
+    "link": "https://ti.360.com/",
+    "image": "https://ti.360.com/favicon.ico",
+    "description": "360威胁情报中心"
+  },
+  {
+    "name": "奇安信威胁情报中心",
+    "link": "https://ti.qianxin.com/",
+    "image": "https://ti.qianxin.com/microapps/portal-ti/static/assets/favicon.ico",
+    "description": "奇安信威胁情报中心"
+  },
+  {
+    "name": "RedQueen",
+    "link": "https://redqueen.tj-un.com/",
+    "image": "https://redqueen.tj-un.com/Images/favicon.png",
+    "description": "RedQueen安全智能服务平台"
+  },
+  {
+    "name": "安全应急资源库",
+    "link": "https://www.cnsrc.org.cn/",
+    "image": "https://www.cnsrc.org.cn/favicon.ico",
+    "description": "CNSRC - 安全应急响应"
+  },
+  {
+    "name": "BadIP",
+    "link": "http://badip.com/",
+    "image": "https://dh.aabyss.cn/img/BadIP.ico",
+    "description": "全球网络威胁动态狩猎系统"
+  },
+  {
+    "name": "深信服威胁情报中心",
+    "link": "https://ti.sangfor.com.cn",
+    "image": "https://ti.sangfor.com.cn/static/img/logo_icon.ec146db.png",
+    "description": "深信服威胁情报中心"
+  },
+  {
+    "name": "安全星图平台",
+    "link": "https://ti.dbappsecurity.com.cn/",
+    "image": "https://ti.dbappsecurity.com.cn/favicon.png",
+    "description": "安恒-安全数据分析"
+  },
+  {
+    "name": "HFish",
+    "link": "https://hfish.io",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "安全、简单、有效的蜜罐平台"
+  },
+  {
+    "name": "Lyzem",
+    "link": "https://lyzem.com/",
+    "image": "https://lyzem.com/favicon.ico",
+    "description": "Lyzem是一个针对telegram的搜索引擎"
+  },
+  {
+    "name": "VoidSec",
+    "link": "https://ip.voidsec.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "WebRTC真实IP在线探测"
+  },
+  {
+    "name": "国家计算机病毒应急处理中心",
+    "link": "https://www.cverc.org.cn/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "CVERC"
+  },
+  {
+    "name": "Microsoft Defender",
+    "link": "https://ti.defender.microsoft.com/",
+    "image": "https://ti.defender.microsoft.com/static/mdti/assets/dti_64.png",
+    "description": "Microsoft Defender Threat Intelligence"
+  },
+  {
+    "name": "IBM X-Force",
+    "link": "https://exchange.xforce.ibmcloud.com/",
+    "image": "https://dh.aabyss.cn/img/xforce.png",
+    "description": "IBM X-Force Exchange"
+  },
+  {
+    "name": "VIP 漏洞情报中心",
+    "link": "https://vip.riskivy.com/",
+    "image": "https://vip.riskivy.com/favicon.ico",
+    "description": "斗象科技 VIP漏洞情报"
+  },
+  {
+    "name": "无胁漏洞情报中心",
+    "link": "https://tvd.wuthreat.com/",
+    "image": "https://tvd.wuthreat.com/favicon-2.ico",
+    "description": "无胁科技漏洞情报中心"
+  },
+  {
+    "name": "InQues-Labs",
+    "link": "https://labs.inquest.net/",
+    "image": "https://dh.aabyss.cn/img/inquest.ico",
+    "description": "InQuest.net"
+  },
+  {
+    "name": "MalShare",
+    "link": "https://malshare.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "MalShare"
+  },
+  {
+    "name": "MalwareBazaar",
+    "link": "https://bazaar.abuse.ch/browse/",
+    "image": "https://dh.aabyss.cn/img/malwarebazaar.ico",
+    "description": "Browse malware samples"
+  },
+  {
+    "name": "PolySwarm",
+    "link": "https://polyswarm.network/",
+    "image": "https://dh.aabyss.cn/img/PolySwarm.ico",
+    "description": "Crowdsourced threat detection"
+  },
+  {
+    "name": "YOMI",
+    "link": "https://yomi.yoroi.company/upload",
+    "image": "https://dh.aabyss.cn/img/YOMI.ico",
+    "description": "YOMI"
+  },
+  {
+    "name": "阿里伏魔引擎",
+    "link": "https://xz.aliyun.com/zues",
+    "image": "https://dh.aabyss.cn/img/fumo.ico",
+    "description": "伏魔Webshell检测引擎"
+  },
+  {
+    "name": "WEBDIR+",
+    "link": "https://scanner.baidu.com/",
+    "image": "https://scanner.baidu.com/favicon.ico",
+    "description": "百度Webshell检测引擎"
+  },
+  {
+    "name": "牧云Webshell检测",
+    "link": "https://stack.chaitin.com/security-challenge/webshell/index",
+    "image": "https://stack.chaitin.com/favicon.ico",
+    "description": "牧云Webshell检测引擎社区版"
+  },
+  {
+    "name": "AntiScan",
+    "link": "https://antiscan.me/",
+    "image": "https://antiscan.me/favicon.ico",
+    "description": "国外不上报查杀引擎"
+  },
+  {
+    "name": "TideBypass",
+    "link": "http://bypass.tidesec.com/",
+    "image": "https://dh.aabyss.cn/img/TideBypass.ico",
+    "description": "潮影在线免杀平台"
+  },
+  {
+    "name": "安恒威胁分析平台",
+    "link": "https://ti.dbappsecurity.com.cn/",
+    "image": "https://ti.dbappsecurity.com.cn/favicon.ico",
+    "description": "安恒威胁情报中心"
+  },
+  {
+    "name": "D盾",
+    "link": "http://www.d99net.net/",
+    "image": "https://www.d99net.net/favicon.ico",
+    "description": "D盾防火墙"
+  },
+  {
+    "name": "安全狗",
+    "link": "http://free.safedog.cn/website_safedog.html",
+    "image": "https://www.safedog.cn/images/safedog2020/footer_logo.png",
+    "description": "网站安全狗"
+  },
+  {
+    "name": "安全应急资源库",
+    "link": "https://www.cnsrc.org.cn/",
+    "image": "https://www.cnsrc.org.cn/favicon.ico",
+    "description": "CNSRC - 安全应急响应"
+  },
+  {
+    "name": "微步在线云沙箱",
+    "link": "https://s.threatbook.com/",
+    "image": "https://s.threatbook.com/favicon.ico",
+    "description": "微步-文件在线分析"
+  },
+  {
+    "name": "VirusTotal",
+    "link": "https://www.virustotal.com/gui/home/upload",
+    "image": "https://www.virustotal.com/gui/images/favicon.png",
+    "description": "大名鼎鼎的VT"
+  },
+  {
+    "name": "腾讯哈勃分析系统",
+    "link": "https://habo.qq.com/",
+    "image": "https://habo.qq.com/favicon.ico",
+    "description": "腾讯哈勃分析系统"
+  },
+  {
+    "name": "腾讯手机查毒",
+    "link": "https://m.qq.com/security_lab/scans_online.jsp",
+    "image": "https://dh.aabyss.cn/img/tx.jpg",
+    "description": "腾讯安全管家在线查毒系统"
+  },
+  {
+    "name": "三六零天御",
+    "link": "https://jiagu.360.cn/",
+    "image": "https://dh.aabyss.cn/img/3602.jpg",
+    "description": "需登录：企业移动应用安全检测"
+  },
+  {
+    "name": "VirSCAN",
+    "link": "https://www.virscan.org/",
+    "image": "https://www.virscan.org/favicon.ico",
+    "description": "多引擎在线病毒扫描"
+  },
+  {
+    "name": "SHELLPUB",
+    "link": "https://n.shellpub.com/",
+    "image": "https://n.shellpub.com/favicon.ico",
+    "description": "河马Webshell在线查杀"
+  },
+  {
+    "name": "ANY RUN",
+    "link": "https://app.any.run/",
+    "image": "https://dh.aabyss.cn/img/ANYRUN.ico",
+    "description": "交互式恶意软件分析沙盒服务"
+  },
+  {
+    "name": "安全星图平台",
+    "link": "https://ti.dbappsecurity.com.cn/",
+    "image": "https://ti.dbappsecurity.com.cn/favicon.png",
+    "description": "安恒-安全数据分析"
+  },
+  {
+    "name": "Webshell免杀手册",
+    "link": "https://github.com/AabyssZG/WebShell-Bypass-Guide",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "PHP从零学习到Webshell免杀手册"
+  },
+  {
+    "name": "奇安信情报沙箱",
+    "link": "https://sandbox.ti.qianxin.com/",
+    "image": "https://sandbox.ti.qianxin.com/static/assets/360.ico",
+    "description": "奇安信情报沙箱"
+  },
+  {
+    "name": "未知威胁文件检测系统",
+    "link": "https://scan.anxinsec.com/",
+    "image": "https://scan.anxinsec.com/favicon.ico",
+    "description": "未知威胁文件检测系统"
+  },
+  {
+    "name": "阿里云恶意文件检测平台",
+    "link": "https://ti.aliyun.com",
+    "image": "http://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+    "description": "专注于技术分享、安全能力输出"
+  },
+  {
+    "name": "Valkyrie",
+    "link": "https://valkyrie.comodo.com/",
+    "image": "https://dh.aabyss.cn/img/valkyrie.ico",
+    "description": "Advanced File Analysis System"
+  },
+  {
+    "name": "IObit",
+    "link": "https://cloud.iobit.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "IObit Cloud"
+  },
+  {
+    "name": "Joe Sandbox",
+    "link": "https://www.joesandbox.com/",
+    "image": "https://dh.aabyss.cn/img/JoeSandbox.ico",
+    "description": "Automated Malware Analysis"
+  },
+  {
+    "name": "360沙箱云",
+    "link": "https://ata.360.net/",
+    "image": "https://ata.360.net/favicon.ico",
+    "description": "360沙箱云"
+  },
+  {
+    "name": "Triage",
+    "link": "https://tria.ge/",
+    "image": "https://dh.aabyss.cn/img/triage.ico",
+    "description": "Triage文件分析"
+  },
+  {
+    "name": "CAPE",
+    "link": "https://capesandbox.com/",
+    "image": "https://dh.aabyss.cn/img/cape.png",
+    "description": "CAPE Sandbox"
+  },
+  {
+    "name": "Falcon Sandbox",
+    "link": "https://www.hybrid-analysis.com/",
+    "image": "https://dh.aabyss.cn/img/falcon.ico",
+    "description": "Free Automated Malware Analysis Service"
+  },
+  {
+    "name": "源码搜索",
+    "link": "https://searchcode.com/",
+    "image": "https://dh.aabyss.cn/img/searchcode_logo.png",
+    "description": "在线源代码搜索"
+  },
+  {
+    "name": "Online V",
+    "link": "https://hackertarget.com/",
+    "image": "https://hackertarget.com/favicon.ico",
+    "description": "漏洞在线检测"
+  },
+  {
+    "name": "Dnsdb",
+    "link": "https://dnsdb.io/zh-cn/",
+    "image": "https://dh.aabyss.cn/img/Dnsdb.png",
+    "description": "提供DNS快速查询和反查功能"
+  },
+  {
+    "name": "PhoneBook",
+    "link": "https://phonebook.cz/",
+    "image": "https://intelx.io/favicon.ico",
+    "description": "例举所有的域名，邮件地址"
+  },
+  {
+    "name": "PublicWWW",
+    "link": "https://publicwww.com/",
+    "image": "https://dh.aabyss.cn/img/publicwww.png",
+    "description": "Source Code Search Engine"
+  },
+  {
+    "name": "云悉",
+    "link": "http://www.yunsee.cn/",
+    "image": "https://dh.aabyss.cn/img/yx.jpg",
+    "description": "在线CMS指纹识别，资产梳理"
+  },
+  {
+    "name": "潮汐指纹识别",
+    "link": "http://finger.tidesec.net/",
+    "image": "https://dh.aabyss.cn/img/chaoxi.ico",
+    "description": "TideFinger 潮汐指纹"
+  },
+  {
+    "name": "SSL/TLS安全评估",
+    "link": "https://myssl.com/",
+    "image": "https://myssl.com/favicon.ico",
+    "description": "SSL证书安全在线检测"
+  },
+  {
+    "name": "WhatCMS",
+    "link": "https://whatcms.org/",
+    "image": "https://whatcms.org/themes/what_bootstrap4/favicon.ico",
+    "description": "What CMS Is This Site Using?"
+  },
+  {
+    "name": "17ce",
+    "link": "https://www.17ce.com/",
+    "image": "https://www.17ce.com/favicon.ico",
+    "description": "网站DNS/CDN查询"
+  },
+  {
+    "name": "Online V",
+    "link": "https://hackertarget.com/",
+    "image": "https://hackertarget.com/favicon.ico",
+    "description": "漏洞在线检测"
+  },
+  {
+    "name": "Dnsdb",
+    "link": "https://dnsdb.io/zh-cn/",
+    "image": "https://dh.aabyss.cn/img/Dnsdb.png",
+    "description": "提供DNS快速查询和反查功能"
+  },
+  {
+    "name": "Pinatahub",
+    "link": "https://pinatahub.incognita.tech/",
+    "image": "https://dh.aabyss.cn/img/pinata-retina.png",
+    "description": "Github 敏感信息搜索引擎"
+  },
+  {
+    "name": "SCANS.IO",
+    "link": "https://scans.io/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Stanford Internet Research Data Repository"
+  },
+  {
+    "name": "全球CDN查询",
+    "link": "https://tools.ipip.net/cdn.php",
+    "image": "https://tools.ipip.net/favicon.ico",
+    "description": "全球CDN服务商查询"
+  },
+  {
+    "name": "Namp Online",
+    "link": "http://nmap.online-domain-tools.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "在线Namp端口扫描"
+  },
+  {
+    "name": "DNSdump",
+    "link": "https://dnsdumpster.com/",
+    "image": "https://dnsdumpster.com/static/favicon.ico",
+    "description": "DNS记录在线查询"
+  },
+  {
+    "name": "ViewDNS",
+    "link": "https://viewdns.info/",
+    "image": "https://dh.aabyss.cn/img/viewdns.ico",
+    "description": "DNS记录多种查询"
+  },
+  {
+    "name": "微步在线情报分析",
+    "link": "https://x.threatbook.com/",
+    "image": "https://x.threatbook.cn/favicon.ico",
+    "description": "微步多功能在线情报分析"
+  },
+  {
+    "name": "17ce",
+    "link": "https://www.17ce.com/",
+    "image": "https://www.17ce.com/favicon.ico",
+    "description": "网站DNS/CDN查询"
+  },
+  {
+    "name": "SecurityTrails",
+    "link": "https://securitytrails.com/",
+    "image": "https://dh.aabyss.cn/img/securitytrails.ico",
+    "description": "网络资产DNS历史记录跟踪"
+  },
+  {
+    "name": "IP138",
+    "link": "https://www.ip138.com/",
+    "image": "https://www.ip138.com/favicon.ico",
+    "description": "IP信息在线查询"
+  },
+  {
+    "name": "Certificate Search",
+    "link": "https://crt.sh/",
+    "image": "https://crt.sh/favicon.ico",
+    "description": "SSL证书查询收集"
+  },
+  {
+    "name": "Fu4k USA",
+    "link": "https://www.log.d48e48337471993e.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "安全快速的Dns、Http、Rmi、Ldap Log平台"
+  },
+  {
+    "name": "DNSLog",
+    "link": "http://dnslog.cn/",
+    "image": "https://dh.aabyss.cn/img/dnslog.ico",
+    "description": "DNSLog Platform"
+  },
+  {
+    "name": "CEYE",
+    "link": "http://ceye.io/",
+    "image": "https://dh.aabyss.cn/img/ceye.ico",
+    "description": "Monitor service for security"
+  },
+  {
+    "name": "DNSLOG Platform",
+    "link": "https://dig.pm/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "dig.pm"
+  },
+  {
+    "name": "DDDD",
+    "link": "https://dddd.cam/",
+    "image": "https://dddd.cam/assets/images/favicon.ico",
+    "description": "Blind Command Injection tool"
+  },
+  {
+    "name": "CyberChef",
+    "link": "https://cyberchef.cn/",
+    "image": "https://dh.aabyss.cn/img/CyberChef.ico",
+    "description": "CyberChef"
+  },
+  {
+    "name": "在线编码解码",
+    "link": "https://govuln.com/tool/decoder/",
+    "image": "https://govuln.com/favicon.ico",
+    "description": "在线加密解密"
+  },
+  {
+    "name": "WebDeveloper",
+    "link": "https://payloads.online/tools/",
+    "image": "https://dh.aabyss.cn/img/webdevelop.ico",
+    "description": "WebDeveloper"
+  },
+  {
+    "name": "Xmd5",
+    "link": "http://www.xmd5.org/",
+    "image": "https://dh.aabyss.cn/img/xmd5.ico",
+    "description": "在线免费md5解密"
+  },
+  {
+    "name": "ChaMD5",
+    "link": "http://www.chamd5.org/",
+    "image": "http://www.chamd5.org/favicon.ico",
+    "description": "在线查询md5"
+  },
+  {
+    "name": "CMD5",
+    "link": "https://www.cmd5.com/",
+    "image": "https://www.cmd5.com/favicon.ico",
+    "description": "MD5在线加密解密"
+  },
+  {
+    "name": "Somd5",
+    "link": "https://www.somd5.com/",
+    "image": "https://www.somd5.com/favicon.ico",
+    "description": "解密让你无语的MD5"
+  },
+  {
+    "name": "Pmd5",
+    "link": "https://pmd5.com/",
+    "image": "https://pmd5.com/favicon.ico",
+    "description": "MD5在线解密"
+  },
+  {
+    "name": "Javascript Obfuscator",
+    "link": "https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx",
+    "image": "https://www.javascriptobfuscator.com/lock.ico",
+    "description": "超强JS加密"
+  },
+  {
+    "name": "Vigenere 求解器",
+    "link": "https://www.guballa.de/vigenere-solver",
+    "image": "https://dh.aabyss.cn/img/vigenere-solver.png",
+    "description": "维吉尼亚密码解密器"
+  },
+  {
+    "name": "在线哈希解密",
+    "link": "https://www.onlinehashcrack.com/",
+    "image": "https://dh.aabyss.cn/img/onlinehashcrack.ico",
+    "description": "Cloud Password Recovery Services"
+  },
+  {
+    "name": "查MD5啦",
+    "link": "https://cmd5.la/",
+    "image": "https://cmd5.la/img/fav.ico",
+    "description": "md5在线解密"
+  },
+  {
+    "name": "GPUHASH.me",
+    "link": "https://gpuhash.me/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "online WPA/WPA2 PMKID cracker"
+  },
+  {
+    "name": "Hunter",
+    "link": "https://hunter.io/",
+    "image": "https://dh.aabyss.cn/img/hunter.io.png",
+    "description": "电子邮件搜寻工具"
+  },
+  {
+    "name": "PhoneBook",
+    "link": "https://phonebook.cz/",
+    "image": "https://intelx.io/favicon.ico",
+    "description": "例举所有的域名，邮件地址"
+  },
+  {
+    "name": "OpenGps",
+    "link": "https://www.opengps.cn/",
+    "image": "https://www.opengps.cn/favicon.ico",
+    "description": "openGPS定位"
+  },
+  {
+    "name": "埃文科技",
+    "link": "https://www.ipplus360.com/",
+    "image": "https://www.ipplus360.com/img/logo21.ico",
+    "description": "高精度IP定位"
+  },
+  {
+    "name": "IPIP",
+    "link": "https://www.ipip.net/",
+    "image": "https://www.ipip.net/favicon.ico",
+    "description": "专业的IP地址库_IPIP.NET"
+  },
+  {
+    "name": "安全沙漏",
+    "link": "https://www.secsilo.com/",
+    "image": "https://www.secsilo.com/favicon.png",
+    "description": "专业的安全数据交流平台"
+  },
+  {
+    "name": "社会工程学密码生成器",
+    "link": "https://www.shentoushi.top/tools/distplus/index.html",
+    "image": "https://dh.aabyss.cn/img/dictplus.ico",
+    "description": "社会工程学密码生成器"
+  },
+  {
+    "name": "Have I Been Pwned",
+    "link": "https://haveibeenpwned.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "在线数据泄露查询"
+  },
+  {
+    "name": "Firefox Monitor",
+    "link": "https://monitor.firefox.com/",
+    "image": "https://monitor.firefox.com/favicon.ico",
+    "description": "FireFox数据泄露查询"
+  },
+  {
+    "name": "密码字典生成器",
+    "link": "https://www.bugku.com/mima/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "输入目标信息，猜测可能使用的密码"
+  },
+  {
+    "name": "Intelligence X",
+    "link": "https://intelx.io/",
+    "image": "https://intelx.io/favicon.ico",
+    "description": "敏感信息搜索引擎,支持虚拟货币地址追踪"
+  },
+  {
+    "name": "Instant Checkmate",
+    "link": "https://www.instantcheckmate.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "境外公共记录查询服务"
+  },
+  {
+    "name": "REG007",
+    "link": "https://www.reg007.com/",
+    "image": "https://www.reg007.com/favicon.ico",
+    "description": "在线查询注册过的网站"
+  },
+  {
+    "name": "企查查",
+    "link": "https://www.qcc.com/",
+    "image": "https://www.qcc.com/favicon.ico",
+    "description": "企业工商信息查询系统"
+  },
+  {
+    "name": "天眼查",
+    "link": "https://www.tianyancha.com/",
+    "image": "https://www.tianyancha.com/favicon.ico",
+    "description": "企业信息查询"
+  },
+  {
+    "name": "Redacted",
+    "link": "https://redacted.app/",
+    "image": "https://redacted.app/images/brand/icon-192.png",
+    "description": "在线图片马赛克"
+  },
+  {
+    "name": "Emkei's Fake Mailer",
+    "link": "https://emkei.cz/",
+    "image": "https://dh.aabyss.cn/img/emkei.ico",
+    "description": "Emkei在线伪造邮件"
+  },
+  {
+    "name": "Free Receive SMS Online",
+    "link": "https://getfreesmsnumber.com/",
+    "image": "https://getfreesmsnumber.com/favicon.ico",
+    "description": "免费国外手机接码平台"
+  },
+  {
+    "name": "有信云短信",
+    "link": "https://www.zusms.com/",
+    "image": "https://www.zusms.com/images/favicon.ico",
+    "description": "在线短信接收"
+  },
+  {
+    "name": "云短信",
+    "link": "https://yunduanxin.net/",
+    "image": "https://yunduanxin.net/favicon.ico",
+    "description": "免费接短信"
+  },
+  {
+    "name": "SMS-Activate",
+    "link": "https://sms-activate.org/cn",
+    "image": "https://sms-activate.org/favicon.ico",
+    "description": "超便宜好用的平台"
+  },
+  {
+    "name": "Guerrilla Mail",
+    "link": "https://www.guerrillamail.com/",
+    "image": "https://dh.aabyss.cn/img/guerrillamail.ico",
+    "description": "Disposable Temporary E-Mail Address"
+  },
+  {
+    "name": "Proton Mail",
+    "link": "https://proton.me/mail",
+    "image": "https://dh.aabyss.cn/img/protonmail.ico",
+    "description": "免费好用的匿名邮箱"
+  },
+  {
+    "name": "在线临时邮箱",
+    "link": "http://24mail.chacuo.net/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "十分钟邮箱"
+  },
+  {
+    "name": "10分钟邮箱",
+    "link": "https://rootsh.com/",
+    "image": "https://rootsh.com/static/favicon.ico",
+    "description": "10分钟邮箱"
+  },
+  {
+    "name": "PikPak",
+    "link": "https://mypikpak.com/",
+    "image": "https://dh.aabyss.cn/img/pikpak.png",
+    "description": "极速秒存的私密网盘"
+  },
+  {
+    "name": "MEGA",
+    "link": "https://mega.nz/",
+    "image": "https://dh.aabyss.cn/img/MEGA.ico",
+    "description": "国际匿名网盘"
+  },
+  {
+    "name": "anonfiles",
+    "link": "https://anonfiles.com/",
+    "image": "https://dh.aabyss.cn/img/anonfiles.png",
+    "description": "anonymous file upload"
+  },
+  {
+    "name": "渊龙Sec内部资料库",
+    "link": "https://pan.aabyss.cn",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "为国之安全而奋斗，为信息安全而发声！"
+  },
+  {
+    "name": "WgpSec PAN",
+    "link": "https://pan.wgpsec.org/",
+    "image": "https://www.wgpsec.org/favicon.ico",
+    "description": "WgpSec狼组资源网盘"
+  },
+  {
+    "name": "开源安全情报预警",
+    "link": "https://www.oscs1024.com/cm",
+    "image": "https://www.oscs1024.com/oscs.svg",
+    "description": "OSCS | 开源软件供应链安全"
+  },
+  {
+    "name": "SpringBoot-Scan",
+    "link": "https://github.com/AabyssZG/SpringBoot-Scan",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "针对SpringBoot的开源渗透框架"
+  },
+  {
+    "name": "SpringBoot-Scan-GUI",
+    "link": "https://github.com/13exp/SpringBoot-Scan-GUI",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "SpringBoot-Scan的图形化版"
+  },
+  {
+    "name": "ShiroExp",
+    "link": "https://github.com/safe6Sec/ShiroExp",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "shiro综合利用工具"
+  },
+  {
+    "name": "seeyon_exp",
+    "link": "https://github.com/Summer177/seeyon_exp",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "致远OA漏洞检查与利用工具"
+  },
+  {
+    "name": "Glass",
+    "link": "https://github.com/s7ckTeam/Glass",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "针对资产列表的快速指纹识别工具"
+  },
+  {
+    "name": "HaE",
+    "link": "https://github.com/gh0stkey/HaE",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "BurpSuite 请求高亮标记与信息提取插件"
+  },
+  {
+    "name": "FofaMap",
+    "link": "https://github.com/asaotomo/FofaMap",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "一款基于Python3开发的全流程漏扫"
+  },
+  {
+    "name": "CTF-Tools",
+    "link": "https://github.com/Aabyss-Team/CTF-Tools",
+    "image": "https://dh.aabyss.cn/favicon.ico",
+    "description": "渊龙Sec安全团队CTF&AWD工具包"
+  },
+  {
+    "name": "Yakit",
+    "link": "https://github.com/yaklang/yakit",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "交互式应用安全测试平台"
+  },
+  {
+    "name": "Fscan",
+    "link": "https://github.com/shadow1ng/fscan",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "一款内网综合扫描工具"
+  },
+  {
+    "name": "veinmind-tools",
+    "link": "https://github.com/chaitin/veinmind-tools",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "长亭科技自研打造的容器安全工具集"
+  },
+  {
+    "name": "Kunyu",
+    "link": "https://github.com/knownsec/Kunyu",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "更高效的企业资产收集"
+  },
+  {
+    "name": "scaninfo",
+    "link": "https://github.com/redtoolskobe/scaninfo",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "开源、轻量、快速、跨平台 的红队内外网打点扫描器"
+  },
+  {
+    "name": "AppShark",
+    "link": "https://github.com/bytedance/appshark",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "针对安卓的静态分析工具"
+  },
+  {
+    "name": "GShark",
+    "link": "https://github.com/madneal/gshark",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "开源敏感信息检测系统"
+  },
+  {
+    "name": "炫彩蛇",
+    "link": "https://github.com/FunnyWolf/Viper",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Viper是一款图形化内网渗透工具"
+  },
+  {
+    "name": "Pocsuite3",
+    "link": "https://github.com/knownsec/pocsuite3",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "404团队开发的开源远程漏洞测试和概念验证开发框架"
+  },
+  {
+    "name": "CDK",
+    "link": "https://github.com/cdk-team/CDK",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "容器环境定制的渗透测试工具"
+  },
+  {
+    "name": "404StarLink",
+    "link": "https://github.com/knownsec/404StarLink",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "404星链计划"
+  },
+  {
+    "name": "ARL",
+    "link": "https://github.com/TophantTechnology/ARL",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "资产侦察灯塔系统"
+  },
+  {
+    "name": "ENScan",
+    "link": "https://github.com/wgpsec/ENScan",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "企业信息查询工具"
+  },
+  {
+    "name": "f8x",
+    "link": "https://github.com/ffffffff0x/f8x",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "红/蓝队环境自动化部署工具"
+  },
+  {
+    "name": "As-Exploits",
+    "link": "https://github.com/yzddmr6/As-Exploits",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "中国蚁剑后渗透框架"
+  },
+  {
+    "name": "中国蚁剑",
+    "link": "https://github.com/AntSwordProject/antSword",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "开源的跨平台网站Webshell管理工具"
+  },
+  {
+    "name": "哥斯拉",
+    "link": "https://github.com/BeichenDream/Godzilla",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Godzilla Webshell管理工具"
+  },
+  {
+    "name": "冰蝎",
+    "link": "https://github.com/rebeyond/Behinder",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "“冰蝎”动态二进制加密网站管理工具"
+  },
+  {
+    "name": "WMIHACKER",
+    "link": "https://github.com/rootclay/WMIHACKER",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "免杀横向渗透远程命令执行工具"
+  },
+  {
+    "name": "MDUT",
+    "link": "https://github.com/SafeGroceryStore/MDUT",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "数据库跨平台利用工具"
+  },
+  {
+    "name": "CF",
+    "link": "https://github.com/teamssix/cf",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "云环境利用框架"
+  },
+  {
+    "name": "SqlMap",
+    "link": "https://github.com/sqlmapproject/sqlmap",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "自动化SQL注入工具"
+  },
+  {
+    "name": "Vulhub",
+    "link": "https://github.com/vulhub/vulhub",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "面向大众的开源漏洞靶场"
+  },
+  {
+    "name": "水泽",
+    "link": "https://github.com/0x727/ShuiZe_0x727",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "红队信息收集自动化工具"
+  },
+  {
+    "name": "awesome-rat",
+    "link": "https://github.com/alphaSeclab/awesome-rat",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "RAT And C&C Resources"
+  },
+  {
+    "name": "棱洞",
+    "link": "https://github.com/EdgeSecurityTeam/EHole",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "红队重点攻击系统指纹探测工具"
+  },
+  {
+    "name": "ecapture",
+    "link": "https://github.com/gojue/ecapture",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "capture SSL/TLS text content without CA cert Using eBPF"
+  },
+  {
+    "name": "XSS Probe",
+    "link": "https://github.com/evilcos/xssprobe",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "xss探针脚本，用于获取被跨页面的通用数据"
+  },
+  {
+    "name": "XSStrike",
+    "link": "https://github.com/s0md3v/XSStrike",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "智能XSS检测与开发套件"
+  },
+  {
+    "name": "IoT-vulhub",
+    "link": "https://github.com/VulnTotal-Team/IoT-vulhub",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "IoT固件漏洞复现环境"
+  },
+  {
+    "name": "Nuclei",
+    "link": "https://github.com/projectdiscovery/nuclei",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "基于YAML语法模板的定制化快速漏洞扫描器"
+  },
+  {
+    "name": "Webshell免杀手册",
+    "link": "https://github.com/AabyssZG/WebShell-Bypass-Guide",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "PHP从零学习到Webshell免杀手册"
+  },
+  {
+    "name": "CTF快速入门手册",
+    "link": "https://github.com/ProbiusOfficial/CTF-QuickStart",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "【推荐】CTF快速入门手册"
+  },
+  {
+    "name": "安全开源项目Wiki",
+    "link": "http://wiki.shentoushi.top/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "安全开源项目Wiki"
+  },
+  {
+    "name": "Bypass firewalls by abusing DNS history",
+    "link": "https://github.com/vincentcox/bypass-firewalls-by-DNS-history",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "Bypass firewalls by abusing DNS history"
+  },
+  {
+    "name": "SocialEngineeringDictionaryGenerator",
+    "link": "https://github.com/zgjx6/SocialEngineeringDictionaryGenerator",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "社会工程学密码生成器"
+  },
+  {
+    "name": "CBR-Doc",
+    "link": "https://github.com/WilsonHuha/cbr-doc/blob/master/posts/cc_sum.md",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "网安图书馆：文档"
+  },
+  {
+    "name": "Nuclei",
+    "link": "https://nuclei.projectdiscovery.io/",
+    "image": "https://nuclei.projectdiscovery.io/static/favicon.png",
+    "description": "基于YAML语法模板的定制化快速漏洞扫描器"
+  },
+  {
+    "name": "Kali",
+    "link": "https://www.kali.org/get-kali/",
+    "image": "https://www.kali.org/images/favicon.png",
+    "description": "Kali Linux"
+  },
+  {
+    "name": "Yak",
+    "link": "https://yaklang.com/",
+    "image": "https://yaklang.com/img/favicon.ico",
+    "description": "为网络安全而生的专属编程语言"
+  },
+  {
+    "name": "长亭百川云",
+    "link": "https://rivers.chaitin.cn/",
+    "image": "https://rivers.chaitin.cn/favicon.ico",
+    "description": "长亭对外开放的SaaS产品服务平台"
+  },
+  {
+    "name": "eBPF",
+    "link": "https://ecapture.cc/zh/",
+    "image": "https://ecapture.cc/assets/logo-300X300.9bc3cdb8.png",
+    "description": "无需CA证书即可捕获HTTPS/TLS明文数据包"
+  },
+  {
+    "name": "问脉",
+    "link": "https://veinmind.chaitin.com/docs/",
+    "image": "https://dinfinite.oss-cn-beijing.aliyuncs.com/image/20220428154824.png",
+    "description": "问脉Tools"
+  },
+  {
+    "name": "ProjectDiscovery",
+    "link": "https://projectdiscovery.io/",
+    "image": "https://projectdiscovery.io/fevicon.png",
+    "description": "ProjectDiscovery, Inc"
+  },
+  {
+    "name": "CobaltStrike",
+    "link": "https://www.cobaltstrike.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "Adversary Simulation and Red Team Operations"
+  },
+  {
+    "name": "BlackArch Linux",
+    "link": "https://blackarch.org/",
+    "image": "https://dh.aabyss.cn/img/black.ico",
+    "description": "基于Arch Linux的漏洞利用系统"
+  },
+  {
+    "name": "Goby",
+    "link": "https://gobysec.net/",
+    "image": "https://gobysec.net/favicon.ico",
+    "description": "Attack surface mapping"
+  },
+  {
+    "name": "Xray",
+    "link": "https://xray.cool/",
+    "image": "https://xray.cool/static/img/favicon.ico",
+    "description": "Xray 漏洞扫描器"
+  },
+  {
+    "name": "Nmap",
+    "link": "https://nmap.org/",
+    "image": "https://nmap.org/favicon.ico",
+    "description": "Nmap: the Network Mapper - Free Security Scanner"
+  },
+  {
+    "name": "Burp",
+    "link": "https://portswigger.net/",
+    "image": "https://dh.aabyss.cn/img/Burp.ico",
+    "description": "BurpSuite"
+  },
+  {
+    "name": "OpenAI",
+    "link": "https://chat.openai.com/auth/login",
+    "image": "https://dh.aabyss.cn/img/openai.png",
+    "description": "ChatGPT:优化对话的语言模型"
+  },
+  {
+    "name": "NewBing",
+    "link": "https://www.bing.com/new",
+    "image": "https://dh.aabyss.cn/img/NewBing.ico",
+    "description": "注:需要代理+清理Cookie才可进入"
+  },
+  {
+    "name": "文心一言",
+    "link": "https://yiyan.baidu.com/welcome",
+    "image": "https://dh.aabyss.cn/img/wenxin.ico",
+    "description": "百度全新一代知识增强大语言模型"
+  },
+  {
+    "name": "OpenPlayground",
+    "link": "https://nat.dev/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "大型语言模型在线对比/切换"
+  },
+  {
+    "name": "Bard AI",
+    "link": "https://bard.google.com/",
+    "image": "https://dh.aabyss.cn/img/GoogleBard.svg",
+    "description": "Google Bard AI"
+  },
+  {
+    "name": "通义千问",
+    "link": "https://tongyi.aliyun.com/",
+    "image": "https://img.alicdn.com/imgextra/i4/O1CN01c26iB51UyR3MKMFvk_!!6000000002586-2-tps-124-122.png",
+    "description": "阿里的通义千问，一个专门响应人类指令的大模型"
+  },
+  {
+    "name": "BestPrompts",
+    "link": "https://www.doustudy.com/h5/",
+    "image": "https://s.xxzai.cn/cdn/prompts-mobile/zt/0.svg",
+    "description": "ChatGPT指令大全-BestPrompts"
+  },
+  {
+    "name": "CVAT",
+    "link": "https://github.com/opencv/cvat",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "用于计算机视觉的免费在线交互式视频和图像标注工具"
+  },
+  {
+    "name": "faceswap",
+    "link": "https://github.com/deepfakes/faceswap",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "用深度学习来识别和交换图片和视频中的人脸的工具"
+  },
+  {
+    "name": "style2paints",
+    "link": "https://github.com/lllyasviel/style2paints",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "新一代的强大线稿上色 AI"
+  },
+  {
+    "name": "stargan-v2",
+    "link": "https://github.com/clovaai/stargan-v2",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "人脸属性替换"
+  },
+  {
+    "name": "deep-image-prior",
+    "link": "https://github.com/DmitryUlyanov/deep-image-prior",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "图像去水印及修复"
+  },
+  {
+    "name": "pulse",
+    "link": "https://github.com/adamian98/pulse",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "去除人脸马赛克"
+  },
+  {
+    "name": "VOR",
+    "link": "https://github.com/zllrunning/video-object-removal",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "移除视频中的物体/人物"
+  },
+  {
+    "name": "MockingBird",
+    "link": "https://github.com/babysor/MockingBird",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "AI拟声: 5秒内克隆您的声音并生成任意语音内容"
+  },
+  {
+    "name": "Uncaptcha",
+    "link": "https://github.com/ecthros/uncaptcha",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "依靠音频验证码攻击绕过reCAPTCHA的AI算法"
+  },
+  {
+    "name": "PaddleSpeech",
+    "link": "https://github.com/PaddlePaddle/PaddleSpeech/",
+    "image": "https://dh.aabyss.cn/img/github.ico",
+    "description": "基于飞桨的语音方向的开源模型库"
+  },
+  {
+    "name": "飞桨",
+    "link": "https://www.paddlepaddle.org.cn/",
+    "image": "https://dh.aabyss.cn/img/PaddlePaddle.png",
+    "description": "PaddlePaddle-开源深度学习平台"
+  },
+  {
+    "name": "百度AI开放平台",
+    "link": "https://ai.baidu.com/",
+    "image": "http://ai-public-console.cdn.bcebos.com/portal-pc-static/1677139916307/favicon-32.ico",
+    "description": "百度大脑AI开放平台"
+  },
+  {
+    "name": "矩池云",
+    "link": "https://www.matpool.com/",
+    "image": "https://www.matpool.com/fe-next/favicon.ico",
+    "description": "专注于人工智能领域的云服务商"
+  },
+  {
+    "name": "BitaHub",
+    "link": "https://www.bitahub.com/",
+    "image": "https://www.bitahub.com/favicon.ico",
+    "description": "提供快速构建、训练模型的能力"
+  },
+  {
+    "name": "Colab",
+    "link": "https://colab.research.google.com/",
+    "image": "https://dh.aabyss.cn/img/GoogleColab.ico",
+    "description": "Google Colab"
+  },
+  {
+    "name": "青云",
+    "link": "https://www.qingcloud.com/",
+    "image": "https://dh.aabyss.cn/img/QingCloud.ico",
+    "description": "青云QingCloud"
+  },
+  {
+    "name": "腾讯AI Lab",
+    "link": "https://ai.tencent.com/",
+    "image": "https://dh.aabyss.cn/title.jpg",
+    "description": "腾讯人工智能实验室官网"
+  },
+  {
+    "name": "iFLYTEK AI开发者大赛",
+    "link": "https://challenge.xfyun.cn/",
+    "image": "https://dh.aabyss.cn/img/kedaxunfei.ico",
+    "description": "讯飞开放平台"
+  },
+  {
+    "name": "AAAI",
+    "link": "https://aaai.org/",
+    "image": "https://dh.aabyss.cn/img/AAAI.png",
+    "description": "Association for the Advancement of Artificial Intelligence"
+  }
+]
