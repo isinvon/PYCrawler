@@ -7,7 +7,8 @@ import sys
 import os
 from tomlkit import item
 
-os.chdir(sys.path[0])  # 加上即可使用相对路径(解决相对路径问题)
+
+# os.chdir(sys.path[0])  # 加上即可使用相对路径(解决相对路径问题)
 # os.chdir() 方法用于改变当前工作目录到指定的路径。path-要切换到的新路径。
 
 # 发起GET请求获取网页内容

@@ -1,25 +1,29 @@
 # -*-coding:utf8-*-
-import os,sys
+import os
+import select
+import sys
 import re
 import json
 import time
 import bs4
 import pandas
 import requests
-from fake_useragent import UserAgent #随机请求头库
+from fake_useragent import UserAgent  # 随机请求头库
 from selenium import webdriver
 from msedge.selenium_tools import EdgeOptions  # 用于selenium无界面
 from msedge.selenium_tools import Edge
 from urllib import request  # 用于重定向
 from colorama import Fore
-import urllib 
+import urllib
 from collections import Counter  # 用于统计
 from prettytable import PrettyTable  # 美化表格的包
 from pathlib import Path
-os.chdir(sys.path[0]) # 加上即可使用相对路径(解决相对路径问题)
+
+os.chdir(sys.path[0])  # 加上即可使用相对路径(解决相对路径问题)
 # os.chdir() 方法用于改变当前工作目录到指定的路径。path-要切换到的新路径。
 
 # 从网络上获取大学排名网页内容。
+
 def getHTMLText(url):  # 获取URL信息，输出内容
     # =========================方式1获取=========================
     try:
@@ -29,7 +33,6 @@ def getHTMLText(url):  # 获取URL信息，输出内容
         return res.text  # 返回网页编码
     except Exception as err:
         print(err)
-
     # =========================方式2获取=========================
     try:
         req = urllib.request.Request(url)
@@ -38,6 +41,8 @@ def getHTMLText(url):  # 获取URL信息，输出内容
         return data
     except Exception as err:
         print(err)
+
+
 # 提取网页内容中信息到合适的数据结构.
 def fillUnivList(ulist, html):  # 将html页面放到ulist列表中(核心)
     # 解析网页文件（使用html解释器）
@@ -52,6 +57,8 @@ def fillUnivList(ulist, html):  # 将html页面放到ulist列表中(核心)
             ulist.append([tds[0].text.strip(), a[0].string.strip(), tds[2].text.strip(),
                           tds[3].text.strip(), tds[4].text.strip()])
             # 使用strip()函数，它的作用是用于移除字符串头尾指定的字符（默认为空格或换行符）或字符序列
+            
+            
 
 # 利用数据结构展示并输出结果:定义函数
 def printUnivList(ulist1, num):  # 打印出ulist列表的信息，num表示希望将列表中的多少个元素打印出来
@@ -63,14 +70,13 @@ def printUnivList(ulist1, num):  # 打印出ulist列表的信息，num表示希�
         print(tplt.format(u[0], u[1], u[2], u[3], u[4]))
 
 
-
-
 def main():
     uinfo = []  # 将大学信息放到列表中
     url = "https://www.shanghairanking.cn/rankings/bcur/2020"
     html = getHTMLText(url)
     fillUnivList(uinfo, html)
     printUnivList(uinfo, 30)  # 一个界面的数据
+
 
 
 if __name__ == '__main__':

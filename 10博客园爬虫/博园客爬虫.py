@@ -4,7 +4,9 @@ import sys
 import re
 import json
 import time
+from unittest import result
 import bs4
+from h11 import Data
 import pandas
 import urllib
 import requests
@@ -68,6 +70,7 @@ def get_info(page_start, page_end):
                   + "--------------------------")
             data.append([title, like, comment, look, author, link])
     return data
+
 
 
 if __name__ == '__main__':

@@ -13,8 +13,8 @@
     "https://json.schemastore.org/yamllint.json": "file:///d%3A/PYproject/PyCrawler/22%E7%88%AC%E5%8F%96%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6/vpnYaml%282023.05.288%29.yaml"
   },
   "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
-  "python.formatting.provider": "none",
+  "python.formatting.provider": "autopep8",
   "python.analysis.typeCheckingMode": "off"
 }
