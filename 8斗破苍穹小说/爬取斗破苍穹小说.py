@@ -30,7 +30,8 @@ def get_info(url):
 
 if __name__ == '__main__':
     # 构造多页url
-    urls = ["http://www.doupoxs.com/doupocangqiong/{}.html".format(str(i)) for i in range(1, 1637)]
+    urls = [
+        "http://www.doupoxs.com/doupocangqiong/{}.html".format(str(i)) for i in range(1, 1637)]
     # 新建txt文档,追加的方式
     f = open('doupo.txt', 'a+')
 

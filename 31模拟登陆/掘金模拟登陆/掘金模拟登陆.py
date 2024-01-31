@@ -41,8 +41,8 @@ class Imitatelogin:
     # 定义url, 账号, 密码, 验证码
     url = 'https://juejin.cn/'
     # url = 'https://juejin.cn/creator/home'  # 掘金创作者中心url
-    username = '15677141741'
-    password = 'linxinhuan123...'
+    username = ''
+    password = ''
     verifyCode = ''
 
     def selenium(self):  # 进行基础操作

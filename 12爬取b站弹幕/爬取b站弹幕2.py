@@ -16,7 +16,8 @@ url = f'http://comment.bilibili.com/328990210.xml'
 
 
 headers = {
-    "cookie": "buvid3=0AAC01A8-3B72-9EC0-5FE5-8EF31FC5B8EF04084infoc; b_nut=1677643404; CURRENT_FNVAL=4048; _uuid=47DCA8AA-4DC5-8616-B5AD-B81A62F2F59301715infoc; buvid4=997B36F3-736D-07F2-ECE8-9ABE682DE17484923-022032422-x4m6iybJgymEoDfZzX0SsA%3D%3D; rpdid=|(u)mYY)JkY|0J'uY~~YRJR|Y; i-wanna-go-back=-1; header_theme_version=CLOSE; nostalgia_conf=-1; buvid_fp_plain=undefined; LIVE_BUVID=AUTO3016778995947989; i-wanna-go-feeds=2; CURRENT_QUALITY=64; CURRENT_PID=54e74a00-cec0-11ed-85e8-a99369173808; DedeUserID=446423825; DedeUserID__ckMd5=44b4dac40b10cd65; b_ut=5; FEED_LIVE_VERSION=V8; SESSDATA=f05f091d%2C1696864838%2C55f14%2A41; bili_jct=f4b42dfae88858e692ae8331777aab4f; sid=65e0t1ji; fingerprint=8dbf2645293d180dbaaf2603b7579159; buvid_fp=755c74b02ff3a96fb9b68ab66148c68c; bp_video_offset_446423825=787821947188674600; PVID=1; home_feed_column=4; browser_resolution=1262-741; b_lsid=F4A2375C_187B254F432; innersign=1",
+    # 请填写登陆之后的cookie
+    "cookie": "",
     "origin": "https://www.bilibili.com",
     "referer": "https://www.bilibili.com/video/BV1C24y1F7VV/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=2cdefc492d9cb112d63498710feabcbd",
 }

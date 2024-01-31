@@ -4,7 +4,8 @@ os.chdir(sys.path[0]) # 加上即可使用相对路径(解决相对路径问题)
 # os.chdir() 方法用于改变当前工作目录到指定的路径。path-要切换到的新路径。
 
 headers = {
-    "user-agent":UserAgent().random
+    # 随机产生useagent
+    "user-agent": UserAgent().random
 }
 # 总站: https://ouotool.com/
 # 接口

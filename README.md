@@ -1,2 +1,5 @@
 # PYCrawler
-python爬虫
+
+python爬虫小工具
+
+by sinvon
